@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang = "lv">
+	<head>
+		<script>const  appversion = "2.101";//var v = new Date().valueOf(); // izmaiņu versija</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-MCXDLK2TNH"></script>
+		<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-MCXDLK2TNH");</script>
+		<link rel="icon" type="image/x-icon" href="favicon.ico">
+		<link rel="manifest" href="/manifest.json">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="copyright" content="diakons Dainis">
+		<meta name="description" content="Breviārs latviešu valodā">
+		<meta name="keywords" content="Breviārs, Stundu lūgšana, liturģija, Liturģiskais gads, laudes, vesperes, kompletorijs">
+		<title>Breviars</title>
+		<script>
+			const  v = appversion; // versija j;apamaina arī serviceworker.js
+			document.addEventListener("DOMContentLoaded", function(event) {
+				// Get HTML head element
+				var head = document.getElementsByTagName('HEAD')[0];
+				const cssList = ["style", "calendar"];
+				// Create new link Element
+				cssList.forEach(function(url) {
+					let link = document.createElement('link');
+					// set the attributes for link element 
+					link.rel = 'stylesheet'; link.type = 'text/css';
+					link.href = "css/" + url + ".css?v=" + v;
+					head.appendChild(link);
+					});
+
+				var js = document.querySelector("#scripts");
+				const jsList = ["himnas", "himnasLatin", "template_liturgy", "script", "pieminasdienas", "standartabloki", "komplet", "lugsana_pll_sv", "psalmi", "parastais", "officium", "advents", "ziemassvetki", "gavenis", "lieldienas", "festum",   "tools", "liturgiskaisgads", "calendar"]; //"himnas", "tools", "liturgiskaisgads", "calendar"];
+				jsList.forEach(function(url) {
+					let script = document.createElement('script');
+					
+					script.src = "js/" + url + ".js?v=" + v;
+					script.async = false;
+					js.appendChild(script);					
+					});
+			});
+		</script>
+		
+<!-- APP -->
+<!-- Your web app content -->
+  <button id="install-button" style="display: none;">Instalēt aplikāciju</button>
+  <script>
+		if ('serviceWorker' in navigator) {
+			window.addEventListener('load', function() {
+				navigator.serviceWorker.register('/service-worker.js')
+					.then(function(registration) {
+						console.log('Service Worker registered with scope:', registration.scope);
+
+						// Listen for updates to the service worker.
+						registration.onupdatefound = function() {
+							const installingWorker = registration.installing;
+							installingWorker.onstatechange = function() {
+								if (installingWorker.state === 'installed') {
+									if (navigator.serviceWorker.controller) {
+										// New update available
+										console.log('New content is available; please refresh.');
+										showUpdateNotification();
+									} else {
+										// Content is cached for offline use.
+										console.log('Content is cached for offline use.');
+									}
+								}
+							};
+						};
+					}).catch(function(error) {
+						console.log('Service Worker registration failed:', error);
+					});
+
+				// Check if the app is already installed
+				if (window.matchMedia('(display-mode: standalone)').matches) {
+					hideInstallButton();
+				}
+
+				// Listen for the beforeinstallprompt event
+				let deferredPrompt;
+				window.addEventListener('beforeinstallprompt', (e) => {
+					e.preventDefault();
+					deferredPrompt = e;
+					showInstallButton();
+					document.getElementById('install-button').addEventListener('click', () => {
+						hideInstallButton();
+						deferredPrompt.prompt();
+						deferredPrompt.userChoice.then((choiceResult) => {
+							if (choiceResult.outcome === 'accepted') {
+								console.log('User accepted the install prompt');
+							} else {
+								console.log('User dismissed the install prompt');
+							}
+							deferredPrompt = null;
+						});
+					});
+				});
+
+				function showInstallButton() {
+					const installButton = document.getElementById('install-button');
+					installButton.style.display = 'block';
+				}
+
+				function hideInstallButton() {
+					const installButton = document.getElementById('install-button');
+					installButton.style.display = 'none';
+				}
+
+				function showUpdateNotification() {
+					const notification = document.createElement('div');
+					notification.innerHTML = '<div style="position: fixed; top: 0; width: 100%; background: #fff; color: #000; padding: 10px; text-align: center; box-shadow: 0 -2px 5px rgba(0,0,0,0.3); z-index: 1000;">Pieejama jaunāka versija. <button  class="reload" onclick="window.location.reload()">Atjaunot!</button><br>Pēc tam aizver un atver pārlūku.</div>';
+					document.body.appendChild(notification);
+					
+				    // Nodrošinām, ka tas tiek pievienots pēc lapas ielādes
+					window.addEventListener('load', () => {
+						document.body.appendChild(notification);
+					});
+				}
+
+				
+			});
+		}
+  </script>
+		
+	 </head>
+	 
+	 <body>
+
+	 <div id="main">
+	 	<div class="maincontainer">
+			<div id="liturgiskakrasabaneris" class="logobar">
+				<div id = "notify" style="float: right;"></div>
+				<div class="logo">
+					<p><img class="logo" src="img/Logo_Gold_200.png" alt="breviars stundu liturgija">
+					 <span id="apptitle">reviārs</span></p>
+					<p id="liturgsvetki" class="dienaID"><img src='img/Cube-loading.svg' alt="liturgiskais gads"></p>
+					<p id="datums" class="datums">.</p>
+					<!-- <p id="altKrasa" class="litsarkans"></p> -->
+				</div>
+			</div>
+			<div id="bannerborder"></div>
+
+			<div class="centretsbloks">
+				<h2>STUNDU LITURĢIJA</h2>
+				<p style="font-size: 50%; line-height: 100%;">
+				Laudes 6.00-9.00 Dienas vidus 9.00-18.00 Vesperes 18.00-21.00 Kompletorijs 21.00-24.00
+				<br>Trešā 9.00-12.00 Sestā 12.00-15.00 Devītā 15.00-18.00
+				<!--         <br> (Laudes I-III; vesperes XII-XV; kompletorijs I.nakts sardze) -->
+				</p>
+				<button type="button" id="laudespoga" class="stundupoga">Laudes</button>
+				<button type="button" id="dienaspoga" class="stundupoga">Dienas vidus</button>
+				<button type="button" id="vesperespoga" class="stundupoga">Vesperes</button>
+				<button type="button" id="kompletorijspoga" class="stundupoga">Kompletorijs</button>
+				<button type="button" id="lasijumspoga" class="stundupoga">Lasījumu stunda</button>
+				<div id="bookMarkZoom">
+					<div id="bookMark"></div>
+					<div id="zoom">Burtu lielums&nbsp;
+						<button id="increase" class="zoombtn">+</button>
+						&nbsp;<span id="zoompercent"></span>&nbsp;
+						<button id="decrease" class="zoombtn">-</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="infolit">
+				 <button class="accordion">Kalendārs</button>
+				 <div class="panel">
+					<div class="statistika">
+						<div> <span class="infoparagrafs">Gads: </span> <span id="litGads">na</span>. <span class="infoparagrafs">Psalmu nedēļa: </span> <span id="psNedela">na</span>.
+							<br>
+							<div style="text-align:center">
+								<button id="prevButton">◁</button> <span id="menesis">menesis</span> <button id="nextButton">▷</button>
+							</div>
+						</div>
+					</div>
+					<div id="kalendars">Kalendārs</div>
+				 </div>
+			</div>
+		</div>
+
+		<div id="container" class="container">
+			<div id="titleimage" class="titleimage">
+				<!--       <img src="/img/agnus.jpg" alt="lamb"> -->
+			</div>
+			<div id="LugsanuTeksts" class="LugsanuTeksts">
+				Pārlūkā ir jābūt atļautam JavaScript.
+				<br>
+				Darbība un izskats uz Safari nav garantēta.
+			</div>
+		</div>
+
+	  <!-- Svarīga skriptu pareiza secība -->
+	  <!-- Svarīga skriptu pareiza secība -->
+		<div id='bugs' style="text-align: center;">
+			<hr>
+				<p>© tehniskais izpildījums: diakons Dainis
+				<br>© teksti: <a href=copyright.html>dažādi tulkojumi</a></p>
+				
+				<p class="credit"> <a href=credit.html>Pateicība!</a> </p>
+			<hr>
+			<div id="atbalsts">
+				<p>Atbalsti mūsu darbu!<br>
+					<div id="koffee">
+						<a href="https://www.buymeacoffee.com/breviars">Šeit!</a>
+					</div>
+				</p>
+			</div>
+		</div>
+		<div id='scripts'></div>
+
+	</div>
+	</body>
+</html>

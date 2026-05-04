@@ -1,0 +1,1 @@
+var noslegumaSvetiba = "<p><span class='redbold'>℣. </span>Lai Kungs <span class='redbold'>+</span> mūs svētī, lai pasargā no visa ļaunā un aizved mūžīgajā dzīvē!<br><span class='redbold'>℟. </span>Āmen.</p>";

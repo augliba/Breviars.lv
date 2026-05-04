@@ -1,0 +1,102 @@
+/* new # = id; . = class;*/
+
+#kalendars {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 1px;
+}
+
+.week-name {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+  font-size: calc(var(--font-unit) * 0.8);
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+}
+
+.week-name-weekend {
+  color: red;
+}
+
+.blank {
+  border: none;
+  border-style: none;
+}
+
+.diena {
+  border-radius: 2vw;
+  height: calc(var(--font-unit) * 2.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-unit);
+  color: white;
+  transition: all ease-in 0.5s;
+  border: 2px;
+  border-color: transparent;
+  border-style: solid;
+}
+
+.diena:hover {
+  font-size: calc(var(--font-unit) * 1.2);
+  font-weight: bold;
+  border-radius: 5vw;
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.today {
+  font-size: calc(var(--font-unit) * 1.1);
+  font-weight: bold;
+}
+
+.selected {
+  font-size: calc(var(--font-unit) * 1.1);
+  font-weight: bold;
+  border-radius: 5vw;
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.green,
+.red,
+.white,
+.violet,
+.black,
+.pink {
+  background-image: url(../img/Cloth_BG.png);
+  background-size: contain;
+  background-repeat: repeat;
+}
+
+.green {
+  background-color: #4b9100;
+}
+
+.red {
+  background-color: #c10000;
+}
+
+.white {
+  background-color: white;
+  color: black;
+}
+
+.violet {
+  background-color: #9e00a0;
+}
+
+.black {
+  background-color: #111111;
+  color: white;
+}
+
+.pink {
+  /*   background-color: #d7a7d8; */
+  background-color: pink;
+  color: black;
+}
