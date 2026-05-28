@@ -1,128 +1,63 @@
 <!DOCTYPE html>
-<html lang = "lv">
-	<head>
-		<script>const  appversion = "2.101";//var v = new Date().valueOf(); // izmaiņu versija</script>
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-MCXDLK2TNH"></script>
-		<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-MCXDLK2TNH");</script>
-		<link rel="icon" type="image/x-icon" href="favicon.ico">
-		<link rel="manifest" href="/manifest.json">
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="copyright" content="diakons Dainis">
-		<meta name="description" content="Breviārs latviešu valodā">
-		<meta name="keywords" content="Breviārs, Stundu lūgšana, liturģija, Liturģiskais gads, laudes, vesperes, kompletorijs">
-		<title>Breviars</title>
+<html lang="lv">
+<head>
+		<script src="js/version.js"></script>
 		<script>
-			const  v = appversion; // versija j;apamaina arī serviceworker.js
-			document.addEventListener("DOMContentLoaded", function(event) {
-				// Get HTML head element
-				var head = document.getElementsByTagName('HEAD')[0];
-				const cssList = ["style", "calendar"];
-				// Create new link Element
-				cssList.forEach(function(url) {
-					let link = document.createElement('link');
-					// set the attributes for link element 
-					link.rel = 'stylesheet'; link.type = 'text/css';
-					link.href = "css/" + url + ".css?v=" + v;
-					head.appendChild(link);
-					});
+		(function () {
+		  const v = self.BREVIARS_VERSION || Date.now();
 
-				var js = document.querySelector("#scripts");
-				const jsList = ["himnas", "himnasLatin", "template_liturgy", "script", "pieminasdienas", "standartabloki", "komplet", "lugsana_pll_sv", "psalmi", "parastais", "officium", "advents", "ziemassvetki", "gavenis", "lieldienas", "festum",   "tools", "liturgiskaisgads", "calendar"]; //"himnas", "tools", "liturgiskaisgads", "calendar"];
-				jsList.forEach(function(url) {
-					let script = document.createElement('script');
-					
-					script.src = "js/" + url + ".js?v=" + v;
-					script.async = false;
-					js.appendChild(script);					
-					});
-			});
+		  const files = [
+			"js/app-loader.js?v=" + encodeURIComponent(v),
+			"js/pwa-controller.js?v=" + encodeURIComponent(v)
+		  ];
+
+		  files.forEach(function (src) {
+			const script = document.createElement("script");
+			script.src = src;
+			script.async = false;
+			document.head.appendChild(script);
+		  });
+		})();
 		</script>
-		
-<!-- APP -->
-<!-- Your web app content -->
-  <button id="install-button" style="display: none;">Instalēt aplikāciju</button>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCXDLK2TNH"></script>
   <script>
-		if ('serviceWorker' in navigator) {
-			window.addEventListener('load', function() {
-				navigator.serviceWorker.register('/service-worker.js')
-					.then(function(registration) {
-						console.log('Service Worker registered with scope:', registration.scope);
-
-						// Listen for updates to the service worker.
-						registration.onupdatefound = function() {
-							const installingWorker = registration.installing;
-							installingWorker.onstatechange = function() {
-								if (installingWorker.state === 'installed') {
-									if (navigator.serviceWorker.controller) {
-										// New update available
-										console.log('New content is available; please refresh.');
-										showUpdateNotification();
-									} else {
-										// Content is cached for offline use.
-										console.log('Content is cached for offline use.');
-									}
-								}
-							};
-						};
-					}).catch(function(error) {
-						console.log('Service Worker registration failed:', error);
-					});
-
-				// Check if the app is already installed
-				if (window.matchMedia('(display-mode: standalone)').matches) {
-					hideInstallButton();
-				}
-
-				// Listen for the beforeinstallprompt event
-				let deferredPrompt;
-				window.addEventListener('beforeinstallprompt', (e) => {
-					e.preventDefault();
-					deferredPrompt = e;
-					showInstallButton();
-					document.getElementById('install-button').addEventListener('click', () => {
-						hideInstallButton();
-						deferredPrompt.prompt();
-						deferredPrompt.userChoice.then((choiceResult) => {
-							if (choiceResult.outcome === 'accepted') {
-								console.log('User accepted the install prompt');
-							} else {
-								console.log('User dismissed the install prompt');
-							}
-							deferredPrompt = null;
-						});
-					});
-				});
-
-				function showInstallButton() {
-					const installButton = document.getElementById('install-button');
-					installButton.style.display = 'block';
-				}
-
-				function hideInstallButton() {
-					const installButton = document.getElementById('install-button');
-					installButton.style.display = 'none';
-				}
-
-				function showUpdateNotification() {
-					const notification = document.createElement('div');
-					notification.innerHTML = '<div style="position: fixed; top: 0; width: 100%; background: #fff; color: #000; padding: 10px; text-align: center; box-shadow: 0 -2px 5px rgba(0,0,0,0.3); z-index: 1000;">Pieejama jaunāka versija. <button  class="reload" onclick="window.location.reload()">Atjaunot!</button><br>Pēc tam aizver un atver pārlūku.</div>';
-					document.body.appendChild(notification);
-					
-				    // Nodrošinām, ka tas tiek pievienots pēc lapas ielādes
-					window.addEventListener('load', () => {
-						document.body.appendChild(notification);
-					});
-				}
-
-				
-			});
-		}
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)}
+    gtag("js", new Date());
+    gtag("config", "G-MCXDLK2TNH");
   </script>
-		
-	 </head>
+
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<!--  <link rel="manifest" href="/manifest.json"> -->
+
+		<script>
+		(function () {
+		  if (location.protocol === "file:") {
+			return;
+		  }
+
+		  const manifest = document.createElement("link");
+		  manifest.rel = "manifest";
+		  manifest.href = "manifest.json";
+		  document.head.appendChild(manifest);
+		})();
+		</script>
+
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="copyright" content="diakons Dainis">
+  <meta name="description" content="Breviārs latviešu valodā">
+  <meta name="keywords" content="Breviārs, Stundu lūgšana, liturģija, Liturģiskais gads, laudes, vesperes, kompletorijs">
+
+  <title>Breviars</title>
+
+</head>
 	 
 	 <body>
+	 
+<button id="install-button" style="display: none;">Instalēt aplikāciju</button>
 
 	 <div id="main">
 	 	<div class="maincontainer">
@@ -188,7 +123,6 @@
 		</div>
 
 	  <!-- Svarīga skriptu pareiza secība -->
-	  <!-- Svarīga skriptu pareiza secība -->
 		<div id='bugs' style="text-align: center;">
 			<hr>
 				<p>© tehniskais izpildījums: diakons Dainis
@@ -205,7 +139,6 @@
 			</div>
 		</div>
 		<div id='scripts'></div>
-
 	</div>
 	</body>
 </html>
