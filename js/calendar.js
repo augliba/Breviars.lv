@@ -129,11 +129,15 @@ const lentNoAlleluia = function(d) { // gavēnī noņem Alleluja
 }
 
 const easterNoAlleluia = function(d) { // noņem Alleluja ārpus lieldienām
-	if (gads[d].datums <= cal.ldl0 && gads[d].datums >= cal.pll2)	{
-		items = document.querySelectorAll('.alleluja');
-		for(var i =0; i<items.length; i++) {
-			items[i].style.display = 'none';
-		}
+	if (gads[d].litlaiks != 'ldl' && gads[d].litlaiks != 'lokt')	{
+		console.log("easterNoAlleluia", d );
+//		items = document.querySelectorAll('.alleluja');
+//		for(var i =0; i<items.length; i++) {
+//			items[i].style.display = 'none';
+		console.log("noņemt alieluja");
+		document.querySelectorAll('.alleluja').forEach(el => {
+			el.remove();
+		});
 	}
 }
 
@@ -1115,7 +1119,7 @@ const kopmletorijsLugsana = function() {
 Banner('kompletorijs');
   lugsana.innerHTML = komplet_template;
 
-	if (selectedLitlaiks == 'ldl') { // lieldienās ir svētku kompletorijs darba dienā
+	if ( gads[d].litlaiks == 'ldl') { // lieldienās ir svētku kompletorijs darba dienā selectedLitlaiks
 		var liturgiskaisLaiks = 'lieldienas';
 		if ( typeof window[liturgiskaisLaiks][psn][nd].kompletorijs != 'undefined' ) nd = window[liturgiskaisLaiks][psn][nd].kompletorijs;
 		}
@@ -1349,7 +1353,7 @@ if (gads[d]?.lieldienas === undefined) {
 	
 	// Svētkiem
 	 var f_ll =''; var f_psn=''; var f_nd=''; var isfestum='';
-	 if (gads[d]?.liturgija) {
+	 if (gads[d]?.liturgija) {// festum-0-MarijaiFestum
 		f_ll = gads[d].liturgija.split('-')[0]; // atbilst liturgiskaisLaiks
 		f_psn = gads[d].liturgija.split('-')[1]; // atbilst psn
 		f_nd = gads[d].liturgija.split('-')[2]; // atbilst nd
@@ -1364,6 +1368,8 @@ if (gads[d]?.lieldienas === undefined) {
 	var mm = gads[d].datums.getMonth() +1;
 	var dd = gads[d].datums.getDate();
 	console.log("Vai ir svētku liturģija? ", f_ll, "isfestum = ", isfestum, "mēnesis = ", mm, "datums = ", dd);
+	console.log("Mobilie? ", gads[d]?.mobil, gads[d]?.mobilValue);
+	if ( gads[d]?.mobil ) {mm=0; dd=gads[d]?.mobilValue}
 	
 	function lasijums(i, liturgiskaislaiks, psn, nd){ // garo lasījumu ielasīšana
 		document.querySelector('#containerLasijums' + i ).innerHTML = '<hr>\
@@ -1426,7 +1432,7 @@ if (gads[d]?.lieldienas === undefined) {
 		src = officium.gavenis.psalmodijs[effectiveNd][effectivePsn];
 	} else if (isFestumOverride) {
 		console.log("svētku psalmi");
-			if (officium.festum?.[mm]?.[dd]?.ps1) {
+			if (officium.festum?.[mm]?.[dd]?.ps1) { // mainīgajos mm=0 un dd ir "nosaukums"
 				src = officium.festum[mm][dd];
 			} else {
 				src = isLieldienasOverride
@@ -1459,8 +1465,8 @@ if (gads[d]?.lieldienas === undefined) {
 
 // pēc psalmu responsorijs beigas
 		document.querySelector('#responsorijsPs').innerHTML = '<p>\
-			<span class="redbold">℣. </span>' + officium[psalmodijs][psn][nd].atb1 + '<br>\
-			<span class="redbold">℟. </span>' + officium[psalmodijs][psn][nd].atb2 + '</p>';
+			<span class="redbold">℣. </span>' + officium[psalmodijs][psn][nd]?.atb1 + '<br>\
+			<span class="redbold">℟. </span>' + officium[psalmodijs][psn][nd]?.atb2 + '</p>';
 		if ( liturgiskaislaiks == 'gavenis' ) {
 			if ( psn0 == 6 ) { // lielā nedēļa
 				nd0 = 7;
@@ -1534,8 +1540,11 @@ if (gads[d]?.lieldienas === undefined) {
 			}
 		}
 		else if (liturgiskaislaiks == 'lieldienas') {
-			console.log("Lieldienu himna");
-			sel.innerHTML = himnaOfficiumLieldieasSvetdiena;
+			
+			if ( (psn0 === 6 && nd >= 4) || psn0 === 7 ) sel.innerHTML = himnaOfficiumLieldieasDebeskapsana;
+			else if (psn0 === 8) sel.innerHTML = himnaOfficiumLieldieasVasarsvetki;
+			else sel.innerHTML = himnaOfficiumLieldieasSvetdiena;
+			console.log("Lieldienu himna", psn0, nd, sel.innerHTML);
 		}
 		else {
 			var lasijumuHimna = "himnaOfficium"+ naktsdiena + "_" + nedela + "_" + nd;
@@ -1573,7 +1582,7 @@ if (gads[d]?.lieldienas === undefined) {
 	} else {console.log("ir Sētdiena vai svētki");} */
 
 	const irSvetdiena = nd == 0;
-	const irSvetki = gads[d].Type == 'svētki';
+	const irSvetki = ['svētki', 'svinības'].includes(gads[d].Type);
 	const irGavenis = liturgiskaislaiks == 'gavenis';
 	const irOktava = gads[d].litlaiks == 'lokt';
 	const raditTeDeum = irOktava || irSvetki || (irSvetdiena && !irGavenis);

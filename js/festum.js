@@ -896,7 +896,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"ps1": "psalms63",
 				"ps2": "dan3c",
 				"ps3": "psalms149",
-				"ant1": "Ar Kristus asinīm uz krusta Tēvs dāvāja mieru gan tiem, kas uz zemes, gan tiem, kas ir debesīs",
+				"ant1": "Ar Kristus asinīm uz krusta Tēvs dāvāja mieru gan tiem, kas uz zemes, gan tiem, kas ir debesīs.",
 				"ant2": "Viss ir radīts caur Kristu un Kristū.",
 				"ant3": "It visu Viņš ir nolicis zem Viņa kājām un iecēla Viņu par galvu visai Baznīcai, kas ir Viņa Miesa.",
 				"lasijumstitle": "LASĪJUMS Ebr 10, 5-10",
@@ -916,7 +916,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums5": "Kristu, Dieva gudrība, mūsu miers un izlīgšana, ļauj mums būt vienprātīgiem un vienotiem Tavā Baznīcā.",
 					"lugums6": "Kristu, Mūžīgais Priesteri, Tēva Pagodinātājs, dari, lai mūsu upuris būtu Tavas mūžīgās slavas pielūgsme."
 				},
-				"lugsimies": "Dievs, Tu savas varenības godam un cilvēces pestīšanai savu viendzimušo Dēlu esi iecēlis par augsto un mūžīgo priesteri. Liec, lai Svētais Gars palīdz tiem, ko Viņš ir izvēlējies par kalpiem un Savu noslēpumu dalītājiem, uzticīgi pildīt saņemto kalpojumu. " + noslegums1
+				"lugsimies": "" // liturgiskaisgads.js 
 			},
 			"dienas" : {
 				"title": "Kristus, mūžīgais priesteris,<br>Dienas vidus",
@@ -965,7 +965,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"lugsimies": ""
 					}
 				},
-				"lugsimies": "Dievs, Tu savas varenības godam un cilvēces pestīšanai savu viendzimušo Dēlu esi iecēlis par augsto un mūžīgo priesteri. Liec, lai Svētais Gars palīdz tiem, ko Viņš ir izvēlējies par kalpiem un Savu noslēpumu dalītājiem, uzticīgi pildīt saņemto kalpojumu. " + noslegums1
+				"lugsimies": ""
 			},
 			"vesperes": {
 				"title": "Kristus, mūžīgais priesteris,<br>Vesperes",
@@ -992,7 +992,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums4": "Kungs Kristu, Tēva Sūtītais, palīdzi visiem cilvēkiem atrast Tevī dzīvību un ceļu uz Debesu Valstību.",
 					"lugums5": "Kristu, dzīvā Dieva Dēls, Tu ar savu nāvi esi uzvarējis nāvi, dod, lai mūsu aizgājēju pēdējais upuris sagādātu viņiem prieku godībā."
 				},
-				"lugsimies": "Dievs, Tu savas varenības godam un cilvēces pestīšanai savu viendzimušo Dēlu esi iecēlis par augsto un mūžīgo priesteri. Liec, lai Svētais Gars palīdz tiem, ko Viņš ir izvēlējies par kalpiem un Savu noslēpumu dalītājiem, uzticīgi pildīt saņemto kalpojumu. " + noslegums1
+				"lugsimies": ""
 			}
 		},
 		/* "MarijaSirds":{
@@ -1171,7 +1171,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"lasijumstitle": "LASĪJUMS Judt 13, 18-19",
 						"lasijumstext": "Visaugstais Dievs lai tevi svētī, meita, vairāk par visām sievām uz zemes, un lai svētīts Kungs Dievs, kas radījis debesis un zemi un kas tevi sagatavoja sadauzīt mūsu ienaidnieku vadoņa galvu, jo tava cerība neatkāpsies no cilvēku sirdīm, kas pieminēs Dieva spēku mūžam.",
 						"atb1" : "Svētīta esi starp sievietēm.",
-						"atb2" : "Un svētīts ir tavas miesas auglis.",
+						"atb2" : "Un svētīts ir Tavas miesas auglis.",
 						"lugsimies": ""
 					}
 				},
@@ -1410,7 +1410,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"lasijumstitle": "LASĪJUMS Judt 13, 18-19",
 						"lasijumstext": "Visaugstais Dievs ir tevi svētījis, meit, vairāk par visām sievietēm uz zemes. Lai ir slavēts Kungs, mūsu Dievs, kas ir radījis debesis un zemi, kas tevi ir vadījis satriekt mūsu ienaidnieku vadoņa galvu, jo tava slava nezudīs no to cilvēku sirdīm, kas pieminēs Dieva spēku mūžam.",
 						"atb1" : "Tu esi svētīta starp sievietēm<span class='Lieldienas'>, alleluja</span>.",
-						"atb2" : "Un svētīts ir tavas miesas auglis<span class='Lieldienas'>, alleluja</span>.",
+						"atb2" : "Un svētīts ir Tavas miesas auglis<span class='Lieldienas'>, alleluja</span>.",
 						"lugsimies": ""
 					}
 				},
@@ -1439,7 +1439,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums1": "Tu iecēli Mariju par žēlsirdības Māti; ļauj piedzīvot viņas mātišķo mīlestību tiem, kas atrodas briesmās.",
 					"lugums2": "Tu vēlējies, lai Marija būtu pavarda sargātāja Jēzus un Jāzepa mājās, dari, lai ar viņas aizbildnību visas mātes savās ģimenēs vairotu mīlestību un svētumu.",
 					"lugums3": "Tu stiprināji Mariju, kad viņa stāvēja pie krusta, un iepriecināji ar sava Dēla augšāmcelšanos, – uzmundrini raižu nomāktos un stiprini viņu cerību.",
-					"lugums4": "Tu darīji, ka Marija uzmanīgi ieklausās Tavos vārdos un kļūst par Tavu uzticīgo kalponi, – ar viņas aizbildniecību palīdzi mums kļūt par Tava Dēla kalpiem un mācekļiem.",
+					"lugums4": "Tu darīji, ka Marija uzmanīgi ieklausās Tavos vārdos un kļūst par Tavu uzticīgo kalponi, – ar viņas aizbildnību palīdzi mums kļūt par Tava Dēla kalpiem un mācekļiem.",
 					"lugums5": "Tu kronēji Mariju par Debesu Karalieni; dari, lai mirušie mūžīgi priecātos kopā ar svēto pulkiem Tavā valstībā."
 				},
 				"lugsimies": "Visvarenais, mūžīgais Dievs, kas bezvainīgo Jaunavu Mariju, Jēzus Kristus Māti, ar miesu un dvēseli esi uzņēmis Debesu godībā, dāvā mums žēlastību, lai mēs vienmēr ilgotos pēc Tevis un Debesīs varētu būt līdzdalīgi Tavā godībā. " + noslegums1
@@ -1544,7 +1544,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"lasijumstitle": "LASĪJUMS Judt 13, 18-19",
 						"lasijumstext": "Visaugstais Dievs ir tevi svētījis, meit, vairāk par visām sievietēm uz zemes. Lai ir slavēts Kungs, mūsu Dievs, kas ir radījis debesis un zemi, kas tevi ir vadījis satriekt mūsu ienaidnieku vadoņa galvu, jo tava slava nezudīs no to cilvēku sirdīm, kas pieminēs Dieva spēku mūžam.",
 						"atb1" : "Tu esi svētīta starp sievietēm<span class='Lieldienas'>, alleluja</span>.",
-						"atb2" : "Un svētīts ir tavas miesas auglis<span class='Lieldienas'>, alleluja</span>.",
+						"atb2" : "Un svētīts ir Tavas miesas auglis<span class='Lieldienas'>, alleluja</span>.",
 						"lugsimies": ""
 					}
 				},
@@ -2467,7 +2467,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -2572,7 +2572,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -3784,7 +3784,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -3889,7 +3889,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -4234,7 +4234,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -4736,7 +4736,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu caur svētiem un izvēlētiem mācītajiem, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis."
 				},
 				"lugsimies": ". " + noslegums1
@@ -5371,7 +5371,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu caur svētiem un izvēlētiem mācītajiem, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu iesvaidīji savus svētos, lai tie kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu iesvaidīji savus svētos, lai tie kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis."
 				},
 				"lugsimies": ". " + noslegums1
@@ -6660,7 +6660,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -6928,7 +6928,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -7268,7 +7268,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -7584,7 +7584,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -7796,7 +7796,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -8006,7 +8006,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -8561,7 +8561,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -9120,7 +9120,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu caur svētiem un izvēlētiem mācītajiem, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis."
 				},
 				"lugsimies": ". " + noslegums1
@@ -9778,7 +9778,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -9883,7 +9883,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
 					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},

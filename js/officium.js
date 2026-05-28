@@ -1,4 +1,4 @@
-{ // himnas parastās
+{// himnas parastās
 	var himnaOfficiumDiena_1_0 = '<p class="psalms1">Dies ætásque céteris<br>octáva splendet sánctior<br>in te quam, Iesu, cónsecras,<br>primítiæ surgéntium.</p><p class="psalms2">Tu tibi nostras ánimas<br>nunc primo conresúscita;<br>tibi consúrgant córpora<br>secúnda morte líbera.</p><p class="psalms1">Tibíque mox in núbibus,<br>Christe, ferámur óbviam<br>tecum victúri pérpetim:<br>tu vita, resurréctio.</p><p class="psalms2">Cuius vidéntes fáciem,<br>configurémur glóriæ;<br>te cognoscámus sicut es,<br>lux vera et suávitas.</p><p class="psalms1">Regnum, cum Patri tráditos,<br>plenos septéno chrísmate,<br>in temet nos lætíficas,<br>consúmmet sancta Trínitas. Amen.</p>';
 	var himnaOfficiumNakts_1_0 = '<p class="psalms1">Primo diérum ómnium,<br>quo mundus exstat cónditus<br>et quo resúrgens cónditor<br>nos, morte victa, líberat.</p><p class="psalms2">Pulsis procul torpóribus,<br>surgámus omnes ócius,<br>et nocte quærámus pium,<br>sicut Prophétam nóvimus.</p><p class="psalms1">Nostras preces ut áudiat<br>suámque dextram pórrigat,<br>et hic piátos sórdibus<br>reddat polórum sédibus.</p><p class="psalms2">Ut, quique sacratíssimo<br>huius diéi témpore<br>horis quiétis psállimus,<br>donis beátis múneret.</p><p class="psalms1">Deo Patri sit glória<br>eiúsque soli Fílio<br>cum Spíritu Paráclito,<br>in sempitérna sæcula. Amen.</p>';
 	var himnaOfficiumDiena_1_1 = '<p class="psalms1">Ætérna lux, divínitas,<br>in unitáte Trínitas,<br>te confitémur débiles,<br>te deprecámur súpplices.</p><p class="psalms2">Summum Paréntem crédimus<br>Natúmque Patris únicum,<br>et caritátis vínculum<br>qui iungit illos Spíritum.</p><p class="psalms1">O véritas, o cáritas,<br>o finis et felícitas,<br>speráre fac et crédere,<br>amáre fac et cónsequi.</p><p class="psalms2">Qui finis et exórdium<br>rerúmque fons es ómnium,<br>tu solus es solácium,<br>tu certa spes credéntium.</p><p class="psalms1">Qui cuncta solus éfficis<br>cunctísque solus súfficis,<br>tu sola lux es ómnibus<br>et præmium sperántibus.</p><p class="psalms2">Christum rogámus et Patrem,<br>Christi Patrísque Spíritum;<br>unum potens per ómnia,<br>fove precántes, Trínitas. Amen.</p>';
@@ -29,7 +29,7 @@
 	var himnaOfficiumDiena_2_6 = '<p class="psalms1">Deus de nullo véniens,<br>Deus de Deo pródiens,<br>Deus ab his progrédiens,<br>in nos veni subvéniens.</p><p class="psalms2">Tu nostrum desidérium,<br>tu sis amor et gáudium;<br>in te nostra cupíditas<br>et sit in te iucúnditas.</p><p class="psalms1">Pater, cunctórum Dómine,<br>cum Génito de Vírgine,<br>intus et in circúitu<br>nos rege Sancto Spíritu.</p><p class="psalms2">Meménto, sancta Trínitas,<br>quod tua fecit bónitas,<br>creándo prius hóminem,<br>recreándo per sánguinem.</p><p class="psalms1">Nam quos creávit Unitas,<br>redémit Christi cáritas;<br>patiéndo tunc díligens,<br>nunc díligat nos éligens.</p><p class="psalms2">Tríadi sanctæ gáudium,<br>pax, virtus et impérium,<br>decus, omnipoténtia,<br>laus, honor, reveréntia. Amen.</p>';
 	var himnaOfficiumNakts_2_6 = '<p class="psalms1">Lux ætérna, lumen potens,<br>dies indefíciens,<br>debellátor atræ noctis,<br>reparátor lúminis,<br>destructórque tenebrárum,<br>illustrátor méntium:</p><p class="psalms2">Quo nascénte suscitámur,<br>quo vocante surgimus;<br>faciénte quo beáti,<br>quo linquénte míseri;<br>quo a morte liberáti,<br>quo sumus perlúcidi;</p><p class="psalms1">Mortis quo victóres facti,<br>noctis atque sæculi;<br>ergo nobis, rex ætérne,<br>lucem illam tríbue,<br>quæ fuscátur nulla nocte,<br>solo gaudens lúmine.</p><p class="psalms2">Honor Patri sit ac tibi,<br>Sancto sit Spirítui,<br>Deo trino sed et uni,<br>paci, vitæ, lúmini,<br>nómini præ cunctis dulci<br>divinóque númini. Amen.</p>';
 }
-{ // himnas gavēnis
+{// himnas gavēnis
 // līdz lielajai nedēļai
 	var himnaOfficiumGavenisSvetdiena = '<p class="psalms1">Lūk, četrudesmit dienas mums<br>tiek piedāvātas gandarei:<br>	nu gavēsim mēs saskaņā<br>ar tradīciju garīgo.</p><p class="psalms2">Gan Mozus Likums, pravieši<br>to darīt visiem ieteica<br>un Kristus, visa Karalis,<br>šo paradumu svētīja.</p><p class="psalms1">Nu apdomīgi runāsim,<br>ar mēru dzersim, ēdīsim,<br>bez slaistīšanās, izklaidēm,<br>lai garu možu turētu.</p><p class="psalms2">No visa ļaunā bēgsim mēs,<br>kas pieviļ prātus nedrošos,<br>lai nespēj naidnieks viltīgais<br>mūs savos slazdos iemānīt.</p><p class="psalms1">Jel dari, Trīsvienīgais Dievs,<br>viens Vienotībā svētajā,<br>ka Taviem ļaudīm augļus nes<br>šie atturības upuri. Āmen.</p>';
 
@@ -40,9 +40,15 @@
 }
 {// Himnas Lieldienas
 	var himnaOfficiumLieldieasSvetdiena = '<p class="psalms1">Šī diena Dieva dāvāta,<br>ar spožu gaismu svētīta,<br>kad Kristus Asins mazgāja<br>no visiem grēkiem pasauli.</p><p class="psalms2">Viņš dāvā redzi aklajiem<br>un izmisušiem ticību;<br>ikviens nu pārstāj baiļoties,<br>kad laupītājam piedots tiek.</p><p class="psalms1">Pat eņģeļi ir pārsteigti,<br>kad redz tie Krustā Piekalto<br>un to kā laupītāju Viņš<br>sev līdzi ņem uz debesīm.</p><p class="psalms2">Cik brīnišķīgs šis noslēpums,<br>lai dziedinātu pasauli,<br>Viņš visu grēkus uzņemas<br>ar Miesu apdzēš iekāri.</p><p class="psalms1">Kas cildenāks var būt par to,<br>ka žēlastību meklē grēks,<br>kad mīlestībā bailes zūd<br>un jaunu dzīvi nāve dod?</p><p class="psalms2">Ak, Jēzu, esi dvēselēm<br>jel Pashas līksme mūžīgā,<br>un žēlastībā atgrieztus,<br>mūs saviem pulkiem pievieno.</p><p class="psalms1">Tev, Jēzu, vienmēr gods lai skan,<br>kas nāves varu uzveici,<br>un Tēvam, Garam Svētajam<br>uz visiem laikiem, mūžīgi. Āmen.</p>';
+	var himnaOfficiumLieldieasDebeskapsana = '<p class="psalms1">Visaugstais Ķēniņ, mūžīgais,<br>un glābiņš visiem ticīgiem,<br>Tu nāves varu satrieci,<br>lai žēlastība triumfē.</p><p class="psalms2">Nu debesīs Tu uzkāpis,<br>pa labi Tēvam apsēdies,<br>Viņš deva varu dievišķo<br>Tev valdīt visu radīto.</p><p class="psalms1">Lai visas Dieva radības<br>nu Tavā priekšā ceļos krīt:<br>gan debesīs, gan pazemē,<br>gan arī tie, kas zemē mīt.</p><p class="psalms2">Liels izbrīns pārņem eņģeļus,<br>kad redz, kā viss nu pārmainās:<br>ar miesu miesas grēks tiek dzēsts<br>un miesā valda Dieva Vārds.</p><p class="psalms1">Tu, Kristu, valdi pasauli<br>un esi balva mūžībā,<br>jel dod mums tādu līksmību,<br>kas pārspēj priekus laicīgos.</p><p class="psalms2">Un tāpēc Tevi lūdzam mēs,<br>jel visus grēkus piedod mums<br>un, žēlastībā šķīstītas,<br>pie sevis mūsu sirdis cel,</p><p class="psalms1">Lai tad, kad sārtā mākonī<br>Tu nāksi tiesāt pasauli,<br>mēs soda vietā saņemtu<br>to cieņu, kas mums atņemta.</p><p class="psalms2">Tev, Jēzu, vienmēr gods lai skan,<br>kas uzkāp debess augstumos,<br>un Tēvam, Garam Svētajam<br>uz visiem laikiem, mūžīgi. Āmen.</p>';
+	var himnaOfficiumLieldieasVasarsvetki = '<p class="psalms1">Gaismā mirdzošā un skaistā,<br>debess sūta savas liesmas<br>pārņemt Kristus mācekļus,</p><p class="psalms2">Pildot sirdis, raisot mēles,<br>aicina mūs vienprātībā<br>vārdus, domas saskaņot.</p><p class="psalms1">Nāc nu, labais mierinātāj,<br>valdi mēles, remdē sirdis,<br>Tava klātbūtne lai aizdzen<br>visu indi, rūgtumu.</p><p class="psalms2">Lai mēs, agrāk naida bērni,<br>tagad radīti no jauna,<br>teicam Tevi šķīstu prātu,<br>žēlastības iespaidā.</p><p class="psalms1">Tu gan dāvana, gan devējs,<br>mūsos visa labā sākums,<br>pievērs sirdis slavas dziesmai,<br>lai ar savu muti teicam<br>slavu Tev no visas sirds.</p><p class="psalms2">Tu pats žēlsirdības avots,<br>šķīstī mūs no visiem grēkiem,<br>un, kas Kristū atjaunoti,<br>ļauj mums sasniegt jaunās dzīves<br>īsto prieku, pilnīgo. Āmen.</p>';
+
 }
-{ // Himnas dažādas
+{// Himnas dažādas
 	var himnaLSKungaPrezentacija_2feb = '<p class="psalms1">Legis sacrátæ sanctis cæremóniis<br>subiéctus omnis cálamo Mosáico<br>dignátur esse, qui regit perfúlgidos<br>in arce Patris órdines angélicos,<br>cælúmque, terram fundávi ac mária.</p><p class="psalms2">Mater beáta carnis sub velámine<br>Deum ferébat úmeris castíssimis,<br>dúlcia strictis óscula sub lábiis<br>Deíque veri hominísque imprésserat<br>ori, iubénte quo sunt cuncta cóndita.</p><p class="psalms1">Hic lumen ardens géntium in óculis,<br>glória plebis Israélis gérminis;<br>pósitus hic est in ruínam scándali<br>et in salútem populórum ómnium,<br>donec secréta reveléntur córdium.</p><p class="psalms2">Glória Patri per imménsa sæcula,<br>sit tibi, Nate, decus et impérium,<br>honor, potéstas Sanctóque Spirítui:<br>sit Trinitáti salus indivídua<br>per infiníta sæculórum sæcula. Amen.</p>';
+	var himnaKristusPriesteris = '<p class="psalms1">Póntifex Iesu, mediátor une<br>ad thronum Patris precibúsque fautor<br>iure conclámat, celebrátque nostrum<br>te genus omne.</p><p class="psalms2">Spíritu factus grémio puéllæ<br>tu puer, cuius tenet ulna mundum,<br>natus es nobis bene digna sola<br>hóstia laudis.</p><p class="psalms1">Te sacerdótem Pater ipse sancti<br>gáudii donis oleóque inúnxit<br>summa maiéstas sibi ut usque ferret<br>culmen honóris.</p><p class="psalms2">Carne mortáli, Deus alte, sumpta<br>sánguinis prebens decus et lavácrum,<br>iusta pro nostræ prétia obtulísti<br>crímine mortis.</p><p class="psalms1">Christe, qui ligno crucis elevátus<br>cuncta traxísti, corda amóre figens,<br>fac tibi, Patri, Paracléto in ævum<br>cántica demus. Amen.</p>';
+
+	var himnaLSMarijai = '<p class="psalms1">Šo trīskārtīgo Valdnieku,<br>ko zeme, gaiss un ūdeņi<br>gan pielūdz, godā, daudzina,<br>slēdz savā klēpī Marija.</p><p class="psalms2">Tam mēness, saule, itin viss<br>no pirmsākuma pakļauti,<br>ko žēlastības pārpilna<br>nes savās miesās Jaunava.</p><p class="psalms1">Ak, svētā Māte, pienākums<br>Tev lika To, kas pasauli<br>ir veidojis un pārvalda,<br>slēpt savas miesas svētnīcā.</p><p class="psalms2">Par debess vēsti priecīga,<br>no Svētā Gara ieņēma,<br>un visām tautām dāvāja<br>To, Kas to ilgas piepilda.</p><p class="psalms1">Tev, Jēzu, vienmēr gods lai skan,<br>no Jaunavas Tu piedzimis,<br>un Tēvam, Garam Svētajam<br>uz visiem laikiem mūžīgi. Āmen.</p>';
 
 	var himnaLSJaunavaMocekle = '<p class="psalms1">Ak, Kristu, baltā lilija,<br>mēs Tevi visi slavējam,<br>jo Tu šo svēto jaunavu<br>ar palmu zariem rotājis.</p><p class="psalms2">Šī apdomīgā, spēcīgā, gudrā,<br>atklāti apliecinājusi ticību,<br>nebaidīdamās Tevis dēļ<br>uzņemties briesmīgas mokas.</p><p class="psalms1">Tā, nicinot pasaules valdnieku,<br>viņa, bagātinājusies ar Tavu dāvanu,<br>uzvarēja asiņainā kaujā,<br>saņēma mūžīgu atlīdzību.</p><p class="psalms2">Ar šo nopelnu, ak, Pestītāj,<br>padari mūs par dievbijīgiem līdzdalībniekiem,<br>lai ar tīru prātu mēs varētu<br>baudīt Tavu asiņu augļus.</p><p class="psalms1">Tev, Jēzu, vienmēr gods lai skan,<br>no Jaunavas Tu piedzimis,<br>un Tēvam, Garam Svētajam<br>uz visiem laikiem mūžīgi. Āmen.</p>';
 	//19.marts
@@ -107,6 +113,42 @@ var apustuliem = {
 		"vers1": "",
 		"resp": "",
 		"vers2": ""
+	}
+}
+
+var marijai = {
+	"himna": himnaLSMarijai ,
+	"ant1": "Marija ir saņēmusi svētību no Kunga un žēlastību no Dieva, viņas Pestītāja<span class='alleluja'>, alleluja</span>.",
+	"ps1": "psalms24",
+	"ant2": "Visaugstais ir svētījis savu mājokli<span class='alleluja'>, alleluja</span>.",	
+	"ps2": "psalms46",
+	"ant3": "Cildenas lietas stāsta par Tevi, Jaunava Marija<span class='alleluja'>, alleluja</span>.",
+	"ps3": "psalms87",
+	"atb1": "Marija paturēja visus šos vārdus<span class='alleluja'>, alleluja</span>.",
+	"atb2": "Pārdomādama tos savā sirdī<span class='alleluja'>, alleluja</span>.",
+	"spec":{//Adventa un Kristus Dzimšanas svētku laikā
+		"atb1": "Svētīgi, kas klausās Dieva Vārdu..",
+		"atb2": "Un to izpilda."
+	},
+	1:{// lieldienu laikā
+		"lasijumstitle": "No svētā apustuļa Jāņa Atklāsmes grāmatas",
+		"lasijumaRef": "<br>11, 19 – 12, 17",
+		"lasijumsNos": "Lielā zīme par sievieti debesīs",
+		"lasijumstext": "<p class='paragr'>Tajās dienās: Dieva templis debesīs atvērās, un viņa templī bija redzams viņa derības šķirsts; tad sākās zibeņi, balsis, pērkoni, zemestrīce, milzīga krusa.</p><p class='paragr'>Debesīs parādījās liela zīme: sieviete tērpta saulē, mēness zem viņas kājām, un galvā viņai vainags no divpadsmit zvaigznēm. Viņa ir grūta un sāpēs kliedz, ciešot dzemdību mokas. Un parādījās cita zīme debesīs, redzi – liels ugunīgs pūķis ar septiņām galvām un desmit ragiem, un uz viņa septiņām galvām septiņas diadēmas. Viņa aste velk no debesīm trešdaļu zvaigžņu un met tās uz zemi. Pūķis nostājas priekšā sievietei, kas gatavojas dzemdēt, lai tad, kad viņa būs dzemdējusi, bērnu aprītu. Un viņa dzemdē dēlu, vīru, kas visas tautas ganīs ar dzelzs zizli. Un viņas bērns tiek aizrauts pie Dieva un pie viņa troņa. Bet sieviete aizbēg tuksnesī, kur viņai ir Dieva sagatavota vieta, lai tur viņu uzturētu tūkstoš divi simti sešdesmit dienas.</p><p class='paragr'>Izcēlās karš debesīs – Mihaēls un viņa eņģeļi sāka karu ar pūķi. Un pūķis un viņa eņģeļi karoja. Bet viņam nepietika spēka, un tie zaudēja savu vietu debesīs. Milzu pūķis tika satriekts – sensenā čūska, ko sauc par velnu un sātanu, kas maldina visus pasaules iedzīvotājus, – viņš tika nomests un līdz ar viņu nomesti viņa eņģeļi. Tad es dzirdēju skaļu balsi debesīs: ir atnākusi mūsu Dieva pestīšana, spēks un valstība un viņa Kristus vara, jo ir nomests mūsu brāļu apsūdzētājs, kas apsūdzēja tos mūsu Dieva priekšā dienām un naktīm. Viņi uzvarēja to ar Jēra asinīm un savas liecības vārdiem, jo viņi neturēja savas dzīvības mīļas un devās pat nāvē. Tādēļ līksmojieties, debesis un tie, kas tajās mājo.</p><p class='paragr'>Vai! zemei un jūrai, jo velns ir nokāpis pie jums, viņš ir dusmu pilns, zinādams, ka laika viņam ir maz.</p><p class='paragr'>Kad pūķis redzēja, ka ir nomests uz zemes, viņš sāka vajāt sievieti, kas bija dzemdējusi dēlu. Sievietei bija divi vareni ērgļa spārni, lai viņa varētu aizlidot tuksnesī uz vietu, kur viņa būtu drošībā prom no čūskas klātbūtnes veselu laiku, divus laikus un puslaiku. Sievietei pakaļ čūska izšļāca ūdeni kā upi, lai upes ūdens viņu aizskalotu. Bet zeme nāca sievietei palīgā, atvēra savu muti un izdzēra upi, ko pūķis bija izšļācis no savas mutes.</p><p class='paragr'>Tad pūķis, sadusmots par sievieti, devās projām, lai sāktu karu ar tiem pārējiem viņas pēcnācējiem, kas ievēro Dieva baušļus un tur Jēzus liecību.</p>",
+		"atbildesReference":"1 Kor 15, 54.57; Atkl 12, 1",
+		"vers1": "Kad šis mirstīgais būs ietērpies nemirstībā, tad piepildīsies rakstītais vārds: nāve ir aprīta uzvarā.",
+		"resp": "Bet pateicība Dievam, kas mums ir devis uzvaru caur mūsu Kungu Jēzu Kristu<span class='alleluja'>, alleluja</span>.",
+		"vers2": "Debesīs parādījās liela zīme: saulē tērpta sieviete, un mēness zem viņas kājām, un uz viņas galvas divpadsmit zvaigžņu kronis."
+	},
+	2:{
+		"lasijumstitle": "No svētā abata Aelreda sprediķiem",
+		"lasijumaRef": "(Sermo 20, In Nativitate beatæ Mariæ: PL 195, 322-324)" + ai(),
+		"lasijumsNos": "Marija, mūsu māte",
+		"lasijumstext": "<p class='paragr'>Tuvosimies Viņa Līgavai, tuvosimies Viņa Mātei, tuvosimies Viņa viscildenākajai kalponei. Tas viss ir svētīgā Marija.</p><p class='paragr'>Bet ko mēs Viņai dosim? Kādas dāvanas Viņai pienesīsim? Kaut mēs vismaz spētu atdot to, ko esam Viņai parādā! Mēs esam Viņai parādā godu, mēs esam Viņai parādā kalpošanu, mēs esam Viņai parādā mīlestību, mēs esam Viņai parādā slavu. Mēs esam Viņai parādā godu, jo Viņa ir mūsu Kunga Māte. Kas negodā māti, tas bez šaubām negodā dēlu. Un Raksti atkal saka: “Godā savu tēvu un savu māti.”</p><p class='paragr'>Ko tad sacīsim, brāļi? Vai gan Viņa nav mūsu Māte? Patiesi, brāļi, Viņa patiešām ir mūsu Māte. Jo caur Viņu mēs esam dzimuši nevis pasaulei, bet Dievam.</p><p class='paragr'>Mēs visi, kā jūs zināt un ticat, bijām nāvē, vecumā, tumsā un postā. Nāvē – jo bijām zaudējuši Kungu; vecumā – jo atradāmies samaitātībā; tumsā – jo bijām zaudējuši gudrības gaismu un tā pilnīgi gājuši bojā.</p><p class='paragr'>Bet caur svētīgo Mariju mēs esam dzimuši daudz labāk nekā caur Ievu, jo no Viņas piedzima Kristus. Vecuma vietā mēs atguvām jaunību, samaitātības vietā – neiznīcību, tumsas vietā – gaismu.</p><p class='paragr'>Viņa ir mūsu Māte – mūsu dzīvības Māte, mūsu neiznīcības Māte, mūsu gaismas Māte. Apustulis saka par mūsu Kungu: “Viņš mums no Dieva ir kļuvis par gudrību un taisnīgumu, un svētdarīšanu, un pestīšanu.”</p><p class='paragr'>Tātad Viņa, kas ir Kristus Māte, ir mūsu gudrības Māte, mūsu taisnīguma Māte, mūsu svētdarīšanas Māte, mūsu pestīšanas Māte. Tādēļ Viņa mums ir vairāk Māte nekā mūsu miesīgā māte. Jo no Viņas nāk mūsu labākā piedzimšana: no Viņas nāk mūsu svētums, mūsu gudrība, mūsu taisnīgums, mūsu svētdarīšana, mūsu pestīšana.</p><p class='paragr'>Raksti saka: “Slavējiet Kungu Viņa svētajos.” Ja mūsu Kungs ir slavējams tajos svētajos, caur kuriem Viņš dara spēka darbus un brīnumus, tad cik daudz vairāk Viņš ir slavējams šajā, kurā Viņš pats sevi veidoja – Viņš, kas pār visiem brīnumiem ir brīnumains.</p>",
+		"atbildesReference":"",//nav
+		"vers1": "Svētā Jaunava Marija, Tu esi svētlaimīga un ikvienas slavas viscienīgākā:",
+		"resp": "No Tevis uzlēca taisnības saule, Kristus, mūsu Dievs, caur kuru mēs esam glābti un atpestīti<span class='alleluja'>, alleluja</span>.",
+		"vers2": "Ar prieku svinēsim Vissvētākās Jaunavas Marijas svētkus (svinības)."
 	}
 }
 
@@ -1320,8 +1362,8 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 				}
 			}
 		},
-		6: {//6.ned.
-			0:{//Svētdiena
+		6: {//6.ned. Pārtraukums
+			0:{
 				1 : {
 					"lasijumstitle": "Sakāmvārdu grāmatas sākums",
 					"lasijumaRef": "1, 1-7.20-33",
@@ -1343,7 +1385,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Šī ir Dieva baušļu grāmata un Likums, kas paliek uz mūžiem; visi, kas to ievēro, dzīvos."
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "No Sakāmvārdu grāmatas",
 					"lasijumaRef": "3, 1-20",
@@ -1365,7 +1407,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Es viņu iemīlēju un esmu meklējis kopš savas jaunības, un kļuvu par viņas skaistuma cienītāju."
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "No Sakāmvārdu grāmatas",
 					"lasijumaRef": "8, 1-5.12-36",
@@ -1387,7 +1429,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Viens ir jūsu Mācītājs – Kristus."
 				}
 			},
-			3:{//Trešdiena
+			3:{//Pārtraukums
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1409,7 +1451,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1431,7 +1473,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "No Salamana Pamācību grāmatas 15:8–9. 16.–17. 25.–26. 29. 33; 16:1-9; 17, 5",
 					"lasijumstext": "Ļaunprātīgo upuris ir negantība Tam Kungam,<br>bet taisnā lūgšana viņam sagādā prieku.",
@@ -1449,7 +1491,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Uzdod savu ceļu Tam Kungam, paļaujies uz Viņu.",
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1473,7 +1515,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		7: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1495,7 +1537,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "No Mācību teicēja grāmatas",
 					"lasijumaRef": "2, 1-3.12-26",
@@ -1517,7 +1559,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Es esmu pasaules gaisma; kas seko man, tas nestaigās tumsā, bet viņam būs dzīvības gaisma.*",
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1539,7 +1581,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1561,7 +1603,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1583,7 +1625,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1605,7 +1647,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1628,8 +1670,8 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 				}
 			}
 		},
-		8: {
-			0:{//Svētdiena
+		8: {//  Atsākās
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1651,7 +1693,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{// Pātraukuma beigas
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1673,7 +1715,51 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
+				1 : {
+					"lasijumstitle": "No Ījaba grāmatas",
+					"lasijumaRef": "3, 1-26",
+					"lasijumsNos": "Ījaba žēlabas",
+					"lasijumstext": "<p class='paragr'>Pēc tam Ījabs atdarīja muti, lai nolādētu savu dienu. Ījabs runāja, sacīdams: “Lai zūd diena, kad piedzimu, un nakts, kad teica: vīrs ieņemts! Tā diena lai top tumsa! Lai Dievam augstumos tā nerūp, lai neatspīd pār to gaišums, lai tumsa to atprasa un nāves ēna, lai sedz to padebess, lai to baida pusdienas biedi! To nakti lai tumsība ņem, lai tā nelīksmo starp gada dienām, lai neienāk mēnešu skaitā! Redzi – tā nakts lai neauglīga, tanī lai neskan gaviles, lai tie to nolād, kas gāna dienu, kam dūša kaitināt leviatānu! Lai aptumst mijkrēslī zvaigznes, lai cer uz gaismu – bet nekā! Lai neveras ausmas plaksti! Kāpēc tā man neslēdza klēpja vārtus, neslēpa mokas manām acīm?! Vai nevarēju nedzimis nomirt vai, no klēpja iznākot, iznīkt? Kādēļ uz ceļgaliem ņēma mani un krūšu galus deva man zīst? Tagad es atgūlies dusētu rāmi, gulētu miegā, būtu man miers, līdzās ķēniņiem un zemes varenajiem, kas drupas vien sev cēluši, vai blakus augstmaņiem, kam zelts, kas savos namos sudrabu krāja. Kā neiznēsātam bija man zust – kā tiem bērniem, kas neredzēs gaismas! Tur ļaundari plosīties piekūst, tur atpūtu gūst guris un vārgs, blakus gūstekņi liekas dusēt, nedzird tie uzrauga balsi. Liels un mazs, ikviens tur būs, un vergs tur brīvs no sava kunga! Kādēļ viņš dāvā grūtdieņiem gaismu, rūgtdieņiem dzīvību dod, tiem, kas nāvi gaida – bet nav! – kas meklē to vairāk kā apraktu mantu, kas priecājas un līksmo, gavilē, kad atrod sev kapu? – Vīram, kam slēpts tā ceļš, tādam, ko Dievs iegrožojis? – Maizes vietā nopūtas man, līst kā ūdens brēcieni mani, no kā bītin bijos, nu notiek, no kā baiļojos, nu nāk man! Nav miera un nav miega, atpūtas nav, nemiers klāt!”</p>",
+					"atbildesReference":"Īj 3, 24-26; 6, 13",
+					"vers1": "Maizes vietā nopūtas man, līst kā ūdens brēcieni mani, no kā bītin bijos, nu notiek, no kā baiļojos, nu nāk man!",
+					"resp": "Un Tavas dusmas, Kungs, ir nākušas pār mani.",
+					"vers2": "Vai palīdzība nav atņemta man un mans padoms no manis atrauts?"
+				},
+				2 : { 
+					"lasijumstitle": "No svētā Augustīna, bīskapa, grāmatas “Atzīšanās”",
+					"lasijumaRef": "(Lib. 10, 1. 1 – 2. 2; 5. 7: CCL 27, 155.158)",
+					"lasijumsNos": "Tev, Kungs, esmu atklāts, lai kas es arī būtu",
+					"lasijumstext": "<p class='paragr'>Kungs, Tu mani pazīsti. Lai es pazīstu Tevi. Lai es Tevi pazīstu tā, kā pats esmu pazīts. Tu esi manas dvēseles spēks; ienāc tajā un dari to par savas mājvietas cienīgu, par īpašumu bez traipa un bez vainas. Tā ir mana cerība, un tādēļ es runāju. Šajā cerībā es priecājos, kad priecājos pareizi. Bet par citām šīs dzīves lietām – jo mazāk tās ir asaru vērtas, jo vairāk tās parasti tiek apraudātas; un jo vairāk tās ir asaru vērtas, jo mazāk cilvēki par tām skumst. Jo redzi – Tu esi mīlējis patiesību, jo tas, kas dara patiesību, nāk gaismā. To es gribu darīt Tava priekšā, slavēdams Tevi, un daudzu liecinieku priekšā, rakstīdams par Tevi.</p><p class='paragr'>Ak, Kungs, cilvēka sirdsapziņas dziļumi ir atsegti Tavu acu priekšā. Vai manī varētu palikt kas apslēpts, pat ja es negribētu to Tev atzīt? Tādā gadījumā es tikai slēptu Tevi no sevis, nevis sevi no Tevis. Bet tagad manas nopūtas pietiekami apliecina, ka es pats sev nepatīku; ka Tu esi mana gaisma un mana prieka avots; ka Tu esi mīlēts un ilgotais. Man ir dziļš kauns par sevi; esmu atsacījies no sevis un izvēlējies Tevi, atzīdams, ka nevaru patikt ne Tev, ne sev, ja vien Tu man to nedod.</p><p class='paragr'>Lai kas es būtu, Kungs, es esmu atklāts Tava skatiena priekšā. Es jau esmu pateicis, kādu labumu gūstu, Tev atzīdamies. Un es Tev neatdzīstos ar miesas vārdiem un miesas balsi, bet ar savas dvēseles vārdiem un ar sava prāta saucienu, ko Tu dzirdi un saproti. Kad esmu ļauns, mana atzīšanās Tev ir nepatika pret sevi. Bet, kad daru labu, mana atzīšanās ir tāda, ka es šo labumu nepierakstu sev. Jo Tu, Kungs, svētī taisnīgo, bet vispirms taisno bezdievīgo. Tādēļ es atzīstos Tev klusumā, un tomēr ne klusumā. Mana balss klusē, bet mana sirds sauc.</p><p class='paragr'>Tu, Kungs, esi mans tiesnesis. Jo, kaut arī neviens nezina, kas ir cilvēkā, kā vien paša cilvēka gars, kas viņā ir, tomēr cilvēkā ir arī tas, ko pats viņa gars nepazīst. Bet Tu pazīsti visu viņā, jo Tu viņu esi radījis. Bet es Tavā priekšā nicinu sevi, zinādams, ka esmu tikai pīšļi un pelni; tomēr par Tevi es zinu kaut ko tādu, ko par sevi nezinu.</p><p class='paragr'>Taisnība – tagad mēs redzam neskaidri, it kā spogulī, bet vēl ne vaigu vaigā. Tāpēc, kamēr esmu trimdā prom no Tevis, es esmu vairāk klātesošs sev nekā Tev. Taču es zinu, ka Tu nevari tikt uzvarēts, bet es nezinu, kādiem kārdinājumiem spēšu pretoties un kādiem ne. Tomēr man ir cerība, jo Tu esi uzticīgs un neļauj mūs pārbaudīt pāri mūsu spēkiem, bet līdz ar pārbaudījumu dod arī iespēju to panest.</p><p class='paragr'>Tādēļ es atzīšos gan tajā, ko par sevi zinu, gan arī tajā, ko nezinu. To, ko par sevi zinu, es zinu tāpēc, ka Tu mani esi apgaismojis; bet to, ko par sevi vēl nezinu, es zināšu tikai tad, kad mana tumsa Tavā priekšā kļūs gaiša kā dienas vidus.</p>",
+					"atbildesReference":"Ps 139 (138), 1b.2b.7",
+					"vers1": "Kungs, Tu esi izpētījis un iepazinis mani.",
+					"resp": "Manas domas Tu saproti no tālienes.",
+					"vers2": "Kurp gan es aiziešu no Tava gara un kurp gan aizbēgšu no Tava vaiga?"
+				}
+			},
+			3:{
+				1 : {
+					"lasijumstitle": "No Ījaba grāmatas",
+					"lasijumaRef": "7, 1-21",
+					"lasijumsNos": "Ījabs sūdzas Dievam par dzīves nogurumu",
+					"lasijumstext": "<p class='paragr'>Ījabs atbildēdams teica:</p><p class='paragr'>Vai cilvēks nav kara kalps zemes virsū un viņa dienas kā algādža dienas – kā vergam, kas ēnas alkst, kā algādzim, kas gaida algu? Tāpat man doti nīcības mēneši, moku naktis man nolemtas, guldamies prasu: kad celšos? – bet nakts velkas, apnicis grozos līdz ausmai. Miesa man klāta tārpiem un pīšļiem, āda man plaisā un pūžņo. Par atspoli žiglāk man dienas steidz, tās beidzas, un cerības nav. Atceries, mana dzīve kā dvesma, manas acis vairs neredzēs laba! Kas uzlūkos, neredzēs mani, raugies uz mani – un manis nav. Padebesis izirst un zūd, kas kapā nokāps, atpakaļ nenāks, savā namā neatgriezīsies, viņa mājvieta nepazīs viņu. Tādēļ es nesavaldīšu mēli, runāšu gara mokās, gaudīšos dvēseles rūgtumā.</p><p class='paragr'>Vai es jūra, vai es pūķis, ka tu izliec sardzi pret mani? Ja saku: guļvieta mierinās mani, un pagalvis atvieglos žēlabas, – vienalga, tu satrauc mani ar sapņiem, ar nakts jausmām tu biedē mani, un mana dvēsele grib nosmakt, nāvi grib mani kauli. Nu man pietiek! – ne mūžam man dzīvot, mities no manis! – manas dienas tik dvaša. Kas gan ir cilvēks, ka tu to cel tik augstu, ka pievērs tam savu sirdi, ka pārbaudi to katru rītu, katru mirkli to tirdi? Cik ilgi vēl nenovērsīsi skatu no manis? Tu neatlaidies pat tik, ka varu siekalas norīt! Esmu grēkojis! – bet ko tev es darījis, cilvēka Uzraudzītāj? Kādēļ mani par mērķi sev noliec? Kādēļ es kļuvis sev par nastu? Kādēļ tu nepiedod manu pārkāpumu, kādēļ nenoņem manu vainu? Redzi, tagad es pīšļos gulstos – meklēsi mani – un nav manis!”</p>",
+					"atbildesReference":"Īj 7, 5.7a.6",
+					"vers1": "Miesa man klāta tārpiem un pīšļiem, āda man plaisā un pūžņo.",
+					"resp": "Atceries, Kungs, mana dzīve ir kā dvesma.",
+					"vers2": "Par atspoli žiglāk man dienas steidz, tās beidzas, un cerības nav."
+				},
+				2 : { 
+					"lasijumstitle": "No svētā Augustīna, bīskapa, grāmatas “Atzīšanās”",
+					"lasijumaRef": "<br>(Lib. 10, 26.37 – 29.40: CCL 27, 174-176)" + ai(),
+					"lasijumsNos": "Visa mana cerība ir Tavā bezgalīgajā žēlsirdībā",
+					"lasijumstext": "<p class='paragr'>Kur es Tevi atradu, lai nāktu Tevi pazīt? Pirms es Tevi iepazinu, Tu nebiji manā atmiņā. Kur tad es Tevi atradu, pirms Tevi iepazinu, ja ne Tevī pašā, augstu pāri man? Mēs nākam pie Tevis un aizejam no Tevis, bet šajā kustībā nav nevienas vietas. Tu, Patiesība, esi visur klātesošs tiem, kas meklē Tavu palīdzību, un vienā un tajā pašā brīdī Tu atbildi visiem, kaut arī tie jautā Tev padomu par dažādām lietām.</p><p class='paragr'>Tu atbildi skaidri, bet ne visi skaidri sadzird. Visi jautā to, ko paši grib, bet ne vienmēr sadzird to, ko paši gribētu dzirdēt. Tavs labākais kalps ir tas, kurš vairāk tiecas nevis dzirdēt, ka viņa lūgums ir uzklausīts, bet gan vēlas visu to, ko no Tevis dzird.</p><p class='paragr'>Vēlu es Tevi iemīlēju, ak, skaistums tik sens un tik jauns, vēlu es Tevi iemīlēju! Tu biji manī, bet es biju ārā, un tur es Tevi meklēju. Savā neglītumā es metos uz skaistajām lietām, ko Tu biji radījis. Tu biji ar mani, bet es nebiju ar Tevi. Mani no Tevis atturēja radītās lietas; tomēr, ja tās nebūtu Tevī, tās nemaz nebūtu. Tu sauci, Tu skaļi sauci un salauzi manu kurlumu. Tu uzliesmoji, Tu atmirdzēji un izkliedēji manu aklumu. Tu man uzdvesi savu smaržu; es ievilku elpu, un tagad es alkstu pēc Tevis. Es Tevi baudīju, un tagad esmu izsalcis un izslāpis pēc Tevis vēl vairāk. Tu man pieskāries, un es iedegos ilgās pēc Tava miera.</p><p class='paragr'>Kad es reiz būšu vienots ar Tevi visā savā būtībā, tad beidzot būšu brīvs no sāpēm un pūlēm. Tad mana dzīve patiesi būs dzīva, jo pilnīgi piepildīta ar Tevi. Kad Tu cilvēku piepildi, Tu viņu atbrīvo no viņa nastas; bet, tā kā es vēl neesmu ar Tevi piepildīts, es pats sev esmu nasta. Mans prieks, kad man vajadzētu raudāt, cīnās ar manām bēdām, kad man vajadzētu priecāties. Es nezinu, kur ir uzvara. Bēdas man! Kungs, apžēlojies par mani! Manas ļaunās skumjas un manas labās prieka jūtas karo savā starpā. Es nezinu, kur ir uzvara. Bēdas man! Kungs, apžēlojies! Bēdas man! Es nemaz nemēģinu slēpt savas brūces. Tu esi mans ārsts, es – Tavs slimnieks. Tu esi žēlsirdīgs, es stāvu Tavas žēlsirdības priekšā.</p><p class='paragr'>Vai cilvēka dzīve virs zemes nav pārbaudījums? Kurš gan gribētu grūtības un ciešanas? Tu pavēli mums tās panest, nevis mīlēt. Neviens nemīl to, ko panes, kaut arī viņš var mīlēt pašu panešanas tikumu. Jo, pat ja viņš priecājas par to, ka spēj panest savu nastu, tomēr labprātāk gribētu, lai šīs nastas vispār nebūtu. Nelaimē es ilgojos pēc labklājības, bet labklājībā es baidos no nelaimes. Kāds gan vidusceļš ir starp šīm galējībām, kur cilvēka dzīve nebūtu pārbaudījums? Bēdas šīs pasaules labklājībai, bēdas atkal un atkal, jo tā samaitā prieku un rada baiļu pilnu nedrošību. Bēdas arī šīs pasaules nelaimēm, bēdas vēl un vēlreiz, jo tā piepilda cilvēku ar ilgām pēc labklājības un tāpēc, ka pati nelaime ir grūti panesama un var pat salauzt izturību. Vai tad cilvēka dzīve virs zemes nav pārbaudījums, nemitīgs pārbaudījums?</p>",
+					"atbildesReference":"Lk 19, 10",
+					"vers1": "Vēlu es tevi iemīlēju, skaistums tik sens un tik jauns, vēlu es tevi iemīlēju!",
+					"resp": "Tu sauci, Tu skaļi sauci un salauzi manu kurlumu.",
+					"vers2": "Cilvēka Dēls ir nācis meklēt un glābt pazudušo."
+				}
+			},
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1695,7 +1781,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1717,51 +1803,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
-				1 : {
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
-				},
-				2 : { 
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
-				}
-			},
-			5:{//Piektdiena
-				1 : {
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
-				},
-				2 : { 
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
-				}
-			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1785,7 +1827,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		9: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1807,7 +1849,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1829,7 +1871,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1851,7 +1893,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1873,7 +1915,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1895,7 +1937,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1917,7 +1959,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1941,7 +1983,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		10: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1963,7 +2005,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -1985,7 +2027,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2007,7 +2049,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2029,7 +2071,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2051,7 +2093,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2073,7 +2115,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2097,7 +2139,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		11: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2119,7 +2161,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2141,7 +2183,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2163,7 +2205,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2185,7 +2227,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2207,7 +2249,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2229,7 +2271,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2253,7 +2295,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		12: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2275,7 +2317,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2297,7 +2339,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2319,7 +2361,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2341,7 +2383,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2363,7 +2405,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2385,7 +2427,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2409,7 +2451,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		13: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2431,7 +2473,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2453,7 +2495,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2475,7 +2517,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2497,7 +2539,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2519,7 +2561,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2541,7 +2583,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2565,7 +2607,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		14: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2587,7 +2629,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2609,7 +2651,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2631,7 +2673,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2653,7 +2695,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2675,7 +2717,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2697,7 +2739,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "14",
 					"lasijumstext": "<p class='paragr'></p>",
@@ -2717,7 +2759,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		15: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2739,7 +2781,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2761,7 +2803,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2783,7 +2825,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2805,7 +2847,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2827,7 +2869,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2849,7 +2891,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2873,7 +2915,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		16: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2895,7 +2937,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2917,7 +2959,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2939,7 +2981,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2961,7 +3003,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -2983,7 +3025,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3005,7 +3047,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3029,7 +3071,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		17: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3051,7 +3093,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3073,7 +3115,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3095,7 +3137,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3117,7 +3159,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3139,7 +3181,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3161,7 +3203,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3185,7 +3227,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		18: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3207,7 +3249,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3229,7 +3271,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3251,7 +3293,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3273,7 +3315,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3295,7 +3337,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3317,7 +3359,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3341,7 +3383,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		19: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3363,7 +3405,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3385,7 +3427,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3407,7 +3449,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3429,7 +3471,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3451,7 +3493,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3473,7 +3515,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3497,7 +3539,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		20: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3519,7 +3561,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3541,7 +3583,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3563,7 +3605,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3585,7 +3627,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3607,7 +3649,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3629,7 +3671,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3653,7 +3695,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		21: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3675,7 +3717,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3697,7 +3739,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "Pravieša Jeremijas grāmatas sākums",
 					"lasijumaRef": "1, 1-19" + ai,
@@ -3719,7 +3761,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kas man tic, kā Rakstos sacīts, no tā miesas plūdīs dzīvā ūdens straumes.",
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3741,7 +3783,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3763,7 +3805,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3785,7 +3827,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3809,7 +3851,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		22: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3831,7 +3873,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3853,7 +3895,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3875,7 +3917,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3897,7 +3939,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3919,7 +3961,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3941,7 +3983,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3965,7 +4007,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		23: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -3987,7 +4029,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4009,7 +4051,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4031,7 +4073,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4053,7 +4095,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4075,7 +4117,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4097,7 +4139,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4121,7 +4163,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		24: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4143,7 +4185,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4165,7 +4207,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4187,7 +4229,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4209,7 +4251,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4231,7 +4273,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4253,7 +4295,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4277,7 +4319,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		25: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4299,7 +4341,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4321,7 +4363,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4343,7 +4385,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4365,7 +4407,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4387,7 +4429,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4409,7 +4451,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4433,7 +4475,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		26: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4455,7 +4497,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4477,7 +4519,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4499,7 +4541,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4521,7 +4563,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4543,7 +4585,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4565,7 +4607,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4589,7 +4631,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		27: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4611,7 +4653,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4633,7 +4675,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4655,7 +4697,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4677,7 +4719,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4699,7 +4741,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4721,7 +4763,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4745,7 +4787,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		28: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4767,7 +4809,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4789,7 +4831,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4811,7 +4853,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4833,7 +4875,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4855,7 +4897,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4877,7 +4919,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4901,7 +4943,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		29: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4923,7 +4965,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4945,7 +4987,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4967,7 +5009,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -4989,7 +5031,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5011,7 +5053,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5033,7 +5075,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5057,7 +5099,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		30: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5079,7 +5121,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5101,7 +5143,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5123,7 +5165,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5145,7 +5187,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5167,7 +5209,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5189,7 +5231,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5213,7 +5255,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		31: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5235,7 +5277,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5257,7 +5299,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5279,7 +5321,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5301,7 +5343,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5323,7 +5365,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5345,7 +5387,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5369,7 +5411,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		32: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5391,7 +5433,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5413,7 +5455,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5435,7 +5477,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5457,7 +5499,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5479,7 +5521,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5501,7 +5543,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5525,7 +5567,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		33: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5547,7 +5589,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5569,7 +5611,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5591,7 +5633,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5613,7 +5655,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5635,7 +5677,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5657,7 +5699,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5681,7 +5723,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		34: {
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5703,7 +5745,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5725,7 +5767,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5747,7 +5789,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5769,7 +5811,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5791,7 +5833,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "",
 					"lasijumaRef": "",
@@ -5813,7 +5855,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": ""
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "No svētā apustuļa Jūdas vēstules",
 					"lasijumaRef": "1-8. 12-13. 17-25",
@@ -6004,7 +6046,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		0:{//Pelnu nedēļa
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "No pravieša Isaja grāmatas",
 					"lasijumaRef": "58, 1-12",
@@ -6026,7 +6068,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kungs nevēlas grēcinieka nāvi, bet gan to, lai viņš atgriežas un dzīvo."
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "Izceļošanas grāmatas sākums",
 					"lasijumaRef": "1, 1-22",
@@ -6048,7 +6090,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Visās lietās parādīsim sevi kā Dieva kalpus."
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "2, 1-22",
@@ -6070,7 +6112,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kungs, glāb mūs, mēs ejam bojā!"
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "3, 1-20",
@@ -6094,7 +6136,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		1:{
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "5, 1 – 6, 1",
@@ -6116,7 +6158,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Tu nekritīsi no zobena, bet tava dzīvība tiks glābta kā laupījums."
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "6, 2-13",
@@ -6138,7 +6180,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Tāpēc esiet žēlsirdīgi, kā arī jūsu Tēvs ir žēlsirdīgs."
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "6, 29 – 7, 25",
@@ -6160,7 +6202,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Un ko vien jūs lūgsiet Tēvam Manā vārdā, to Es izdarīšu, lai Tēvs tiktu pagodināts Dēlā."
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "10, 21 – 11, 10",
@@ -6182,7 +6224,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Es došu savu likumu nevis uz akmens plāksnēm, bet uz dzīvajām sirds plāksnēm."
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "12, 1-20",
@@ -6204,7 +6246,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Ja jūs cilvēkiem piedosiet viņu grēkus, tad arī jūsu debesu Tēvs piedos jums."
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "12, 21-36",
@@ -6226,7 +6268,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Jēzus sacīja: “Tēvs, piedod viņiem, jo ​​tie nezina, ko dara.”"
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "12, 37-49; 13, 11-16",
@@ -6250,7 +6292,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		2:{
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "13, 17 – 14, 9",
@@ -6272,7 +6314,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kaut jūs šodien dzirdētu Viņa balsi: “Nenocietiniet savas sirdis!”"
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "14, 10-31",
@@ -6294,7 +6336,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Negodu Kristus dēļ viņš uzskatīja par lielāku bagātību nekā Ēģiptes dārgumus, ticības dēļ viņš atstāja Ēģipti."
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "16, 1-18.35",
@@ -6316,7 +6358,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Es dzīvoju ticībā Dieva Dēlam, kas mīlēja mani un par mani atdeva pats sevi."
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "17, 1-16",
@@ -6338,7 +6380,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Pirms nāca ticība, mēs bijām pakļauti likumam, līdz brīdim, kad bija jāatklājas ticībai."
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "18, 13-27",
@@ -6360,7 +6402,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Viņa žēlsirdība paliek uz paaudžu paaudzēm tiem, kas Viņa bīstas."
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "19, 1-19; 20, 18-21",
@@ -6382,7 +6424,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Mozus uzkāpa pie Kunga Sinaja kalnā un bija tur četrdesmit dienas un četrdesmit naktis"
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "20, 1-17",
@@ -6406,7 +6448,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		3:{
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "22, 19 – 23, 9",
@@ -6428,7 +6470,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kas dzers no ūdens, ko Es viņam došu, tam nemūžam vairs neslāps."
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "24, 1-18",
@@ -6450,7 +6492,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Mūžīgā dzīve ir tā, ka viņi atzītu Tevi – vienīgo, patieso Dievu, un to, kuru Tu sūtīji – Jēzu Kristu."
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "32, 1-20",
@@ -6472,7 +6514,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Tie, kas dod žēlsirdības dāvanas, būs apmierināti ar dzīvi."
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "<br>33, 7-11.18-23; 34, 5-9.29-35",
@@ -6494,7 +6536,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Visās lietās parādīsim sevi kā Dieva kalpus ar lielu pacietību, ar daudziem gavēņiem."
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "34, 10-28",
@@ -6516,7 +6558,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Dievs ir Gars; un tiem, kas Viņu pielūdz, jāpielūdz Garā un patiesībā."
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "35, 30 – 36, 1; 37, 1–9",
@@ -6538,7 +6580,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Šīs ir apslacīšanas asinis, kas runā spēcīgāk nekā Ābela asinis."
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "No Izceļošanas grāmatas",
 					"lasijumaRef": "40, 16-38",
@@ -6562,7 +6604,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		4:{
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "No Levītu grāmatas",
 					"lasijumaRef": "8, 1-17; 9, 22-24",
@@ -6584,7 +6626,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kungs, pie kā lai mēs ejam? Tev ir mūžīgās dzīves vārdi."
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "No Levītu grāmatas",
 					"lasijumaRef": "16, 2-28",
@@ -6606,7 +6648,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Viņš ir taisnības ķēniņš, bez dienu iesākuma un bez dzīves beigām."
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "No Levītu grāmatas",
 					"lasijumaRef": "19, 1-18.31-37",
@@ -6628,7 +6670,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kā Kungs jums ir piedevis, tāpat dariet arī jūs."
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "No Skaitļu grāmatas",
 					"lasijumaRef": "11, 4-6.10-30",
@@ -6650,7 +6692,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kad manā sirdī vairojās bažas, tad Tavs mierinājums ielīksmoja manu dvēseli."
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "No Skaitļu grāmatas",
 					"lasijumaRef": "12, 16 – 13, 1-3a.7-33",
@@ -6672,7 +6714,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Mēs sludinām krustā sisto Kristu, kas jūdiem ir ieļaunojums un pagāniem – muļķība."
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "No Skaitļu grāmatas",
 					"lasijumaRef": "14, 1-25",
@@ -6694,7 +6736,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Es, kad tikšu pacelts virs šīs zemes, visus pievilkšu pie sevis."
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "No Skaitļu grāmatas",
 					"lasijumaRef": "20, 1-13; 21, 4-9",
@@ -6718,7 +6760,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		5:{
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "Vēstules ebrejiem sākums",
 					"lasijumaRef": "1, 1 – 2, 4",
@@ -6740,7 +6782,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Lūk, Dieva Jērs, lūk, kas nes pasaules grēku."
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "2, 5-18",
@@ -6762,7 +6804,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kristus nomira par mums, kad mēs vēl bijām grēcinieki."
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "3, 1-19",
@@ -6784,7 +6826,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kad jūs būsiet paaugstinājuši Cilvēka Dēlu, tad jūs zināsiet, ka Es tas esmu."
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "6, 9-20",
@@ -6806,7 +6848,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Patiesi, patiesi Es jums saku: ja jūs ko lūgsiet no Tēva manā vārdā, Viņš jums to dos."
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "7, 1-10",
@@ -6828,7 +6870,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Laimīga tā tauta, kuras Kungs ir Dievs, ļaudis, kurus Viņš ir izvēlējies sev par īpašumu."
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "7, 11-28",
@@ -6850,7 +6892,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Dievs Viņu ir nolicis par izlīgumu Viņa asinīs, ko saņemam ticībā."
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "8, 1-13",
@@ -6874,7 +6916,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			}
 		},
 		6:{ // Lielā nedēļa
-			0:{//Svētdiena
+			0:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "10, 1-18",
@@ -6896,7 +6938,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Bet ļaužu pulki, kas gāja Viņam pa priekšu un kas sekoja, skaļā balsī sauca:"
 				}
 			},
-			1:{//Pirmdiena
+			1:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "10, 19-39",
@@ -6918,7 +6960,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Tādēļ, Tevi lūdzam, palīdzi saviem kalpiem, kurus esi atpircis ar savām dārgajām asinīm."
 				}
 			},
-			2:{//Otrdiena
+			2:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "12, 1-13",
@@ -6940,7 +6982,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Kristībā mēs līdz ar Viņu esam apbedīti nāvei."
 				}
 			},
-			3:{//Trešdiena
+			3:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "12, 14-29",
@@ -6962,7 +7004,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Dievs mūs ir mīlējis un sūtījis savu Dēlu kā izlīguma upuri par mūsu grēkiem."
 				}
 			},
-			4:{//Ceturtdiena
+			4:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "4, 14 – 5, 10",
@@ -6984,7 +7026,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": "Lūk, Dieva Jērs, kas nes pasaules grēku."
 				}
 			},
-			5:{//Piektdiena
+			5:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "9, 11-28",
@@ -7006,7 +7048,7 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers2": " Dieva Dēla, Jēzus Kristus asinis šķīstī mūs no visiem grēkiem."
 				}
 			},
-			6:{//Sestdiena
+			6:{
 				1 : {
 					"lasijumstitle": "No vēstules ebrejiem",
 					"lasijumaRef": "4, 1-13",
@@ -7032,317 +7074,523 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 	},
 	"lieldienas" : {
 		"psalmodijs":{
-		0:{//template
-			"ant1": "",
-			"ps1": "",
-			"ant2": "",	
-			"ps2": "",
-			"ant3": "",
-			"ps3": "",
-			"atb1": "",
-			"atb2": ""
+			0:{//template
+				"ant1": "",
+				"ps1": "",
+				"ant2": "",	
+				"ps2": "",
+				"ant3": "",
+				"ps3": "",
+				"atb1": "",
+				"atb2": ""
+				},
+			1:{//Lieldienu oktāva
+				0:{ }, // Lieldienas sava liturģija
+				1:{ // pirmdiena
+					"ant1": "Es esmu, kas esmu, un mans padoms nav ar bezdievjiem, bet man prātā ir Kunga Likums, alleluja.",
+					"ps1": "psalms1",
+					"ant2": "Es prasīju savam Tēvam; Viņš man deva mantojumā tautas, alleluja.",	
+					"ps2": "psalms2",
+					"ant3": "Es apgūlos un aizmigu, un es piecēlos, jo Kungs mani sargāja, alleluja.",
+					"ps3": "psalms3",
+					"atb1": "Mācekļi, ieraudzījuši Kungu, alleluja.",
+					"atb2": "Kļuva priecīgi, alleluja."
+				},
+				2:{ // otrdiena
+					"ant1": "Debespulku Kungs – Viņš pats ir godības Ķēniņš, alleluja.",
+					"ps1": "psalms24",
+					"ant2": "Tautas, slavējiet mūsu Dievu, jo Viņš manai dvēselei dāvāja dzīvību, alleluja.",	
+					"ps2": "psalms66I",
+					"ant3": "Nāciet un klausieties, ko Kungs ir veicis manas dvēseles labā, alleluja.",
+					"ps3": "psalms66II",
+					"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja.",
+					"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
+				},
+				3:{ // trešdiena
+					"ant1": "Kungs, mans Dievs, Tu esi bezgala liels, alleluja.",
+					"ps1": "psalms104I",
+					"ant2": "Ar savu darbu augļiem, Kungs, Tu sātini zemi, alleluja.",	
+					"ps2": "psalms104II",
+					"ant3": "Lai Kunga godība pastāv uz mūžiem, alleluja.",
+					"ps3": "psalms104III",
+					"atb1": "Dievs uzmodināja Kungu, alleluja.",
+					"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
+				},
+				4:{ // ceturtdiena
+					"ant1": "Lai Izraēlis tagad saka: “Viņa žēlsirdība pastāv mūžam.” Alleluja.",
+					"ps1": "psalms118I",
+					"ant2": "Kungs ir mans glābējs, alleluja.",	
+					"ps2": "psalms118II",
+					"ant3": "Kungs to izdarīja, un mums tas izskatās brīnumaini, alleluja.",
+					"ps3": "psalms118III",
+					"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
+					"atb2": "Līksmojas debesis un zeme, alleluja."
+				},
+				5:{ // piekdiena
+					"ant1": "Slavējiet Kungu, Viņš vienīgais darīja lielus brīnumus, alleluja.",
+					"ps1": "psalms136I",
+					"ant2": "Slavējiet Kungu, Viņš vienīgais darīja lielus brīnumus, alleluja.",	
+					"ps2": "psalms136IIa",
+					"ant3": "Kungs atbrīvoja mūs no ienaidniekiem, alleluja.",
+					"ps3": "psalms136IIIa",
+					"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
+					"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
+				},
+				6:{ // setdiena
+					"ant1": "Kungs ir liels, un Viņa dižums ir neizmērojams, alleluja.",
+					"ps1": "psalms145Ia",
+					"ant2": "Kungs ir darījis zināmu savas valstības diženuma godību, alleluja.",	
+					"ps2": "psalms145IIa",
+					"ant3": "Ikviena miesa lai teic Tavu svēto vārdu uz mūžu mūžiem, alleluja.",
+					"ps3": "psalms145IIIa",
+					"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja.",
+					"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
+				}
 			},
-		1:{//Lieldienu oktāva
-			0:{ }, // Lieldienas sava liturģija
-			1:{ // pirmdiena
-				"ant1": "Es esmu, kas esmu, un mans padoms nav ar bezdievjiem, bet man prātā ir Kunga Likums, alleluja.",
-				"ps1": "psalms1",
-				"ant2": "Es prasīju savam Tēvam; Viņš man deva mantojumā tautas, alleluja.",	
-				"ps2": "psalms2",
-				"ant3": "Es apgūlos un aizmigu, un es piecēlos, jo Kungs mani sargāja, alleluja.",
-				"ps3": "psalms3",
-				"atb1": "Mācekļi, ieraudzījuši Kungu, alleluja.",
-				"atb2": "Kļuva priecīgi, alleluja."
+			2:{//2.nedēļa
+				0:{ // svētdiena
+					"ant1": "Es esmu, kas esmu, un mans padoms nav ar bezdievjiem, bet man prātā ir Kunga Likums, alleluja.",
+					"ps1": "psalms1",
+					"ant2": "Es prasīju savam Tēvam; Viņš man deva mantojumā tautas, alleluja.",	
+					"ps2": "psalms2",
+					"ant3": "Es apgūlos un aizmigu, un es piecēlos, jo Kungs mani sargāja, alleluja.",
+					"ps3": "psalms3",
+					"atb1": "Mācekļi, ieraudzījuši Kungu, alleluja.",
+					"atb2": "Kļuva priecīgi, alleluja."
+				},
+				1:{ // pirmdiena
+					"ant1": "Pievērs man savu ausi, Kungs, steidzies mani izglābt.",
+					"ps1": "psalms31I",
+					"ant2": "Tavs vaigs lai gaiši atmirdz pār Tavu kalpu, Kungs<span class='alleluja'>, alleluja</span>.",	
+					"ps2": "psalms31II",
+					"ant3": "Lai ir slavēts Kungs, jo Viņš man brīnišķīgi parādīja savu žēlsirdību<span class='alleluja'>, alleluja</span>.",
+					"ps3": "psalms31III",
+					"atb1": "Mana sirds un mana miesa, alleluja.",
+					"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
+				},
+				2:{ // otrdiena
+					"ant1": "Uztici Kungam savu ceļu, un Viņš pats rīkosies<span class='alleluja'>, alleluja</span>.",
+					"ps1": "psalms37I",
+					"ant2": "Novērsies no ļauna un dari labu; taisnīgos Kungs stiprina<span class='alleluja'>, alleluja</span>.",	
+					"ps2": "psalms37II",
+					"ant3": "Gaidi Kungu un ievēro Viņa ceļu<span class='alleluja'>, alleluja</span>.",
+					"ps3": "psalms37III",
+					"atb1": "Kristus, piecēlies no mirušajiem, vairs nemirst, alleluja.",
+					"atb2": "Nāvei vairs nav varas pār Viņu, alleluja."
+				},
+				3:{ // trešdiena
+					"ant1": "Mēs paši sevī vaimanājam, gaidīdami mūsu miesas atpestīšanu.",
+					"ps1": "psalms39I",
+					"ant2": "Kungs, uzklausi manu lūgšanu; sadzirdi manu saucienu.",	
+					"ps2": "psalms39II",
+					"ant3": "Es vienmēr paļaujos uz Dieva žēlsirdību<span class='alleluja'>, alleluja</span>.",
+					"ps3": "psalms52",
+					"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja",
+					"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
+				},
+				4:{ // ceturtdiena
+					"ant1": "Tu izglābi mūs, Kungs, un Tavu vārdu mēs slavēsim uz mūžiem<span class='alleluja'>, alleluja</span>.",
+					"ps1": "psalms44I",
+					"ant2": "Iežēlojies, Kungs, un savu mantojumu nepamet kaunā.",	
+					"ps2": "psalms44II",
+					"ant3": "Celies, Kungs, un savas žēlsirdības dēļ mūs atpestī<span class='alleluja'>, alleluja</span>!",
+					"ps3": "psalms44III",
+					"atb1": "Dievs uzmodināja Kungu, alleluja.",
+					"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
+				},
+				5:{ // piekdiena
+					"ant1": "Kungs, nepārmāci mani savās dusmās.",
+					"ps1": "psalms38I",
+					"ant2": "Kungs, Tavā priekšā ir visas manas ilgas<span class='alleluja'>, alleluja</span>.",	
+					"ps2": "psalms38II",
+					"ant3": "Es atzīstos Tev savā vainā; neatstāj mani, Kungs, mana pestīšana<span class='alleluja'>, alleluja</span>!",
+					"ps3": "psalms38III",
+					"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
+					"atb2": "Līksmojas debesis un zeme, alleluja."
+				},
+				6:{ // setdiena
+					"ant1": "Kungs, atceries mūs, apmeklē mūs ar savu glābiņu, alleluja.",
+					"ps1": "psalms106I",
+					"ant2": "Sargieties, ka neaizmirstat Kunga, sava Dieva, derību, alleluja.",	
+					"ps2": "psalms106II",
+					"ant3": "Atpestī mūs, Kungs, un pulcini mūs kopā no tautām, alleluja.",
+					"ps3": "psalms106III",
+					"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
+					"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
+				}
 			},
-			2:{ // otrdiena
-				"ant1": "Debespulku Kungs – Viņš pats ir godības Ķēniņš, alleluja.",
-				"ps1": "psalms24",
-				"ant2": "Tautas, slavējiet mūsu Dievu, jo Viņš manai dvēselei dāvāja dzīvību, alleluja.",	
-				"ps2": "psalms66I",
-				"ant3": "Nāciet un klausieties, ko Kungs ir veicis manas dvēseles labā, alleluja.",
-				"ps3": "psalms66II",
-				"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja.",
-				"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
+			3:{//3.nedēļa
+				0:{ // svētdiena
+					"ant1": "Alleluja, akmens ir novelts no kapa ieejas, alleluja.",
+					"ps1": "psalms145Ia",
+					"ant2": "Alleluja. Sieviet, ko tu meklē? Dzīvo starp mirušajiem? Alleluja.",	
+					"ps2": "psalms145IIa",
+					"ant3": "Alleluja. Marij, neraudi: Kungs ir augšāmcēlies, alleluja.",
+					"ps3": "psalms145IIIa",
+					"atb1": "Mana miesa ir atkal dzīva, alleluja.",
+					"atb2": "Un es brīvi slavēšu Viņu, alleluja."
+				},
+				1:{ // pirmdiena
+					"ant1": "Mūsu Dievs atnāks un neklusēs, alleluja.",
+					"ps1": "psalms50I",
+					"ant2": "Veltī Dievam slavas upuri, alleluja.",	
+					"ps2": "psalms50II",
+					"ant3": "Es vēlos žēlsirdību, nevis kaujamo upuri, un Dieva pazīšanu – vairāk nekā dedzināmos upurus, alleluja.",
+					"ps3": "psalms50III",
+					"atb1": "Mana sirds un mana miesa, alleluja.",
+					"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
+				},
+				2:{ // otrdiena
+					"ant1": "Dievs pieceļas, un tie, kas Viņu ienīst, bēg no Viņa vaiga, alleluja.",
+					"ps1": "psalms68I",
+					"ant2": "Mūsu Dievs ir glābējs Dievs, un Kungs ļauj izbēgt no nāves, alleluja.",	
+					"ps2": "psalms68II",
+					"ant3": "Dziediet Dievam jūs, zemes valstis, dziediet slavinājumus Kungam, alleluja.",
+					"ps3": "psalms68III",
+					"atb1": "Kristus, piecēlies no mirušajiem, vairs nemirst, alleluja.",
+					"atb2": "Nāvei vairs nav varas pār Viņu, alleluja."
+				},
+				3:{ // trešdiena
+					"ant1": "Žēlsirdība un uzticība Tev iet pa priekšu, Kungs, alleluja.",
+					"ps1": "psalms89I",
+					"ant2": "Dieva Dēls pēc miesas ir cēlies no Dāvida cilts, alleluja.",	
+					"ps2": "psalms89II",
+					"ant3": "Es reiz zvērēju manam kalpam Dāvidam: viņa dzimta pastāvēs mūžam, alleluja.",
+					"ps3": "psalms89III",
+					"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja.",
+					"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
+				},
+				4:{ // ceturtdiena
+					"ant1": "Paskaties, Kungs un ieraugi mūsu negodu!",
+					"ps1": "psalms89IV",
+					"ant2": "Es esmu Dāvida atvase un dzimums, spožā rīta zvaigzne, alleluja.",	
+					"ps2": "psalms89V",
+					"ant3": "Mūsu gadi paiet kā zāle: Tu, Dievs, esi mūžīgs, alleluja.", 
+					"ps3": "psalms90",
+					"atb1": "Dievs uzmodināja Kungu, alleluja.",
+					"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
+				},
+				5:{ // piekdiena
+					"ant1": "Esmu piekusis kliedzot, gaidot manu Dievu, alleluja.",
+					"ps1": "psalms69I",
+					"ant2": "Viņi žulti man deva kā ēdienu un manās slāpēs dzirdināja mani ar etiķi.",	
+					"ps2": "psalms69II",
+					"ant3": "Meklējiet Kungu, un jūsu dvēseles dzīvos, alleluja.",
+					"ps3": "psalms69III",
+					"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
+					"atb2": "Līksmojas debesis un zeme, alleluja."
+				},
+				6:{ // setdiena
+					"ant1": "Lai viņi pateicas Kungam par Viņa žēlsirdību un Viņa brīnumdarbiem cilvēku bērnu labā, alleluja.",
+					"ps1": "psalms107I",
+					"ant2": "Viņi redzēja Kunga darbus un Viņa brīnumus, alleluja.",	
+					"ps2": "psalms107II",
+					"ant3": "To redzēs taisnīgie un priecāsies, un sapratīs Kunga žēlsirdības darbus, alleluja.",
+					"ps3": "psalms107III",
+					"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
+					"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
+				}
 			},
-			3:{ // trešdiena
-				"ant1": "Kungs, mans Dievs, Tu esi bezgala liels, alleluja.",
-				"ps1": "psalms104I",
-				"ant2": "Ar savu darbu augļiem, Kungs, Tu sātini zemi, alleluja.",	
-				"ps2": "psalms104II",
-				"ant3": "Lai Kunga godība pastāv uz mūžiem, alleluja.",
-				"ps3": "psalms104III",
-				"atb1": "Dievs uzmodināja Kungu, alleluja.",
-				"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
+			4:{//4.nedēļa
+				0:{ // svētdiena
+					"ant1": "Alleluja, akmens ir novelts no kapa ieejas, alleluja.",
+					"ps1": "psalms24",
+					"ant2": "Alleluja. Sieviet, ko tu meklē? Dzīvo starp mirušajiem? Alleluja.",	
+					"ps2": "psalms66I",
+					"ant3": "Alleluja. Marij, neraudi: Kungs ir augšāmcēlies, alleluja.",
+					"ps3": "psalms66II",
+					"atb1": "Mana miesa ir atkal dzīva, alleluja.",
+					"atb2": "Un es brīvi slavēšu Viņu, alleluja."
+				},
+				1:{ // pirmdiena
+					"ant1": "Cik labs ir Izraēļa Dievs pret tiem, kam sirds ir skaidra, alleluja!",
+					"ps1": "psalms73I",
+					"ant2": "Viņu smiekli pārvērtīsies sērās un viņu prieks – bēdās.",	
+					"ps2": "psalms73II",
+					"ant3": "Tie, kas attālinās no Tevis, aiziet bojā; bet man ir labi būt tuvu pie Dieva, alleluja.",
+					"ps3": "psalms73III",
+					"atb1": "Mana sirds un mana miesa, alleluja.",
+					"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
+				},
+				2:{ // otrdiena
+					"ant1": "Mans sauciens, Kungs, lai nonāk pie Tevis; neapslēp no manis savu vaigu.",
+					"ps1": "psalms102I",
+					"ant2": "Ņem vērā, Kungs, trūcīgo ļaužu lūgšanu.",	
+					"ps2": "psalms102II",
+					"ant3": "Tu, Kungs, izveidoji zemi, un debesis ir Tavu roku darbs, alleluja.",
+					"ps3": "psalms102III",
+					"atb1": "Kristus, piecēlies no mirušajiem, vairs nemirst, alleluja.",
+					"atb2": "Nāvei vairs nav varas pār Viņu, alleluja."
+				},
+				3:{ // trešdiena
+					"ant1": "Teic, mana dvēsele, Kungu un neaizmirsti visu to, ko Viņš tev ir devis, alleluja!",
+					"ps1": "psalms103I",
+					"ant2": "Kā tēvs žēlo savus bērnus, tā apžēlojas Kungs par tiem, kas Viņu bijā, alleluja.",	
+					"ps2": "psalms103II",
+					"ant3": "Teiciet Kungu, visi Viņa darbiUn Viņš ar savu spēku uzmodinās arī mūs, alleluja!",
+					"ps3": "psalms103III",
+					"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja",
+					"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
+				},
+				4:{ // ceturtdiena
+					"ant1": "Ne jau viņu delms tos izglāba, bet Tava labā roka un Tava vaiga gaisma, alleluja.",
+					"ps1": "psalms44I",
+					"ant2": "Kungs nenovērsīs savu vaigu no tevis, ja tu atgriezīsies pie Viņa, alleluja.",	
+					"ps2": "psalms44II",
+					"ant3": "Celies, Kungs, un neatmet mūs uz visiem laikiem!",
+					"ps3": "psalms44III",
+					"atb1": "Dievs uzmodināja Kungu, alleluja.",
+					"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
+				},
+				5:{ // piekdiena savs
+					"ant1": "Mūsu tēvi mums ir stāstījuši par Kunga spēku un par Viņa brīnumiem, ko Viņš ir darījis, alleluja.",
+					"ps1": "psalms78I",
+					"ant2": "Izraēļa dēli ēda mannu un dzēra no garīgās klints, kas viņiem sekoja, alleluja.",	
+					"ps2": "psalms78II",
+					"ant3": "Viņi atcerējās, ka Dievs ir viņu palīgs un izpircējs, alleluja.",
+					"ps3": "psalms78III",
+					"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
+					"atb2": "Līksmojas debesis un zeme, alleluja."
+				},
+				6:{ // setdiena savs
+					"ant1": "Kungs atpestīja tos no apspiedēja rokas, alleluja.",
+					"ps1": "psalms78IV",
+					"ant2": "Kungs tos atveda līdz savam svētajam kalnam, alleluja.",	
+					"ps2": "psalms78V",
+					"ant3": "Viņš izvēlējās Jūdas cilti un savu kalpu Dāvidu, lai ganītu Izraēli, savu mantojumu, alleluja.",
+					"ps3": "psalms78VI",
+					"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
+					"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
+				}
 			},
-			4:{ // ceturtdiena
-				"ant1": "Lai Izraēlis tagad saka: “Viņa žēlsirdība pastāv mūžam.” Alleluja.",
-				"ps1": "psalms118I",
-				"ant2": "Kungs ir mans glābējs, alleluja.",	
-				"ps2": "psalms118II",
-				"ant3": "Kungs to izdarīja, un mums tas izskatās brīnumaini, alleluja.",
-				"ps3": "psalms118III",
-				"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
-				"atb2": "Līksmojas debesis un zeme, alleluja."
+			5:{
+				0:{
+					"ant1": "Alleluja, akmens ir novelts no kapa ieejas, alleluja.",
+					"ps1": "psalms1",
+					"ant2": "Alleluja. Sieviet, ko tu meklē? Dzīvo starp mirušajiem? Alleluja.",	
+					"ps2": "psalms2",
+					"ant3": "Alleluja. Marij, neraudi: Kungs ir augšāmcēlies, alleluja.",
+					"ps3": "psalms3",
+					"atb1": "Mana miesa ir atkal dzīva, alleluja.",
+					"atb2": "Un es brīvi slavēšu Viņu, alleluja."
+				},
+				1:{
+					"ant1": "Kungs, savas žēlsirdības dēļ atpestī mani, alleluja.",
+					"ps1": "psalms6",
+					"ant2": "Kungs ir patvērums nabagiem ciešanu laikā, alleluja.",	
+					"ps2": "psalms9I",
+					"ant3": "Es pasludināšu Tavu slavu Sionas meitas vārtos, alleluja.",
+					"ps3": "psalms9II",
+					"atb1": "Mana sirds un mana miesa, alleluja.",
+					"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
+				},
+				2:{
+					"ant1": "Kungs tiesās nabagus pēc taisnības, alleluja.",
+					"ps1": "psalms10I",
+					"ant2": "Tu, Kungs, redzi ciešanas un bēdas, alleluja.",	
+					"ps2": "psalms10II",
+					"ant3": "Kunga vārdi ir tīri, kā ugunī pārbaudīts sudrabs, alleluja.",
+					"ps3": "psalms12",
+					"atb1": "Kristus, piecēlies no mirušajiem, vairs nemirst, alleluja.",
+					"atb2": "Nāvei vairs nav varas pār Viņu, alleluja."
+				},
+				3:{
+					"ant1": "Es mīlu Tevi, Kungs, mans spēks, alleluja.",
+					"ps1": "psalms18I",
+					"ant2": "Kungs izglāba mani, jo Viņš mīlēja mani, alleluja.",	
+					"ps2": "psalms18II",
+					"ant3": "Tu, Kungs, aizdedz manu lāpu; Tu apgaismosi manu tumsu, alleluja.",
+					"ps3": "psalms18III",
+					"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja.",
+					"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
+				},
+				4:{
+					"ant1": "Kunga vārds ir vairogs visiem, kas uz Viņu paļaujas, alleluja.",
+					"ps1": "psalms18IV",
+					"ant2": "Mani atbalstīja, Kungs, Tava labā roka, alleluja.",	
+					"ps2": "psalms18V",
+					"ant3": "Lai dzīvo Kungs, lai cildināts ir Dievs, mans Pestītājs, alleluja.",
+					"ps3": "psalms18VI",
+					"atb1": "Dievs uzmodināja Kungu, alleluja.",
+					"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
+				},
+				5:{
+					"ant1": "Kungs, celies man palīdzēt, alleluja.",
+					"ps1": "psalms35I",
+					"ant2": "Iztiesā manu lietu; aizstāvi, jo Tu, Kungs, esi spēcīgs, alleluja.",	
+					"ps2": "psalms35II",
+					"ant3": "Mana mēle visu dienu paudīs Tavu taisnību, alleluja.",
+					"ps3": "psalms35III",
+					"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
+					"atb2": "Līksmojas debesis un zeme, alleluja."
+				},
+				6:{
+					"ant1": "Dziediet Kungam, pieminiet Viņa brīnumdarbus, alleluja.",
+					"ps1": "psalms105I",
+					"ant2": "Kungs neatstāja taisnīgo, kurš bija pārdots, bet izglāba viņu no grēciniekiem, alleluja.",	
+					"ps2": "psalms105II",
+					"ant3": "Kungs pieminēja savu svēto solījumu, un izveda savu tautu gavilēs, alleluja.",
+					"ps3": "psalms105III",
+					"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
+					"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
+				}
 			},
-			5:{ // piekdiena
-				"ant1": "Slavējiet Kungu, Viņš vienīgais darīja lielus brīnumus, alleluja.",
-				"ps1": "psalms136I",
-				"ant2": "Slavējiet Kungu, Viņš vienīgais darīja lielus brīnumus, alleluja.",	
-				"ps2": "psalms136IIa",
-				"ant3": "Kungs atbrīvoja mūs no ienaidniekiem, alleluja.",
-				"ps3": "psalms136IIIa",
-				"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
-				"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
+			6:{
+				0:{
+					"ant1": "Alleluja, akmens ir novelts no kapa ieejas, alleluja.",
+					"ps1": "psalms104I",
+					"ant2": "Alleluja. Sieviet, ko tu meklē? Dzīvo starp mirušajiem? Alleluja.",	
+					"ps2": "psalms104II",
+					"ant3": "Alleluja. Marij, neraudi: Kungs ir augšāmcēlies, alleluja.",
+					"ps3": "psalms104III",
+					"atb1": "Mana miesa ir atkal dzīva, alleluja.",
+					"atb2": "Un es brīvi slavēšu Viņu, alleluja."
+				},
+				1:{
+					"ant1": "Pievērs man savu ausi, Kungs, steidzies mani izglābt.",
+					"ps1": "psalms31I",
+					"ant2": "Tavs vaigs lai gaiši atmirdz pār Tavu kalpu, Kungs<span class='alleluja'>, alleluja</span>.",	
+					"ps2": "psalms31II",
+					"ant3": "Lai ir slavēts Kungs, jo Viņš man brīnišķīgi parādīja savu žēlsirdību<span class='alleluja'>, alleluja</span>.",
+					"ps3": "psalms31III",
+					"atb1": "Mana sirds un mana miesa, alleluja.",
+					"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
+				},
+				2:{
+					"ant1": "Uztici Kungam savu ceļu, un Viņš pats rīkosies<span class='alleluja'>, alleluja</span>.",
+					"ps1": "psalms37I",
+					"ant2": "Novērsies no ļauna un dari labu; taisnīgos Kungs stiprina<span class='alleluja'>, alleluja</span>.",	
+					"ps2": "psalms37II",
+					"ant3": "Gaidi Kungu un ievēro Viņa ceļu<span class='alleluja'>, alleluja</span>.",
+					"ps3": "psalms37III",
+					"atb1": "Kristus, piecēlies no mirušajiem, vairs nemirst, alleluja.",
+					"atb2": "Nāvei vairs nav varas pār Viņu, alleluja."
+				},
+				3:{
+					"ant1": "Mēs paši sevī vaimanājam, gaidīdami mūsu miesas atpestīšanu.",
+					"ps1": "psalms39I",
+					"ant2": "Kungs, uzklausi manu lūgšanu; sadzirdi manu saucienu.",	
+					"ps2": "psalms39II",
+					"ant3": "Es vienmēr paļaujos uz Dieva žēlsirdību<span class='alleluja'>, alleluja</span>.",
+					"ps3": "psalms52",
+					"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja",
+					"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
+				},
+				4:{// KUNGA DEBESKĀPŠANA
+					"ant1": "Dziediet Dievam, teiciet slavinājumu Viņa vārdam; gatavojiet ceļu Tam, kas traucas virs mākoņiem, alleluja.",
+					"ps1": "psalms68I",
+					"ant2": "Uzkāpdams augstumos, gūstā turētos aizveda gūstā, alleluja.",	
+					"ps2": "psalms68II",
+					"ant3": "Dievs, viņi redzēja Tavas ieiešanas, mana Dieva, mana Karaļa ieiešanas svētnīcā, alleluja.",
+					"ps3": "psalms68III",
+					"atb1": "Kungs tiem apskaidroja prātu, alleluja.",
+					"atb2": "Lai viņi saprastu Rakstus, alleluja."
+				},
+				5:{
+					"ant1": "Kungs, nepārmāci mani savās dusmās.",
+					"ps1": "psalms38I",
+					"ant2": "Kungs, Tavā priekšā ir visas manas ilgas<span class='alleluja'>, alleluja</span>.",	
+					"ps2": "psalms38II",
+					"ant3": "Es atzīstos Tev savā vainā; neatstāj mani, Kungs, mana pestīšana<span class='alleluja'>, alleluja</span>!",
+					"ps3": "psalms38III",
+					"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
+					"atb2": "Līksmojas debesis un zeme, alleluja."
+				},
+				6:{
+					"ant1": "Kungs, atceries mūs, apmeklē mūs ar savu glābiņu, alleluja.",
+					"ps1": "psalms106I",
+					"ant2": "Sargieties, ka neaizmirstat Kunga, sava Dieva, derību, alleluja.",	
+					"ps2": "psalms106II",
+					"ant3": "Atpestī mūs, Kungs, un pulcini mūs kopā no tautām, alleluja.",
+					"ps3": "psalms106III",
+					"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
+					"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
+				}
 			},
-			6:{ // setdiena
-				"ant1": "Kungs ir liels, un Viņa dižums ir neizmērojams, alleluja.",
-				"ps1": "psalms145Ia",
-				"ant2": "Kungs ir darījis zināmu savas valstības diženuma godību, alleluja.",	
-				"ps2": "psalms145IIa",
-				"ant3": "Ikviena miesa lai teic Tavu svēto vārdu uz mūžu mūžiem, alleluja.",
-				"ps3": "psalms145IIIa",
-				"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja.",
-				"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
-			}
-		},
-		2:{//2.nedēļa
-			0:{ // svētdiena
-				"ant1": "Es esmu, kas esmu, un mans padoms nav ar bezdievjiem, bet man prātā ir Kunga Likums, alleluja.",
-				"ps1": "psalms1",
-				"ant2": "Es prasīju savam Tēvam; Viņš man deva mantojumā tautas, alleluja.",	
-				"ps2": "psalms2",
-				"ant3": "Es apgūlos un aizmigu, un es piecēlos, jo Kungs mani sargāja, alleluja.",
-				"ps3": "psalms3",
-				"atb1": "Mācekļi, ieraudzījuši Kungu, alleluja.",
-				"atb2": "Kļuva priecīgi, alleluja."
+			7:{
+				0:{
+					"ant1": "Alleluja, Dievs Kristu uzmodināja no mirušajiem un Viņam dāvāja godību, alleluja.",
+					"ps1": "psalms145Ia",
+					"ant2": "Alleluja, Kungs, Tu es bezgala pārāks pār visām debesīm, alleluja.",	
+					"ps2": "psalms145IIa",
+					"ant3": "Alleluja, man ir dota visa vara debesīs un virs zemes, alleluja.",
+					"ps3": "psalms145IIIa",
+					"atb1": "Mana miesa ir atkal dzīva, alleluja.",
+					"atb2": "Un es brīvi slavēšu Viņu, alleluja."
+				},
+				1:{
+					"ant1": "Mūsu Dievs atnāks un neklusēs, alleluja.",
+					"ps1": "psalms50I",
+					"ant2": "Veltī Dievam slavas upuri, alleluja.",	
+					"ps2": "psalms50II",
+					"ant3": "Es vēlos žēlsirdību, nevis kaujamo upuri, un Dieva pazīšanu – vairāk nekā dedzināmos upurus, alleluja.",
+					"ps3": "psalms50III",
+					"atb1": "Mana sirds un mana miesa, alleluja.",
+					"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
+				},
+				2:{
+					"ant1": "Dievs pieceļas, un tie, kas Viņu ienīst, bēg no Viņa vaiga, alleluja.",
+					"ps1": "psalms68I",
+					"ant2": "Mūsu Dievs ir glābējs Dievs, un Kungs ļauj izbēgt no nāves, alleluja.",	
+					"ps2": "psalms68II",
+					"ant3": "Dziediet Dievam jūs, zemes valstis, dziediet slavinājumus Kungam, alleluja.",
+					"ps3": "psalms68III",
+					"atb1": "Kristus, piecēlies no mirušajiem, vairs nemirst, alleluja.",
+					"atb2": "Nāvei vairs nav varas pār Viņu, alleluja."
+				},
+				3:{
+					"ant1": "Žēlsirdība un uzticība Tev iet pa priekšu, Kungs, alleluja.",
+					"ps1": "psalms89I",
+					"ant2": "Dieva Dēls pēc miesas ir cēlies no Dāvida cilts, alleluja.",	
+					"ps2": "psalms89II",
+					"ant3": "Es reiz zvērēju manam kalpam Dāvidam: viņa dzimta pastāvēs mūžam, alleluja.",
+					"ps3": "psalms89III",
+					"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja.",
+					"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
+				},
+				4:{
+					"ant1": "Paskaties, Kungs un ieraugi mūsu negodu!",
+					"ps1": "psalms89IV",
+					"ant2": "Es esmu Dāvida atvase un dzimums, spožā rīta zvaigzne, alleluja.",	
+					"ps2": "psalms89V",
+					"ant3": "Mūsu gadi paiet kā zāle: Tu, Dievs, esi mūžīgs, alleluja.", 
+					"ps3": "psalms90",
+					"atb1": "Dievs uzmodināja Kungu, alleluja.",
+					"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
+				},
+				5:{
+					"ant1": "Esmu piekusis kliedzot, gaidot manu Dievu, alleluja.",
+					"ps1": "psalms69I",
+					"ant2": "Viņi žulti man deva kā ēdienu un manās slāpēs dzirdināja mani ar etiķi.",	
+					"ps2": "psalms69II",
+					"ant3": "Meklējiet Kungu, un jūsu dvēseles dzīvos, alleluja.",
+					"ps3": "psalms69III",
+					"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
+					"atb2": "Līksmojas debesis un zeme, alleluja."
+				},
+				6:{
+					"ant1": "Lai viņi pateicas Kungam par Viņa žēlsirdību un Viņa brīnumdarbiem cilvēku bērnu labā, alleluja.",
+					"ps1": "psalms107I",
+					"ant2": "Viņi redzēja Kunga darbus un Viņa brīnumus, alleluja.",	
+					"ps2": "psalms107II",
+					"ant3": "To redzēs taisnīgie un priecāsies, un sapratīs Kunga žēlsirdības darbus, alleluja.",
+					"ps3": "psalms107III",
+					"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
+					"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
+				}
 			},
-			1:{ // pirmdiena
-				"ant1": "Pievērs man savu ausi, Kungs, steidzies mani izglābt.",
-				"ps1": "psalms31I",
-				"ant2": "Tavs vaigs lai gaiši atmirdz pār Tavu kalpu, Kungs<span class='alleluja'>, alleluja</span>.",	
-				"ps2": "psalms31II",
-				"ant3": "Lai ir slavēts Kungs, jo Viņš man brīnišķīgi parādīja savu žēlsirdību<span class='alleluja'>, alleluja</span>.",
-				"ps3": "psalms31III",
-				"atb1": "Mana sirds un mana miesa, alleluja.",
-				"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
-			},
-			2:{ // otrdiena
-				"ant1": "Uztici Kungam savu ceļu, un Viņš pats rīkosies<span class='alleluja'>, alleluja</span>.",
-				"ps1": "psalms37I",
-				"ant2": "Novērsies no ļauna un dari labu; taisnīgos Kungs stiprina<span class='alleluja'>, alleluja</span>.",	
-				"ps2": "psalms37II",
-				"ant3": "Gaidi Kungu un ievēro Viņa ceļu<span class='alleluja'>, alleluja</span>.",
-				"ps3": "psalms37III",
-				"atb1": "Kristus, piecēlies no mirušajiem, vairs nemirst, alleluja.",
-				"atb2": "Nāvei vairs nav varas pār Viņu, alleluja."
-			},
-			3:{ // trešdiena
-				"ant1": "Mēs paši sevī vaimanājam, gaidīdami mūsu miesas atpestīšanu.",
-				"ps1": "psalms39I",
-				"ant2": "Kungs, uzklausi manu lūgšanu; sadzirdi manu saucienu.",	
-				"ps2": "psalms39II",
-				"ant3": "Es vienmēr paļaujos uz Dieva žēlsirdību<span class='alleluja'>, alleluja</span>.",
-				"ps3": "psalms52",
-				"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja",
-				"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
-			},
-			4:{ // ceturtdiena
-				"ant1": "Tu izglābi mūs, Kungs, un Tavu vārdu mēs slavēsim uz mūžiem<span class='alleluja'>, alleluja</span>.",
-				"ps1": "psalms44I",
-				"ant2": "Iežēlojies, Kungs, un savu mantojumu nepamet kaunā.",	
-				"ps2": "psalms44II",
-				"ant3": "Celies, Kungs, un savas žēlsirdības dēļ mūs atpestī<span class='alleluja'>, alleluja</span>!",
-				"ps3": "psalms44III",
-				"atb1": "Dievs uzmodināja Kungu, alleluja.",
-				"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
-			},
-			5:{ // piekdiena
-				"ant1": "Kungs, nepārmāci mani savās dusmās.",
-				"ps1": "psalms38I",
-				"ant2": "Kungs, Tavā priekšā ir visas manas ilgas<span class='alleluja'>, alleluja</span>.",	
-				"ps2": "psalms38II",
-				"ant3": "Es atzīstos Tev savā vainā; neatstāj mani, Kungs, mana pestīšana<span class='alleluja'>, alleluja</span>!",
-				"ps3": "psalms38III",
-				"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
-				"atb2": "Līksmojas debesis un zeme, alleluja."
-			},
-			6:{ // setdiena
-				"ant1": "Kungs, atceries mūs, apmeklē mūs ar savu glābiņu, alleluja.",
-				"ps1": "psalms106I",
-				"ant2": "Sargieties, ka neaizmirstat Kunga, sava Dieva, derību, alleluja.",	
-				"ps2": "psalms106II",
-				"ant3": "Atpestī mūs, Kungs, un pulcini mūs kopā no tautām, alleluja.",
-				"ps3": "psalms106III",
-				"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
-				"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
-			}
-		},
-		3:{//3.nedēļa
-			0:{ // svētdiena
-				"ant1": "Alleluja, akmens ir novelts no kapa ieejas, alleluja.",
-				"ps1": "psalms145Ia",
-				"ant2": "Alleluja. Sieviet, ko tu meklē? Dzīvo starp mirušajiem? Alleluja.",	
-				"ps2": "psalms145IIa",
-				"ant3": "Alleluja. Marij, neraudi: Kungs ir augšāmcēlies, alleluja.",
-				"ps3": "psalms145IIIa",
-				"atb1": "Mana miesa ir atkal dzīva, alleluja.",
-				"atb2": "Un es brīvi slavēšu Viņu, alleluja."
-			},
-			1:{ // pirmdiena
-				"ant1": "Mūsu Dievs atnāks un neklusēs, alleluja.",
-				"ps1": "psalms50I",
-				"ant2": "Veltī Dievam slavas upuri, alleluja.",	
-				"ps2": "psalms50II",
-				"ant3": "Es vēlos žēlsirdību, nevis kaujamo upuri, un Dieva pazīšanu – vairāk nekā dedzināmos upurus, alleluja.",
-				"ps3": "psalms50III",
-				"atb1": "Mana sirds un mana miesa, alleluja.",
-				"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
-			},
-			2:{ // otrdiena
-				"ant1": "Dievs pieceļas, un tie, kas Viņu ienīst, bēg no Viņa vaiga, alleluja.",
-				"ps1": "psalms68I",
-				"ant2": "Mūsu Dievs ir glābējs Dievs, un Kungs ļauj izbēgt no nāves, alleluja.",	
-				"ps2": "psalms68II",
-				"ant3": "Dziediet Dievam jūs, zemes valstis, dziediet slavinājumus Kungam, alleluja.",
-				"ps3": "psalms68III",
-				"atb1": "Kristus, piecēlies no mirušajiem, vairs nemirst, alleluja.",
-				"atb2": "Nāvei vairs nav varas pār Viņu, alleluja."
-			},
-			3:{ // trešdiena
-				"ant1": "Žēlsirdība un uzticība Tev iet pa priekšu, Kungs, alleluja.",
-				"ps1": "psalms89I",
-				"ant2": "Dieva Dēls pēc miesas ir cēlies no Dāvida cilts, alleluja.",	
-				"ps2": "psalms89II",
-				"ant3": "Es reiz zvērēju manam kalpam Dāvidam: viņa dzimta pastāvēs mūžam, alleluja.",
-				"ps3": "psalms89III",
-				"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja.",
-				"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
-			},
-			4:{ // ceturtdiena
-				"ant1": "Paskaties, Kungs un ieraugi mūsu negodu!",
-				"ps1": "psalms89IV",
-				"ant2": "Es esmu Dāvida atvase un dzimums, spožā rīta zvaigzne, alleluja.",	
-				"ps2": "psalms89V",
-				"ant3": "Mūsu gadi paiet kā zāle: Tu, Dievs, esi mūžīgs, alleluja.", 
-				"ps3": "psalms90",
-				"atb1": "Dievs uzmodināja Kungu, alleluja.",
-				"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
-			},
-			5:{ // piekdiena
-				"ant1": "Esmu piekusis kliedzot, gaidot manu Dievu, alleluja.",
-				"ps1": "psalms69I",
-				"ant2": "Viņi žulti man deva kā ēdienu un manās slāpēs dzirdināja mani ar etiķi.",	
-				"ps2": "psalms69II",
-				"ant3": "Meklējiet Kungu, un jūsu dvēseles dzīvos, alleluja.",
-				"ps3": "psalms69III",
-				"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
-				"atb2": "Līksmojas debesis un zeme, alleluja."
-			},
-			6:{ // setdiena
-				"ant1": "Lai viņi pateicas Kungam par Viņa žēlsirdību un Viņa brīnumdarbiem cilvēku bērnu labā, alleluja.",
-				"ps1": "psalms107I",
-				"ant2": "Viņi redzēja Kunga darbus un Viņa brīnumus, alleluja.",	
-				"ps2": "psalms107II",
-				"ant3": "To redzēs taisnīgie un priecāsies, un sapratīs Kunga žēlsirdības darbus, alleluja.",
-				"ps3": "psalms107III",
-				"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
-				"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
-			}
-		},
-		4:{//4.nedēļa
-			0:{ // svētdiena
-				"ant1": "Alleluja, akmens ir novelts no kapa ieejas, alleluja.",
-				"ps1": "psalms24",
-				"ant2": "Alleluja. Sieviet, ko tu meklē? Dzīvo starp mirušajiem? Alleluja.",	
-				"ps2": "psalms66I",
-				"ant3": "Alleluja. Marij, neraudi: Kungs ir augšāmcēlies, alleluja.",
-				"ps3": "psalms66II",
-				"atb1": "Mana miesa ir atkal dzīva, alleluja.",
-				"atb2": "Un es brīvi slavēšu Viņu, alleluja."
-			},
-			1:{ // pirmdiena
-				"ant1": "Cik labs ir Izraēļa Dievs pret tiem, kam sirds ir skaidra, alleluja!",
-				"ps1": "psalms73I",
-				"ant2": "Viņu smiekli pārvērtīsies sērās un viņu prieks – bēdās.",	
-				"ps2": "psalms73II",
-				"ant3": "Tie, kas attālinās no Tevis, aiziet bojā; bet man ir labi būt tuvu pie Dieva, alleluja.",
-				"ps3": "psalms73III",
-				"atb1": "Mana sirds un mana miesa, alleluja.",
-				"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
-			},
-			2:{ // otrdiena
-				"ant1": "Mans sauciens, Kungs, lai nonāk pie Tevis; neapslēp no manis savu vaigu.",
-				"ps1": "psalms102I",
-				"ant2": "Ņem vērā, Kungs, trūcīgo ļaužu lūgšanu.",	
-				"ps2": "psalms102II",
-				"ant3": "Tu, Kungs, izveidoji zemi, un debesis ir Tavu roku darbs, alleluja.",
-				"ps3": "psalms102III",
-				"atb1": "Kristus, piecēlies no mirušajiem, vairs nemirst, alleluja.",
-				"atb2": "Nāvei vairs nav varas pār Viņu, alleluja."
-			},
-			3:{ // trešdiena
-				"ant1": "Teic, mana dvēsele, Kungu un neaizmirsti visu to, ko Viņš tev ir devis, alleluja!",
-				"ps1": "psalms103I",
-				"ant2": "Kā tēvs žēlo savus bērnus, tā apžēlojas Kungs par tiem, kas Viņu bijā, alleluja.",	
-				"ps2": "psalms103II",
-				"ant3": "Teiciet Kungu, visi Viņa darbiUn Viņš ar savu spēku uzmodinās arī mūs, alleluja!",
-				"ps3": "psalms103III",
-				"atb1": "Dievs uzmodināja Kristu no mirušajiem, alleluja",
-				"atb2": "Lai mūsu ticība un cerība saistītos pie Dieva, alleluja."
-			},
-			4:{ // ceturtdiena
-				"ant1": "Ne jau viņu delms tos izglāba, bet Tava labā roka un Tava vaiga gaisma, alleluja.",
-				"ps1": "psalms44I",
-				"ant2": "Kungs nenovērsīs savu vaigu no tevis, ja tu atgriezīsies pie Viņa, alleluja.",	
-				"ps2": "psalms44II",
-				"ant3": "Celies, Kungs, un neatmet mūs uz visiem laikiem!",
-				"ps3": "psalms44III",
-				"atb1": "Dievs uzmodināja Kungu, alleluja.",
-				"atb2": "Un Viņš ar savu spēku uzmodinās arī mūs, alleluja."
-			},
-			5:{ // piekdiena savs
-				"ant1": "Mūsu tēvi mums ir stāstījuši par Kunga spēku un par Viņa brīnumiem, ko Viņš ir darījis, alleluja.",
-				"ps1": "psalms78I",
-				"ant2": "Izraēļa dēli ēda mannu un dzēra no garīgās klints, kas viņiem sekoja, alleluja.",	
-				"ps2": "psalms78II",
-				"ant3": "Viņi atcerējās, ka Dievs ir viņu palīgs un izpircējs, alleluja.",
-				"ps3": "psalms78III",
-				"atb1": "Kristu, par Tavu augšāmcelšanos, alleluja.",
-				"atb2": "Līksmojas debesis un zeme, alleluja."
-			},
-			6:{ // setdiena savs
-				"ant1": "Kungs atpestīja tos no apspiedēja rokas, alleluja.",
-				"ps1": "psalms78IV",
-				"ant2": "Kungs tos atveda līdz savam svētajam kalnam, alleluja.",	
-				"ps2": "psalms78V",
-				"ant3": "Viņš izvēlējās Jūdas cilti un savu kalpu Dāvidu, lai ganītu Izraēli, savu mantojumu, alleluja.",
-				"ps3": "psalms78VI",
-				"atb1": "Dievs mūs no jauna ir dzemdinājis dzīvai cerībai, alleluja.",
-				"atb2": "Caur Jēzus Kristus augšāmcelšanos no mirušajiem, alleluja."
-			}
-		},
-		5:{
-			0:{
-				"ant1": "Alleluja, akmens ir novelts no kapa ieejas, alleluja.",
-				"ps1": "psalms1",
-				"ant2": "Alleluja. Sieviet, ko tu meklē? Dzīvo starp mirušajiem? Alleluja.",	
-				"ps2": "psalms2",
-				"ant3": "Alleluja. Marij, neraudi: Kungs ir augšāmcēlies, alleluja.",
-				"ps3": "psalms3",
-				"atb1": "Mana miesa ir atkal dzīva, alleluja.",
-				"atb2": "Un es brīvi slavēšu Viņu, alleluja."
-			},
-			1:{
-				"ant1": "Kungs, savas žēlsirdības dēļ atpestī mani, alleluja.",
-				"ps1": "psalms6",
-				"ant2": "Kungs ir patvērums nabagiem ciešanu laikā, alleluja.",	
-				"ps2": "psalms9I",
-				"ant3": "Es pasludināšu Tavu slavu Sionas meitas vārtos, alleluja.",
-				"ps3": "psalms9II",
-				"atb1": "Mana sirds un mana miesa, alleluja.",
-				"atb2": "Līksmi sauc uz dzīvo Dievu, alleluja."
-			}
-		}
+			8:{// VASARSVĒTKI
+				0:{
+					"ant1": "Vējš pūš, kur grib, un tu dzirdi tā šalkoņu, bet nezini, no kurienes tas nāk un uz kurieni dodas, alleluja.",
+					"ps1": "psalms104I",
+					"ant2": "Pēkšņi no debesīm atskanēja šalkoņa, it kā tuvojoties brāzmainam vējam, alleluja.",	
+					"ps2": "psalms104II",
+					"ant3": "Sūti savu Garu, un viņi tiks radīti, un Tu atjaunosi zemes vaigu, alleluja.",
+					"ps3": "psalms104III",
+					"atb1": "Kunga Gars piepilda zemi, alleluja.",
+					"atb2": "Un Tas, kurš visu aptver, zina katru valodu, kas tiek runāta, alleluja."
+				}
+			}	
 		},
 		1:{// Lieldienu 1.nedēļa OKTĀVA –
 			0:{
@@ -8024,453 +8272,518 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 			},
 			2:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Atklāsmes grāmatas",
+					"lasijumaRef": "20, 1-15",
+					"lasijumsNos": "Pūķa pēdējā kauja",
+					"lasijumstext": "<p class='paragr'>Es, Jānis, ieraudzīju eņģeli nokāpjam no debesīm, tam rokā bija bezdibens atslēga un liela ķēde. Viņš sagrāba pūķi – senseno čūsku, kas ir velns un sātans, sasēja viņu uz tūkstoš gadiem un iegrūda bezdibenī, aizslēdza to un aizzīmogoja uz tūkstoš gadiem, lai viņš nemaldinātu tautas. Pēc tam viņam uz īsu brīdi jātop atbrīvotam. Tad es ieraudzīju troņus, uz tiem sēdēja tie, kam bija dota vara tiesāt: es ieraudzīju dvēseles, kam Jēzus apliecināšanas un Dieva vārda dēļ bija nocirstas galvas, kuri nepielūdza nedz zvēru, nedz viņa tēlu, nepieņēma viņa zīmi uz pieres vai savas rokas. Viņi kļuva dzīvi un valdīja kopā ar Kristu tūkstoš gadu. Pārējie mirušie neatdzīvojās, līdz pagāja tūkstoš gadu. Šī ir pirmā augšāmcelšanās. Laimīgs un svēts ir tas, kam ir daļa pie pirmās augšāmcelšanās; otrajai nāvei pār viņiem vairs nav varas, bet tie būs Dieva un Kristus priesteri un valdīs ar viņu tūkstoš gadu.</p><p class='paragr'>Kad paies tūkstoš gadu, sātans tiks atbrīvots no sava cietuma un izies maldināt tautas – Gogu un Magogu – visos četros zemes stūros, sapulcinās tās uz karu, un karotāju skaits būs kā smiltis jūrā. Tie nāca pār visu zemi, ielenca svēto nometni un mīļoto pilsētu, bet no debesīm nolaidās uguns un viņus aprija. Un viņu maldinātājs sātans tika iemests uguns un sēra ezerā – turpat, kur zvērs un viltus pravietis. Viņi tiks mocīti dienu un nakti mūžu mūžos.</p><p class='paragr'>Tad es ieraudzīju troni, lielu un baltu, un uz tā sēdēja tas, no kura klātbūtnes aizbēga zeme un debess, un tiem vairs nevarēja atrast vietu. Es ieraudzīju mirušos – augstos un zemos – stāvam troņa priekšā. Tad tika attīti rakstu ruļļi, pēc tam vēl cits rullis – dzīvības grāmata, un mirušos tiesāja pēc viņu darbiem, kas aprakstīti šajos ruļļos. Jūra atdeva atpakaļ tos, kas tajā miruši, nāve un elle atdeva atpakaļ tos, kas tajā bija, un ikviens tika tiesāts pēc viņa darbiem. Nāve un elle tika iemestas uguns ezerā. Šī ir otrā nāve – uguns ezers. Ikviens, kura vārds nebija ierakstīts dzīvības grāmatā, tika iemests uguns ezerā.</p>",
+					"atbildesReference":"1 Kor 15, 25.26; sal. Atkl 20, 13a.14b",
+					"vers1": "Kristum pienākas valdīt, kamēr visus ienaidniekus būs nolicis zem savām kājām.",
+					"resp": "Bet kā pēdējais ienaidnieks tiks satriekta nāve, alleluja.",
+					"vers2": "Tad nāve un pazeme atdos savus mirušos, un nāve un pazeme tiks iemestas uguns ezerā."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Aleksandrijas bīskapa svētā Kirila komentāra par Jāņa evaņģēliju",
+					"lasijumaRef": "(Lib. 10, 2: PG 74, 331-334)" +ai(),
+					"lasijumsNos": "Es esmu vīnakoks, jūs – atvases",
+					"lasijumstext": "<p class='paragr'>Kungs sevi sauc par vīnakoku, bet tos, kas ar Viņu ir vienoti, par zariem, lai mācītu mums, cik lielu labumu gūstam no vienības ar Viņu un cik svarīgi mums ir palikt Viņa mīlestībā. Saņemdami Svēto Garu, kas ir vienības saite starp mums un Kristu, mūsu Pestītāju, tie, kas ir savienoti ar Viņu kā zari ar vīnakoku, kļūst līdzdalīgi Viņa dabā.</p><p class='paragr'>No to puses, kas nāk pie vīnakoka, vienība ar Viņu ir atkarīga no apzināta gribas akta; no Viņa puses šī vienība tiek īstenota ar žēlastību. Tā kā mums bija laba griba, mēs ticībā nācām pie Kristus un no Viņa saņēmām pieņemto bērnu cieņu, kas mūs darīja par Viņa radiniekiem, saskaņā ar svētā Pāvila vārdiem: “Kas pievienojas Kungam, tas ir viens gars ar Viņu.”</p><p class='paragr'>Pravietis Isajs Kristu sauc par pamatu, jo uz Viņa mēs kā dzīvi un garīgi akmeņi tiekam uzcelti par svētu priesterību, lai kļūtu par Dieva mājokli Garā. Šo templi nevar celt uz cita pamata kā vien uz Kristus. Šeit Kristus māca to pašu patiesību, saukdams sevi par vīnakoku, jo vīnakoks ir zaru ciltstēvs un dod tiem barību.</p><p class='paragr'>No Kristus un Kristū mēs esam no jauna dzimuši caur Garu, lai nestu dzīvības augļus – nevis mūsu agrākās grēcīgās dzīves augļus, bet jaunās dzīves augļus, kas balstās ticībā uz Viņu un mīlestībā pret Viņu. Kā zari, kas izaug no vīnakoka, mēs tagad smeļam dzīvību no Kristus un turamies pie Viņa svētā baušļa, lai saglabātu šo dzīvību. Dedzīgi sargādami savas cēlās piedzimšanas svētību, mēs uzmanāmies neskumdināt Svēto Garu, kas mājo mūsos un dara mūs apzinīgus Dieva klātbūtnei mūsos.</p><p class='paragr'>Lai Jāņa gudrība mums māca, kā mēs dzīvojam Kristū un Kristus dzīvo mūsos: “To, ka mēs paliekam Viņā un Viņš mūsos, mēs zinām no tā, ka Viņš mums ir devis no sava Gara.” Tāpat kā vīnakoka stumbrs nodod savas dabiskās īpašības katram zaram, tā arī Dieva Vārds, Tēva viendzimušais Dēls, dāvādams kristiešiem Svēto Garu, piešķir tiem zināmu radniecību ar sevi un ar Dievu Tēvu, jo viņi ir savienoti ar Viņu ticībā un apņēmībā visā pildīt Viņa gribu. Viņš palīdz tiem pieaugt mīlestībā un Dieva bijībā un māca atšķirt labo no ļaunā un dzīvot taisni.</p>",
+					"atbildesReference":"Jņ 15, 4.16b",
+					"vers1": "Palieciet manī, un Es – jūsos!",
+					"resp": "Kā atvase nevar nest augļus pati no sevis, nepalikdama pie vīnakoka, tāpat arī jūs, ja nepaliksiet manī, alleluja.",
+					"vers2": "Es jūs nozīmēju tam, lai jūs ietu un nestu augļus, un jūsu augļi pastāvētu."
 				}
 			},
 			3:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Atklāsmes grāmatas",
+					"lasijumaRef": "21, 1-8",
+					"lasijumsNos": "Jaunā Jeruzaleme",
+					"lasijumstext": "<p class='paragr'>Es, Jānis, ieraudzīju jaunas debesis un jaunu zemi, jo pirmās debesis un pirmā zeme bija zudušas un jūras vairs nebija. Es ieraudzīju svēto pilsētu, jauno Jeruzālemi, nokāpjam no debesīm, no Dieva, kā līgavu, sapostu un izrotātu savam vīram. Es dzirdēju varenu balsi atskanam no troņa: redzi, Dieva mājoklis pie cilvēkiem, un viņš mājos kopā ar viņiem, un viņi būs viņa tauta, pats Dievs būs ar viņiem un būs viņu Dievs. Un Dievs noslaucīs visas asaras no viņu acīm, un nāves vairs nebūs, nedz bēdu, nedz vaimanu, nedz sāpju vairs nebūs, jo viss bijušais ir pagājis.</p><p class='paragr'>Tas, kas sēdēja tronī, teica: redzi, es visu daru jaunu. Tad viņš teica: raksti, jo šis vēstījums ir uzticams un patiess.” Un viņš man sacīja: “Tas ir noticis. Es esmu Alfa un Omega, Sākums un Gals. Es došu izslāpušajam dzert bez maksas no dzīvā ūdens avota. Kas uzvar, tas mantos šo visu, un es būšu viņa Dievs, un viņš būs mans dēls. Bet bailīgajiem un neticīgajiem, negantniekiem, slepkavām un netikļiem, burvjiem un elku pielūdzējiem, un visiem meļiem būs daļa degošā uguns un sēra ezerā, kas ir otrā nāve.”</p>",
+					"atbildesReference":"Atkl 21, 3b.4",
+					"vers1": "Lūk, Dieva mājoklis pie cilvēkiem, un Viņš dzīvos pie tiem.",
+					"resp": "Un Dievs noslaucīs ikvienu asaru no viņu acīm, alleluja.",
+					"vers2": "Nāves vairs nebūs, vairs nebūs ne sēru, ne vaimanu, ne sāpju, jo agrākais ir pagājis."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No vēstules Diognetam",
+					"lasijumaRef": "<br>(Nn. 5-6: Funk 1, 317-321)" + ai(),
+					"lasijumsNos": "Kristieši pasaulē",
+					"lasijumstext": "<p class='paragr'>Kristieši no citiem cilvēkiem neatšķiras ne pēc zemes, ne pēc valodas, ne pēc paražām. Viņi nedzīvo sev piederošās atsevišķās pilsētās, nerunā kādā savādā izloksnē un nepiekopj kādu neparastu dzīves veidu. Viņu mācība nav radusies cilvēku ziņkārības iedvesmotās iedomās. Atšķirībā no dažiem citiem viņi neaizstāv tīri cilvēcisku mācību. Attiecībā uz apģērbu, ēdienu un dzīves kārtību vispār viņi seko tās pilsētas paražām, kur dzīvo, vai tā būtu grieķu, vai citu tautu pilsēta.</p><p class='paragr'>Un tomēr viņu dzīvē ir kaut kas brīnumains. Viņi dzīvo savās zemēs tā, it kā būtu tikai ceļinieki. Viņi pilnīgi piedalās pilsoņu dzīvē, bet panes visu kā svešinieki. Jebkura zeme viņiem var būt tēvzeme, un tomēr ikviena tēvzeme viņiem ir kā sveša zeme. Viņi, tāpat kā citi, stājas laulībā un dzemdina bērnus, bet savus bērnus neatmet. Viņi dala galdu, bet ne laulības gultu. Viņi dzīvo miesā, bet nedzīvo pēc miesas. Viņi uzturas virs zemes, bet ir debesu pilsoņi. Viņi paklausa likumiem, bet ar savu dzīvi pārsniedz likumu.</p><p class='paragr'>Kristieši mīl visus, bet visi viņus vajā. Viņus nosoda, jo viņus nesaprot; viņus nonāvē, bet viņi tiek darīti dzīvi. Viņi ir nabagi, bet daudzus dara bagātus; viņiem trūkst visa, bet viņiem ir pārpilnība visā. Viņus apkauno, bet šajā negodā ir viņu gods. Viņus aprunā, bet viņi tiek attaisnoti. Uz zaimiem viņi atbild ar svētību, uz apvainojumiem – ar cieņu. Par labo, ko viņi dara, viņi saņem sodu kā ļaundari, bet arī tad viņi priecājas, it kā saņemtu dzīvību. Jūdi viņus apkaro kā svešiniekus, grieķi viņus vajā, taču neviens nespēj pateikt, kāds ir šī naida iemesls.</p><p class='paragr'>Vispārīgi runājot, kristietis pasaulē ir tas pats, kas dvēsele miesā. Kā dvēsele ir klātesoša visās miesas daļās un tomēr paliek no tās atšķirta, tā arī kristieši ir sastopami visās pasaules pilsētās, tomēr nav identificējami ar pasauli. Kā redzamā miesa sevī satur neredzamo dvēseli, tā kristieši ir redzami dzīvojam pasaulē, bet viņu dievbijība paliek neredzama. Miesa ienīst dvēseli un karo pret to ne tāpēc, ka dvēsele tai būtu nodarījusi kādu pārestību, bet tāpēc, ka dvēsele ierobežo tās baudas. Tāpat pasaule ienīst kristiešus nevis tāpēc, ka viņi tai būtu darījuši ļaunu, bet tāpēc, ka viņi stājas pretī tās baudām.</p><p class='paragr'>Kristieši mīl tos, kas viņus ienīst, tāpat kā dvēsele mīl miesu un visus tās locekļus, kaut arī miesa to ienīst. Miesu satur kopā dvēsele, kas tajā ir ieslēgta; tāpat arī pasauli satur kopā kristieši, kas pasaulē tiek turēti kā cietumā. Dvēselei, lai arī tā ir nemirstīga, ir mirstīga mājvieta; tā arī kristieši kādu laiku dzīvo iznīcīgās lietās, gaidīdami debesīs tiem sagatavoto brīvību no pārmaiņām un satrunēšanas. Kā dvēsele iegūst labumu no ēdiena un dzēriena trūkuma, tā kristieši vajāšanās uzplaukst. Tāds ir kristieša cēlais un Dieva noteiktais uzdevums, no kura viņam nav ļauts izvairīties.</p>",
+					"atbildesReference":"Jņ 8, 12b; Sīr 24, 25",
+					"vers1": "Es esmu pasaules gaisma.",
+					"resp": "Kas seko man, tas nestaigās tumsā, bet viņam būs dzīvības gaismu, alleluja.",
+					"vers2": "Manī ir katra ceļa un patiesības žēlastība, manī ir katra dzīvības un tikumības cerība."
 				}
 			},
 			4:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Atklāsmes grāmatas",
+					"lasijumaRef": "21, 9-27",
+					"lasijumsNos": "Debesu Jeruzalemes, Jēra līgavas, vīzija",
+					"lasijumstext": "<p class='paragr'>Tad nāca viens no septiņiem eņģeļiem, kuriem bija septiņi trauki, pildīti ar septiņām pēdējā laika sērgām, un uzrunāja mani: “Skaties, es tev rādīšu līgavu, Jēra sievu.” Viņš mani garā aizveda uz lielu, augstu kalnu un rādīja man svēto pilsētu Jeruzālemi nokāpjam no debesīm, no Dieva, ar dievišķu spožumu – tās mirdzums bija kā dārgakmenim, kā kristālskaidram jašmas akmenim. Ap pilsētu bija liels, augsts mūris ar divpadsmit vārtiem, un uz vārtiem bija divpadsmit eņģeļi. Uz vārtiem bija rakstīti divpadsmit Israēla cilšu dēlu vārdi. Austrumu pusē bija trīs vārti, ziemeļu pusē – trīs vārti, dienvidu pusē – trīs vārti un rietumu pusē – trīs vārti. Un pilsētas mūris bija uz divpadsmit pamatakmeņiem un uz tiem – divpadsmit Jēra apustuļu vārdi.</p><p class='paragr'>Eņģelim, kas runāja ar mani, bija zelta mērāmnūja, lai mērītu pilsētu, tās vārtus un mūri. Pilsētai bija četrstūra forma, tās garums bija tāds pats kā platums; eņģelis ar mērāmnūju izmērīja pilsētu – tur bija divpadsmit tūkstoši stadiju, tās platums un augstums, un garums bija vienādi. Tad viņš izmērīja mūrus, tie bija simt četrdesmit četras olektis – eņģelis lietoja tādu pašu mēru, kādu lieto cilvēki. Mūris bija celts no jašmas un pilsēta no tīra zelta, tik tīra kā dzidrs stikls. Pilsētas mūra pamati bija izrotāti ar dažādiem dārgakmeņiem – pirmie pamati no jašmas, otrie – no safīra, trešie – no halcedona, ceturtie – no smaragda, piektie – no sardonīka, sestie – no serdolika, septītie – no hrizolīta, astotie – no berila, devītie – no topāza, desmitie – no ahāta, vienpadsmitie – no hiacinta, divpadsmitie – no ametista.</p><p class='paragr'>Divpadsmit vārti bija divpadsmit pērles – katri vārti no vienas pērles; pilsētas iela bija no tīra zelta, kas bija caurspīdīgs kā stikls.</p><p class='paragr'>Templi es neredzēju, jo tās templis ir Kungs Dievs, Visuvaldītājs, un Jērs. Pilsētai nav vajadzības pēc saules un mēness, lai to darītu gaišu, jo to apspīd Dieva spožums un tās gaismeklis ir Jērs. Tautas staigās tās gaismā, un zemes ķēniņi nesīs tajā savu spožumu. Dienā tās vārti netiks aizslēgti; nakts tur vairs nebūs. Tajā ieplūdīs tautu spožums un gods. Bet nekad tur neieies necienīgais, nešķīstais un melīgais. Tajā ieies tikai tie, kas ierakstīti Jēra dzīvības grāmatā.</p>",
+					"atbildesReference":"sal. Atkl 21, 21; Tob 13, 17.18.11",
+					"vers1": "Tavas ielas, Jeruzaleme, tiks bruģētas ar tīru zeltu, un tevī skanēs sajūsmas dziesma.",
+					"resp": "Un visās tavās ielās visi teiks: alleluja!",
+					"vers2": "Tu spīdēsi spožā gaismā, un tevi pielūgt nāks no visām zemes malām."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Brešas bīskapa svētā Gaudencija darbiem",
+					"lasijumaRef": "<br>(Tract. 2: CSEL 68, 26. 29-30)" + ai(),
+					"lasijumsNos": "Euharistija, Kunga Pāriešana",
+					"lasijumstext": "<p class='paragr'>Viens ir nomiris par visiem, un tagad ikvienā Baznīcā maizes un vīna noslēpumā Viņš dziedina tos, par kuriem tiek pienests upurī, dāvādams dzīvību ticīgajiem un svētumu tiem, kas pienes upuri. Šī ir Jēra miesa; šīs ir Viņa asinis. Maize, kas nākusi no debesīm, ir pasludinājusi: “Maize, ko Es došu, ir mana miesa pasaules dzīvībai.” Zīmīgi ir arī tas, ka Viņa asinis mums tiek dotas vīna veidā, jo Viņa paša vārdi evaņģēlijā: “Es esmu patiesais vīnakoks,” pietiekami skaidri norāda, ka tad, kad vīns tiek pienests kā Kristus ciešanu attēlojums, tas tiek pienests kā Viņa asinis. Tas nozīmē, ka svētīgais patriarhs Jēkabs pravietoja par Kristu, kad sacīja: “Viņš mazgās savu tērpu vīnā un savu apmetni vīnogu asinīs.” Šis tērps bija mūsu miesa, ko Kristus grasījās uzvilkt kā drānu un mazgāt savās paša asinīs.</p><p class='paragr'>Būdams visa Radītājs un Kungs, lai kāda būtu radīto lietu daba, Viņš izveda maizi no zemes un pārvērta to savā miesā. Viņam ne tikai bija vara to darīt, bet Viņš to arī bija apsolījis; un, tāpat kā Viņš ūdeni pārvērta vīnā, tā arī vīnu Viņš pārvērta savās asinīs. Raksti mums saka, ka tā ir Kunga Pasha, tas ir, Kunga pāriešana. Mums vairs nav jāuzlūko maize un vīns kā zemes vielas. Tās ir kļuvušas debesīgas, jo Kristus ir iegājis tajās un pārvērtis tās savā miesā un asinīs. Tas, ko tu saņem, ir Tā miesa, kas ir debesu maize, un Tā asinis, kas ir svētais vīnakoks; jo, kad Viņš saviem mācekļiem deva konsekrēto maizi un vīnu, Viņš sacīja: “Tā ir mana miesa, tās ir manas asinis.” Mēs esam likuši uz Viņu savu paļāvību. Es jūs mudinu Viņam ticēt; patiesība nekad nepieviļ.</p><p class='paragr'>Kad Kristus ļaudīm sacīja, ka viņiem jāēd Viņa miesa un jādzer Viņa asinis, tie šausminājās un sāka savā starpā kurnēt: “Šī mācība ir grūta; kas tajā var klausīties?” Kā jau esmu jums teicis, šādas domas ir jāpadzen. Pats Kungs tās aizdzina ar debesu uguni, turpinādams sacīt: “Gars ir tas, kas dara dzīvu; miesa neder nenieka. Vārdi, ko Es jums esmu runājis, ir gars un dzīvība.”</p>",
+					"atbildesReference":"Jņ 6, 57; Lk 22, 19b",
+					"vers1": "Kā mani ir sūtījis dzīvais Tēvs, un Es dzīvoju caur Tēvu.",
+					"resp": "Tā arī tas, kas mani ēd, dzīvos caur mani, alleluja.",
+					"vers2": "Tā ir mana Miesa, kas par jums tiek atdota."
 				}
 			},
 			5:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Atklāsmes grāmatas",
+					"lasijumaRef": "22, 1-9",
+					"lasijumsNos": "Dzīvības ūdens upe",
+					"lasijumstext": "<p class='paragr'>Tad eņģelis man parādīja dzīvā ūdens upi, dzidru kā kristāls, tā izplūda no Dieva un Jēra troņa pa ielas vidu. Upes abās pusēs bija dzīvības koks, kas nes divpadsmit augļus, katru mēnesi savu augli; un tā lapas ir noderīgas tautām dziedināšanai. Nekāda nolādējuma vairs nebūs. Tajā būs Dieva un Jēra tronis, un viņa kalpi viņam kalpos, viņi skatīs viņa vaigu, un viņa vārds būs uz viņu pierēm. Un nakts vairs nebūs, un nebūs vajadzības nedz pēc gaismekļa, nedz saules gaismas, jo Kungs Dievs apspīdēs viņus, un viņi valdīs mūžu mūžos.</p><p class='paragr'>Tad eņģelis man sacīja: “Šie ir uzticami un patiesi vārdi, un Kungs, praviešu garu Dievs, atsūtīja savu eņģeli parādīt saviem kalpiem visu, kam drīzumā jānotiek. Un, redzi, es nāku drīz. Laimīgs ir tas, kas ievēro šīs grāmatas pravietojuma vārdus.”</p><p class='paragr'>Es, Jānis, esmu tas, kas dzird un redz šīs lietas. Kad es dzirdēju un redzēju šīs lietas, es nokritu pie kājām eņģelim, kas man to bija rādījis, lai viņu pielūgtu. Bet eņģelis man saka: “Pielūko, tā nedari – es esmu tāds pats kalps kā tu un kā tavi brāļi pravieši un tie, kas ievēro šīs grāmatas vārdus, – pielūdz Dievu!”</p>",
+					"atbildesReference":"Atkl 22, 5.3b",
+					"vers1": "Nakts vairs nebūs, jo Dievs Kungs apgaismos savus kalpus.",
+					"resp": "Un viņi valdīs mūžu mūžos, alleluja.",
+					"vers2": "Svētajā pilsētā būs Dieva un Jēra tronis, un Viņa kalpi Viņam kalpos."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētīgā Īzaka, Stellas klostera abata, sprediķiem",
+					"lasijumaRef": "(Sermo 42: PL 194, 1831-1832)" + ai(),
+					"lasijumsNos": "Pirmdzimtais starp daudziem brāļiem",
+					"lasijumstext": "<p class='paragr'>Tāpat kā cilvēka galva un miesa veido vienu cilvēku, tā arī Jaunavas Dēls un tie, kurus Viņš ir izraudzījis par saviem locekļiem, veido vienu cilvēku un vienu Cilvēka Dēlu. Raksti saka, ka Kristus ir vesels un pilnīgs – galva un miesa –, jo visi locekļi veido vienu miesu, kas kopā ar savu galvu ir viens Cilvēka Dēls, un Viņš kopā ar Dieva Dēlu ir viens Dieva Dēls, kas pats kopā ar Dievu ir viens Dievs. Tātad visa miesa kopā ar galvu ir Cilvēka Dēls, Dieva Dēls un Dievs. Tas ir skaidrojums Kunga vārdiem: “Tēvs, Es gribu, lai, tāpat kā Tu un Es esam viens, arī viņi būtu viens ar mums.”</p><p class='paragr'>Tādēļ, saskaņā ar šo labi zināmo Rakstu izpratni, ne miesa bez galvas, ne galva bez miesas, ne galva un miesa bez Dieva neveido visu Kristu. Kad viss ir vienots ar Dievu, tas kļūst viens Dievs. Dieva Dēls ir viens ar Dievu pēc dabas; Cilvēka Dēls ir viens ar Viņu savā personā; mēs, Viņa miesa, esam viens ar Viņu sakramentāli. Tādēļ tie, kas ticībā ir Kristus garīgie locekļi, var patiesi sacīt, ka viņi ir tas, kas Viņš ir: Dieva Dēls un pats Dievs. Bet tas, kas Kristus ir pēc savas dabas, mēs esam kā Viņa līdzdalībnieki; tas, kas Viņš ir pats no sevis visā pilnībā, mēs esam kā dalībnieki. Visbeidzot, tas, kas Dieva Dēls ir pēc dzimšanas, Viņa locekļi ir pēc pieņemšanas bērnos, saskaņā ar vārdiem: “Jūs kā dēli esat saņēmuši pieņemto bērnu Garu, kas liek saukt: Abba, Tēvs.”</p><p class='paragr'>Caur savu Garu Viņš deva cilvēkiem varu kļūt par Dieva bērniem, lai visi, kurus Viņš ir izraudzījis, Pirmdzimtā starp daudziem brāļiem mācīti, varētu sacīt: “Tēvs mūsu, kas esi debesīs.” Un citur Viņš saka: “Es aizeju pie sava Tēva un jūsu Tēva.”</p><p class='paragr'>Caur Garu no Jaunavas klēpja piedzima mūsu Galva, Cilvēka Dēls; un caur to pašu Garu kristības ūdeņos mēs atdzimstam kā Viņa miesa un kā Dieva bērni. Un, tāpat kā Viņš piedzima bez jebkāda grēka, tā arī mēs atdzimstam visu savu grēku piedošanā. Kā Viņš pie krusta savā miesīgajā ķermenī nesa visas miesas grēku kopumu, tā Viņš saviem locekļiem dāvāja atdzimšanas žēlastību, lai nevienu grēku nevarētu pieskaitīt Viņa mistiskajai miesai. Ir rakstīts: “Svētīgs tas cilvēks, kam Kungs nepieskaita grēku.” Šis svētīgais cilvēks bez šaubām ir Kristus, kas piedod grēkus, jo Kristus kā Galva ir Dievs. Tā kā Viņš kā miesas Galva ir viens vesels cilvēks, Viņam nekas nav jāpiedod. Bet tā kā miesa, kas pieder šai Galvai, sastāv no daudziem locekļiem, tad grēks tai netiek pieskaitīts.</p><p class='paragr'>Taisnīgs pats sevī, Viņš pats sevi attaisno. Vienīgi Viņš ir gan Pestītājs, gan pestītais. Savā paša miesā uz krusta Viņš nesa to, ko bija nomazgājis no savas miesas kristības ūdeņos. Nesdams pestīšanu caur koku un caur ūdeni, Viņš ir Dieva Jērs, kas nes pasaules grēkus, tos pats uzņemdamies. Pats būdams priesteris, Viņš pienes sevi par upuri Dievam, un pats Viņš ir Dievs. Tādējādi Dēls caur sevi pašu samierina ar sevi kā Dievu, kā arī ar Tēvu un ar Svēto Garu.</p>",
+					"atbildesReference":"Rom 12, 5; Kol 2, 9-10a; 1, 18",
+					"vers1": "Mēs visi kopā esam viena miesa Kristū, bet katrs atsevišķi esam viens otra locekļi.",
+					"resp": "Viņā mājo miesā ietverta visa dievišķības pilnība, un arī jūs esat piepildīti Viņā, alleluja.",
+					"vers2": "Viņš ir Miesas – Baznīcas galva, Viņš ir sākums, pirmdzimtais starp mirušajiem, lai pats būtu pirmais starp visiem."
 				}
 			},
 			6:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Atklāsmes grāmatas",
+					"lasijumaRef": "22, 10-21",
+					"lasijumsNos": "Mūsu cerības liecība",
+					"lasijumstext": "<p class='paragr'>Un eņģelis man, Jānim, saka: “Neaizzīmogo šīs grāmatas pravietojuma vārdus, jo laiks jau ir tuvu. Lai netaisnais vēl dara netaisnību, lai nešķīstais vēl dara nešķīstības, bet taisnais lai pastāv taisnībā, un svētais lai pieaug svētumā.”</p><p class='paragr'>“Redzi, es nāku drīz un mana alga – līdz ar mani, lai katram samaksātu pēc viņa darbiem. Es esmu Alfa un Omega, Pirmais un Pēdējais, Sākums un Gals. Laimīgi tie, kas mazgā savus tērpus, lai viņiem būtu tiesības uz dzīvības koku un ļauts pa vārtiem ieiet tajā pilsētā. Ārpus pilsētas paliks suņi, burvji un netikļi, slepkavas un elku pielūdzēji un ikviens, kas mīl melus un ir melīgs.</p><p class='paragr'>Es, Jēzus, sūtīju savu eņģeli liecināt jums draudzēs par visu šo. Es esmu Dāvida sakne un dzimums, spožā Rīta Zvaigzne.”</p><p class='paragr'>Gars un līgava saka: “Nāc!” Un, kas to dzird, lai saka: “Nāc!” Kam slāpst, lai nāk! Lai ņem dzīvo ūdeni bez maksas katrs, kas grib!</p><p class='paragr'>Es apliecinu ikvienam, kas dzird šīs grāmatas pravietojuma vārdus: ja kāds tiem kaut ko pieliks, tam Dievs pieliks sērgas, par kurām rakstīts šajā grāmatā. Un, ja kāds kaut ko atņems no šīs grāmatas pravietojuma vārdiem, Dievs atņems viņa daļu no dzīvības koka un svētās pilsētas, par ko rakstīts šajā grāmatā.</p><p class='paragr'>Tas, kas sniedz šīs liecības, saka: “Jā, es nāku drīz!” – “Āmen, nāc, Kungs Jēzu!” Kunga Jēzus žēlastība lai ir ar visiem!</p>",
+					"atbildesReference":"Atkl 22, 16b.17ab.20c; Is 55, 1a.3a",
+					"vers1": "Es esmu Dāvida sakne un pēcnācējs, spožā rīta zvaigzne; un Gars un Līgava saka: “Nāc!”",
+					"resp": "Un kas to dzird, lai saka: “Nāc!” Āmen. Nāc, Kungs Jēzu, alleluja.",
+					"vers2": "Visi izslāpušie, nāciet pie ūdens; pievērsiet savu ausi un nāciet pie manis."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā Augustīna, bīskapa, komentāriem par psalmiem",
+					"lasijumaRef": "(Ps 148, 1-2: CCL 40, 2165-2166)" + ai(),
+					"lasijumsNos": "Lieldienu alleluja",
+					"lasijumstext": "<p class='paragr'>Mūsu domām šajā tagadējā dzīvē jābūt vērstām uz Dieva slavēšanu, jo Dieva slavēšanā mēs priecāsimies mūžīgi nākamajā dzīvē; un neviens nevar būt gatavs nākamajai dzīvei, ja viņš tai netrenējas jau tagad. Tāpēc mēs slavējam Dievu savas zemes dzīves laikā un vienlaikus Viņam izsakām savus lūgumus. Mūsu slava izskan ar prieku, bet mūsu lūgumi – ar ilgām. Mums ir apsolīts tas, kas mums vēl nepieder, un, tā kā apsolījumu ir devis Tas, kas ir uzticams, mēs Viņam ticam un priecājamies; bet, kamēr apsolījuma piepildījums vēl kavējas, mēs varam vienīgi pēc tā ilgoties un to alkt. Mums ir labi neatlaidīgi turpināt ilgoties, līdz saņemsim to, kas ir apsolīts, un ilgas beigsies; tad paliks vienīgi slava.</p><p class='paragr'>Tā kā ir šie divi laika posmi – viens, kas ir tagad, pilns ar šīs dzīves pārbaudījumiem un bēdām, un otrs, kas vēl nāks, – dzīve mūžīgā mierā un priekā –, mums ir dotas divas liturģiskās kārtas: viena pirms Lieldienām un otra pēc tām. Laiks pirms Lieldienām nozīmē grūtības, kurās dzīvojam šeit un tagad, bet laiks pēc Lieldienām, ko pašlaik svinam, nozīmē laimi, kas mums piederēs nākotnē. Ko pieminam pirms Lieldienām, tas ir tas, ko piedzīvojam šajā dzīvē; ko svinam pēc Lieldienām, tas norāda uz to, kas mums vēl nepieder. Tāpēc pirmo laiku pavadām gavēnī un lūgšanā; bet tagad gavēnis ir beidzies, un šo laiku veltām slavēšanai. Tāda ir alleluja nozīme, ko dziedam.</p><p class='paragr'>Abi šie laika posmi mums ir attēloti un parādīti Kristū, mūsu Galvā. Kunga ciešanas mums ataino mūsu tagadējo pārbaudījumu dzīvi – rāda, kā mums jācieš, jābūt nospiestiem un beidzot jāmirst. Kunga augšāmcelšanās un pagodināšana rāda mums dzīvi, kas mums tiks dota nākotnē.</p><p class='paragr'>Tāpēc tagad, brāļi, mēs jūs mudinām slavēt Dievu. To mēs visi cits citam sakām, kad izrunājam “alleluja”. Tu saki savam tuvākajam: “Slavējiet Kungu!”, un viņš to pašu saka tev. Mēs visi cits citu mudinām slavēt Kungu un visi reizē arī darām to, uz ko cits citu aicinām. Bet raugieties, lai jūsu slava nāktu no visas jūsu būtības; tas ir, raugieties, lai jūs slavētu Dievu ne vien ar lūpām un balsi, bet arī ar prātu, dzīvi un visiem saviem darbiem.</p><p class='paragr'>Tagad mēs slavējam Dievu, būdami sapulcējušies šeit, baznīcā; bet, kad atkal dodamies katrs savās gaitās, šķiet, it kā mēs pārstātu slavēt Dievu. Tomēr, ja vien nepārstājam dzīvot labu dzīvi, mēs vienmēr slavējam Dievu. Tu pārstāj slavēt Dievu tikai tad, kad novērsies no taisnības un no tā, kas patīk Dievam. Ja tu nekad nenovērsies no labas dzīves, tava mēle var klusēt, bet tavi darbi sauks skaļi, un Dievs redzēs tavus nodomus; jo, kā mūsu ausis dzird cita balsi, tā Dieva ausis dzird mūsu domas.</p>",
+					"atbildesReference":"Jņ 16, 20b",
+					"vers1": "Jūsu skumjas",
+					"resp": "pārvērtīsies priekā, alleluja.",
+					"vers2": "Pasaule priecāsies, un jūs skumsiet, bet jūsu skumjas"
 				}
 			}
 		},
 		6:{// Lieldienu 6.nedēļa + KUNGA DEBESKĀPŠANA
 			0:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "Svētā apustuļa Jāņa pirmās vēstules sākums",
+					"lasijumaRef": "1, 1-10",
+					"lasijumsNos": "Dzīvības vārds un Dieva gaisma",
+					"lasijumstext": "<p class='paragr'>Kas bija no iesākuma, ko esam dzirdējuši, ko savām acīm esam redzējuši, ko skatījām un ko mūsu rokas aptaustīja – jo dzīvība ir parādījusies, un mēs to esam redzējuši un apliecinām un pasludinām jums mūžīgo dzīvību, kas bija pie Tēva un mums ir parādījusies, – ko esam redzējuši un dzirdējuši par dzīvības vārdu, to pasludinām arī jums, lai arī jums būtu sadraudzība ar mums. Un mūsu sadraudzība ir ar Tēvu un viņa Dēlu Jēzu Kristu. Un mēs jums to rakstām, lai mūsu prieks būtu pilnīgs. Un šī ir vēsts, ko esam no viņa dzirdējuši un ko jums pasludinām – ka Dievs ir gaisma un viņā nemaz nav tumsas.</p><p class='paragr'>Ja mēs sakām, ka mums ir sadraudzība ar viņu, bet staigājam tumsā, tad mēs melojam un nedarām patiesību. Bet, ja mēs staigājam gaismā, kā viņš ir gaismā, tad mums ir sadraudzība citam ar citu un viņa Dēla Jēzus asinis mūs šķīstī no visas apgrēcības.</p><p class='paragr'>Ja sakām, ka mums nav grēka, tad maldinām sevi un patiesības nav mūsos. Ja atzīstamies savos grēkos, tad viņš ir uzticams un taisns un mums piedod grēkus, un šķīstī mūs no visas netaisnības. Ja mēs sakām, ka neesam grēkojuši, tad padarām viņu par meli un viņa vārda nav mūsos.</p>",
+					"atbildesReference":"1 Jņ 1, 2; 5, 20ac",
+					"vers1": "Dzīvība ir parādījusies, un mēs to esam redzējuši un apliecinām, un pasludinām jums mūžīgo dzīvību.",
+					"resp": "Kas bija pie Tēva un mums ir parādījusies, alleluja.",
+					"vers2": "Mēs zinām, ka Dieva Dēls ir atnācis. Šis ir patiesais Dievs un mūžīgā dzīvība."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Aleksandrijas bīskapa svētā Kirila komentāra par 2. vēstuli korintiešiem",
+					"lasijumaRef": "(Cap. 5, 5–6, 2: PG 74, 942–943)" + ai(),
+					"lasijumsNos": "Dievs mūs samierināja ar sevi caur Kristu un deva mums samierināšanas kalpojumu",
+					"lasijumstext": "<p class='paragr'>Tie, kam ir droša cerība, ko Svētais Gars viņos apliecina, ka viņi augšāmcelsies, satver nākamās lietas tā, it kā tās jau būtu klātesošas. Viņi saka: “Mēs vairs netiesājam nevienu pēc ārienes. Mūsu dzīve tagad pilnīgi ir Gara vadīta un vairs nav ieslēgta šajā miesiskajā pasaulē, kas pakļauta iznīcībai. Pār mums ir uzspīdējusi Viendzimušā gaisma, un mēs esam pārveidoti līdzībā ar Vārdu, kas ir visas dzīvības avots. Kamēr pār mums valdīja grēks, nāves saites mūs cieši turēja, bet tagad, kad Kristus taisnība ir iemājojusi mūsu sirdīs, mēs esam atbrīvoti no agrākā iznīcības stāvokļa.”</p><p class='paragr'>Tas nozīmē, ka neviens no mums vairs nedzīvo miesā, vismaz ne tādā nozīmē, kā dzīvošana miesā nozīmē būt pakļautam miesas nespēkiem, pie kuriem pieder arī iznīcība. “Ja arī reiz Kristu pazinām pēc miesas, tad tagad vairs tā nepazīstam,” saka svētais Pāvils. Ar to viņš grib sacīt, ka Vārds kļuva miesa un mājoja mūsu vidū; Viņš cieta nāvi miesā, lai dāvātu visiem cilvēkiem dzīvību. Šajā miesā mēs Viņu reiz pazinām, bet tagad vairs ne tā. Lai gan Viņš paliek miesā, jo trešajā dienā Viņš atkal kļuva dzīvs un tagad ir pie sava Tēva debesīs, mēs zinām, ka Viņš ir pāri miesīgās dzīves kārtībai; “jo, vienreiz nomiris, Viņš vairs nemirst, nāvei pār Viņu vairs nav varas. Viņa nāve bija nāve grēkam, un to Viņš mira reiz par visām reizēm; bet Viņa dzīve ir dzīve Dievam.”</p><p class='paragr'>Tā kā Kristus šādā veidā mums ir kļuvis par dzīvības avotu, mums, kas sekojam Viņa pēdās, vairs nav jāuzskata sevi par tādiem, kas dzīvo miesā, bet gan par tādiem, kas tai jau ir pāri. Patiesi ir svētā Pāvila vārdi, ka “tas, kas ir Kristū, ir jauns radījums: vecais ir pagājis, redzi, viss ir tapis jauns.” Mēs esam attaisnoti ticībā uz Kristu, un lāsta vara ir salauzta. Kristus atkal kļūšana dzīvam mūsu dēļ ir izbeigusi nāves kundzību. Mēs esam atzinuši patieso Dievu un pielūdzam Viņu Garā un patiesībā caur Dēlu, mūsu Vidutāju, kas pasaulei lej pāri Tēva svētības.</p><p class='paragr'>Tādēļ svētais Pāvils ar dziļu izpratni saka: “Tas viss ir no Dieva, kas mūs ir samierinājis ar sevi caur Kristu.” Jo iemiesošanās noslēpums un atjaunošana, ko tā īstenoja, nevarēja notikt bez Tēva gribas. Caur Kristu mēs esam ieguvuši pieeju pie Tēva, jo, kā pats Kristus saka, “neviens nenāk pie Tēva kā vien caur mani.” Tātad viss ir no Dieva: Viņš mūs ir samierinājis ar sevi caur Kristu un devis mums samierināšanas kalpojumu.</p>",
+					"atbildesReference":"Rom 5, 11; Kol 1, 19-20a",
+					"vers1": "Mēs varam arī lepoties Dievā caur mūsu Kungu Jēzu Kristu.",
+					"resp": "Caur kuru mēs tagad esam saņēmuši samierināšanos, alleluja.",
+					"vers2": "Dievam labpatika, ka Viņā mājotu visa pilnība, un ka caur Viņu  un Viņa dēļ visu samierinātu ar sevi."
 				}
 			},
 			1:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "2, 1-11",
+					"lasijumsNos": "Jaunais bauslis",
+					"lasijumstext": "<p class='paragr'>Mani bērniņi, to es jums rakstu, lai jūs negrēkotu. Un, ja arī kāds grēko, tad mums ir aizstāvis Tēva priekšā – Jēzus Kristus, tas taisnais. Viņš ir izlīguma upuris ne tikai par mūsu, bet par visas pasaules grēkiem.</p><p class='paragr'>No tā mēs zinām, ka esam viņu iepazinuši, ka turam viņa baušļus. Kas saka: es esmu viņu iepazinis, – bet netur viņa baušļus, tas ir melis, un tādā nav patiesības. Bet, ja kas viņa vārdu tur, tādā patiesi Dieva mīlestība ir piepildījusies. No tā mēs zinām, ka esam viņā. Kas sakās paliekam viņā, tam arī pienākas tā dzīvot, kā viņš ir dzīvojis.</p><p class='paragr'>Mīļotie, ne jaunu bausli es jums rakstu, bet senu bausli, kas jums ir bijis no iesākuma, un šis senais bauslis ir vārds, ko jūs esat dzirdējuši. Un tomēr jaunu bausli es jums rakstu, kas ir patiess viņā un jūsos, jo tumsa pāriet un patiesā gaisma jau spīd. Kas sakās esam gaismā un nīst savu brāli, tas vēl ir tumsā. Kas mīl savu brāli, tas paliek gaismā un neklūp. Bet, kas nīst savu brāli, tas ir tumsā un staigā tumsā, un nezina, kurp viņš iet, jo tumsa ir viņa acis darījusi aklas.</p>",
+					"atbildesReference":"Jņ 13, 34; 1 Jņ 2, 10a.3",
+					"vers1": "Es jums dodu jaunu bausli, lai jūs cits citu mīlētu, kā Es jūs esmu iemīlējis.",
+					"resp": "Kas mīl savu brāli, tas paliek gaismā, alleluja.",
+					"vers2": "No tā mēs zinām, ka pazīstam Kristu, ja pildām Viņa baušļus."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Aleksandrijas Didima traktāta par Trīsvienību",
+					"lasijumaRef": "(Lib. 2, 12: PG 39, 667-674)" + ai(),
+					"lasijumsNos": "Svētais Gars mūs atjauno caur kristību",
+					"lasijumstext": "<p class='paragr'>Svētais Gars mūs kristībā atjauno ar savu dievišķību, kurā Viņš ir vienots ar Tēvu un Dēlu. Atrazdams mūs izkropļotā stāvoklī, Gars atjauno mūsu sākotnējo skaistumu un piepilda mūs ar savu žēlastību, neatstādams vietu nekam, kas nebūtu mūsu mīlestības cienīgs. Gars atbrīvo mūs no grēka un nāves un pārvērš mūs no zemes cilvēkiem, kādi bijām – no pīšļiem un pelniem –, par garīgiem cilvēkiem, dievišķās godības līdzdalībniekiem, Dieva Tēva bērniem un mantiniekiem, kas nes līdzību ar Dēlu, ir Viņa līdzmantinieki un brāļi, aicināti valdīt kopā ar Viņu un dalīties Viņa godībā. Zemes vietā Gars mums no jauna atver debesis un ar prieku ielaiž mūs paradīzē, jau tagad piešķirdams mums lielāku godu nekā eņģeļiem, un ar svētajiem kristības ūdeņiem izdzēsdams elles neizdzēšamo uguni.</p><p class='paragr'>Mēs, cilvēki, tiekam ieņemti divreiz: mūsu pirmajai ieņemšanai mēs esam parādā cilvēka miesai, otrajai – dievišķajam Garam. Jānis saka: “Visiem, kas Viņu uzņēma, kas ticēja Viņa Vārdam, Viņš deva varu kļūt par Dieva bērniem.” Tie “nav dzimuši ne no asinīm, ne no miesas gribas, ne no vīra gribas, bet no Dieva”. Visi, kas ticēja Kristum, viņš saka, saņēma varu kļūt par Dieva bērniem, tas ir, piedzimt no Svētā Gara un iegūt radniecību ar Dievu. Lai parādītu, ka viņu Tēvs ir Dievs Svētais Gars, viņš pievieno šos Kristus vārdus: “Patiesi, patiesi Es tev saku: ja kas neatdzimst no ūdens un Gara, tas nevar ieiet Dieva valstībā.”</p><p class='paragr'>Redzamā veidā kristāmtrauks caur priesteru kalpojumu simboliski dzemdē mūsu redzamo miesu. Neredzamā veidā Dieva Gars, kuru nespēj skatīt pat prāta acs, caur eņģeļu kalpojumu kristī sevī gan mūsu dvēseles, gan mūsu miesas, dodot tām jaunu dzimšanu.</p><p class='paragr'>Runājot gluži tieši un saskaņā ar vārdiem par ūdeni un Garu, Jānis Kristītājs saka par Kristu: “Viņš jūs kristīs Svētajā Garā un ugunī.” Tā kā mēs esam tikai māla trauki, mums vispirms jātiek šķīstītiem ūdenī un pēc tam jātop rūdītiem garīgajā ugunī, jo “Dievs ir uguns, kas aprij.” Mums ir vajadzīgs Svētais Gars, lai mūs pilnveidotu un atjaunotu, jo garīgā uguns spēj mūs šķīstīt, bet garīgais ūdens – it kā kausējamā krāsnī – pārveidot un darīt par jauniem cilvēkiem.</p>",
+					"atbildesReference":"sal. Is 44, 3.4; Jņ 4, 14b",
+					"vers1": "Es izliešu ūdeņus pār izslāpušo zemi un strautus pār sausu zemi; Es izliešu savu Garu.",
+					"resp": "Un tie uzplauks kā vītoli pie tekošiem ūdeņiem, alleluja.",
+					"vers2": "Kļūs par ūdens avotu, kas verd mūžīgajai dzīvei."
 				}
 			},
 			2:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "2, 12-17",
+					"lasijumsNos": "Dieva gribas ievērošana",
+					"lasijumstext": "<p class='paragr'>Es rakstu jums, bērniņi, jo viņa vārda dēļ grēki jums ir piedoti. Es rakstu jums, tēvi, jo jūs esat iepazinuši to, kas ir no iesākuma. Es rakstu jums, jaunekļi, jo jūs esat uzvarējuši ļaunu. Es jums esmu rakstījis, bērni, jo jūs esat Tēvu iepazinuši. Es jums esmu rakstījis, tēvi, jo jūs esat iepazinuši to, kas ir no iesākuma. Es jums esmu rakstījis, jaunekļi, jo jūs esat stipri, un Dieva vārds paliek jūsos, un ļauno jūs esat uzvarējuši.</p><p class='paragr'>Nemīliet pasauli, nedz to, kas pasaulē! Ja kas pasauli mīl, tajā nav Tēva mīlestības. Jo viss, kas ir pasaulē – miesas kārība, acu kārība un dzīves lepnība –, tas nav no Tēva, bet ir no pasaules. Un pasaule paiet un viņas kārība, bet, kas dara Dieva gribu, paliek mūžīgi.</p>",
+					"atbildesReference":"1 Jņ 2, 17.15b",
+					"vers1": "Pasaule aiziet un arī tās kārība.",
+					"resp": "Bet, kas pilda Dieva gribu, tas paliek uz mūžiem, alleluja.",
+					"vers2": "Ja kāds mīl pasauli, tad viņā nav Tēva mīlestības."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Aleksandrijas bīskapa svētā Kirila komentāra par Jāņa evaņģēliju",
+					"lasijumaRef": "(Lib. 11, 11: PG 74, 559-562)" + ai(),
+					"lasijumsNos": "Kristus ir vienotības saite",
+					"lasijumstext": "<p class='paragr'>Pāvils apliecina, ka mēs sasniedzam miesīgu vienību ar Kristu tādā mērā, kādā kļūstam līdzdalīgi Viņa svētajā miesā. Par šo lielo noslēpumu viņš saka: “Tas, kas tagad Garā ir atklāts Viņa svētajiem apustuļiem un praviešiem, iepriekšējām paaudzēm cilvēkiem nebija zināms, proti, ka pagāni tagad ir līdzmantinieki, pieder pie tās pašas miesas un ka viņiem Kristū Jēzū ir dots tas pats apsolījums.”</p><p class='paragr'>Ja mēs visi Kristū esam viena un tā pati miesa ne tikai savā starpā, bet arī ar To, kurš, būdams mūsos caur līdzdalību savā miesā, patiesi mājo mūsos, vai tad nav skaidrs, ka mēs visi esam viens ar citu un viens ar Kristu? Jo Kristus ir saite, kas mūs vieno, būdams vienlaikus Dievs un cilvēks.</p><p class='paragr'>Turpinot šo pašu domu, to pašu var sacīt arī par garīgo vienību: mēs visi saņemam vienu un to pašu Garu – vienu Svēto Garu. Tādējādi savā ziņā mēs saplūstam kopā gan savā starpā, gan ar Dievu. Lai gan mēs esam daudzi atsevišķi cilvēki un Kristus, Tēva Gars un Viņa paša Gars, mājo katrā no mums personiski, tomēr Gars patiesi ir viens un nedalāms. Tādēļ šis viens Gars sasien kopā katra no mums šķirtos garus, tā ka kļūst redzams, ka Kristū esam viens.</p><p class='paragr'>Tāpat kā Kristus svētās miesas spēks dara par vienu miesu visus, kuros tā ir klātesoša, tāpat arī Dieva Gars, būdams nedalāms, sasaista kopā garus, kuros Viņš mājo.</p><p class='paragr'>Arī Pāvils uzsver šo pašu domu: “Pacietiet cits citu mīlestībā visā pazemībā, lēnprātībā un pacietībā. Centieties uzturēt Gara vienību ar miera saiti. Viena miesa un viens Gars, tāpat kā jūs esat aicināti vienai un tai pašai cerībai. Viens Kungs, viena ticība, viena kristība, viens Dievs un visu Tēvs, kas ir pāri visiem, caur visiem un visos.” Tā kā viens Gars mājo mūsos, viens Dievs un Tēvs ir ar mums caur Dēlu, ievedot tos, kas kļuvuši līdzdalīgi Garā, vienībā citam ar citu un ar sevi.</p><p class='paragr'>Ir vēl cits veids, kā parādīt, ka mēs esam vienoti caur līdzdalību Svētajā Garā. Ja atsakāmies dzīvot tikai juteklisku dzīvi un pilnīgi pakļaujam sevi Gara likumiem, tad ir pilnīgi skaidrs, ka, noliegdami paši savu dzīvi un pieņemdami sev Svētā Gara, kas ar mums ir vienots, pārdabisko līdzību, mēs faktiski tiekam pārveidoti citā dabā. Mēs vairs neesam tikai cilvēki, bet Dieva bērni un debesu pilsoņi, jo esam kļuvuši par dievišķās dabas līdzdalībniekiem.</p><p class='paragr'>Tāpēc mēs visi esam viens Tēvā un Dēlā un Svētajā Garā: viens, jo mums ir viena un tā pati attiecība; viens, jo dzīvojam vienu un to pašu taisnības dzīvi; un viens, jo saņemam Kristus svēto miesu un kļūstam līdzdalīgi vienā Svētajā Garā.</p>",
+					"atbildesReference":"sal. 1 Kor 10, 17; Ps 67 (68), 11b.7a",
+					"vers1": "Tā kā maize ir viena, tad arī mēs, daudzie, esam viena miesa.",
+					"resp": "Jo mēs visi baudām vienu maizi un vienu biķeri, alleluja.",
+					"vers2": "Par nabago Tu parūpējies savā labestībā, Dievs, kas vientuļos iemitina namā."
 				}
 			},
 			3:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "2, 18-29",
+					"lasijumsNos": "Par antikristu",
+					"lasijumstext": "<p class='paragr'>Bērniņi, ir pēdējā stunda, un jūs esat dzirdējuši, ka nāk antikrists; jau tagad ir cēlušies daudzi antikristi – no tā mēs zinām, ka ir pēdējā stunda. Viņi izgāja no mums, bet nebija mūsējie, ja tie būtu bijuši mūsējie – tie pie mums būtu palikuši, bet viņi ir izgājuši, lai atklātos, ka tie visi nav mūsējie. Bet jums ir svaidījums no Svētā, un jūs visi to zināt. Ne tādēļ es jums esmu rakstījis, ka jūs nezināt patiesību, bet tādēļ, ka jūs to zināt – nekādi meli nav no patiesības. Kas ir melis, ja ne tas, kas noliedz, ka Jēzus ir Kristus? Tas ir antikrists, kas noliedz Tēvu un Dēlu. Katram, kas noliedz Dēlu, nav arī Tēva; kas apliecina Dēlu, tam ir arī Tēvs.</p><p class='paragr'>Ko jūs no iesākuma esat dzirdējuši, lai paliek jūsos. Ja jūsos paliks tas, ko esat dzirdējuši no iesākuma, tad arī jūs paliksit Dēlā un Tēvā. Šis ir tas apsolījums, ko viņš mums ir solījis – mūžīgā dzīvība.</p><p class='paragr'>To es jums esmu rakstījis par tiem, kas jūs maldina. Lai jūsos paliek tas svaidījums, ko jūs no viņa esat saņēmuši, un jums nevajag, ka jūs kāds mācītu. Bet, kā viņa svaidījums jums māca visu un ir patiess un nav meli, un kā viņš jūs ir mācījis, tā palieciet viņā!</p><p class='paragr'>Tā nu, bērniņi, palieciet viņā, lai, kad viņš parādīsies, mums būtu paļāvība un, viņam atnākot, mēs netiktu viņa apkaunoti. Ja jūs zināt, ka viņš ir taisns, tad ziniet, ka arī katrs, kas dara taisnību, ir piedzimis no viņa.</p>",
+					"atbildesReference":"sal. 1 Jņ 2, 27; Jl 2, 23",
+					"vers1": "Jūsos paliek svaidījums, kuru esat saņēmuši.",
+					"resp": "Un jums nevajag, lai kāds jūs mācītu, jo Viņa svaidījums māca jums visu, alleluja.",
+					"vers2": "Uzgavilējiet un līksmojiet Kungā, jūsu Dievā, jo Viņš jums ir devis taisnības lietu."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No pāvesta svētā Leona Lielā sprediķiem",
+					"lasijumaRef": "<br>(Sermo 1 de Ascensione, 2-4: PL 54, 395-396)" + ai(),
+					"lasijumsNos": "Dienas starp Kunga augšāmcelšanos un debeskāpšanu",
+					"lasijumstext": "<p class='paragr'>Mīļotie, dienas, kas bija starp Kunga augšāmcelšanos un debeskāpšanu, nepagāja bez notikumiem, bet tajās tika apstiprināti lieli noslēpumi un atklātas dziļas patiesības.</p><p class='paragr'>Šajās dienās tika atņemta nāves baiļu vara ar visām tās šausmām, un tika nostiprināta ne vien dvēseles, bet arī miesas nemirstība. Šajās dienās, Kungam dvešot uz apustuļiem, viņiem tika dots Svētais Gars, un svētajam apustulim Pēterim, kas izvēlēts un iecelts augstāk par visiem pārējiem, tika uzticētas valstības atslēgas un rūpes par Kunga ganāmpulku.</p><p class='paragr'>Tieši šajā laikā Kungs pievienojās diviem mācekļiem kā ceļabiedrs un, lai izkliedētu visus mūsu šaubu mākoņus, pārmeta viņiem viņu biklo un bailīgo siržu kūtrumu. Viņu apgaismotās sirdis uzliesmo ticībā, un tie, kas bija remdeni, sāk degt, kamēr Kungs tiem skaidro Rakstus. Arī maizes laušanā viņu acis atveras, kad viņi kopā ar Viņu ēd. Cik daudz svētīgāka bija šī acu atvēršanās viņu dabas pagodināšanai nekā tas brīdis, kad mūsu pirmvecākiem acis atvērās viņu pārkāpuma postošo seku dēļ.</p><p class='paragr'>Mīļotie, visā šajā laikā starp Kunga augšāmcelšanos un debeskāpšanu Dieva apredzība to visu virzīja uz vienu mērķi – mācīt saviem ļaudīm un viņu acu un sirds priekšā stingri iespiest to, ka Kungs Jēzus Kristus ir augšāmcēlies tikpat patiesi, kā patiesi Viņš bija dzimis, cietis un nomiris.</p><p class='paragr'>Tāpēc vissvētīgākie apustuļi un visi mācekļi, kuri bija gan apmulsuši Viņa nāves dēļ uz krusta, gan kūtri ticēt Viņa augšāmcelšanās patiesībai, tika tik ļoti stiprināti ar skaidrās patiesības gaismu, ka tad, kad Kungs iegāja debesu augstumos, viņus pārņēma ne vien ne skumjas, bet pat liels prieks.</p><p class='paragr'>Patiesi liels un neizsakāms bija viņu prieka iemesls, kad svētā pulka acu priekšā cilvēka daba pacēlās augšup – augstāk par visu debesu radību cieņu, pāri eņģeļu kārtām un augstāk par erceņģeļu virsotnēm, un tās pacelšanos neierobežoja nekāda augstība, līdz, uzņemta pie mūžīgā Tēva, tā tika sēdināta goda krēslā līdzdalībā ar Viņa godību, ar kura dabu tā bija vienota Dēlā.</p>",
+					"atbildesReference":"Jņ 14, 2b.3b.16.18",
+					"vers1": "Es eju sagatavot jums vietu; Es nākšu atkal atpakaļ.",
+					"resp": "Un paņemšu jūs pie sevis, lai tur, kur Es esmu, būtu arī jūs, alleluja.",
+					"vers2": "Es lūgšu Tēvu, un Viņš jums dos citu Iepriecinātāju, lai Tas paliktu pie jums mūžam. Es jūs neatstāšu bāreņus, Es nāku pie jums."
 				}
 			},
-			4:{
+			4:{// KUNGA DEBESKĀPŠANA -- no šīs dienas sava himna 
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Pāvila vēstules efeziešiem",
+					"lasijumaRef": "4, 1-24",
+					"lasijumsNos": "Uzkāpdams augstumos, gūstā turētos aizveda gūstā",
+					"lasijumstext": "<p class='paragr'>Brāļi! Tad nu es, cietumnieks Kunga dēļ, lūdzu jūs dzīvot tā aicinājuma cienīgi, ar kuru esat aicināti – visā pazemībā, lēnprātībā un pacietībā, ar mīlestību panesdami cits citu, dedzīgi sargādami vienotību Garā, uzturēdami to ar miera saiti. Viena miesa un viens Gars – tāpat kā vienai cerībai jūs savā aicinājumā esat aicināti – viens Kungs, viena ticība, viena kristība, viens Dievs un Tēvs visiem, kas ir pāri visiem, cauri visiem un visos.</p><p class='paragr'>Katram no mums ir dota žēlastība tādā mērā, kādā Kristus to dāvājis. Tādēļ ir sacīts: uzkāpa augstumos, vezdams līdzi sagūstītos; viņš deva dāvanas cilvēkiem.</p><p class='paragr'>Ko nozīmē – viņš uzkāpa? Vai ne to, ka viņš arī nokāpa zemes dziļumos? Tas, kas nokāpa, ir tas pats, kas uzkāpa augstāk par visām debesīm, lai visu piepildītu.</p><p class='paragr'>Viņš dāvāja vispirms apustuļus, tad praviešus, evaņģēlistus, ganus un skolotājus, lai svētos sagatavotu kalpošanas darbam, lai tā tiktu celta Kristus miesa, līdz kamēr mēs visi sasniegsim vienotību ticībā un Dieva dēla atziņā, līdz sasniegsim pilnbriedu pēc Kristus brieduma pilnības mēra. Tad mēs vairs nebūsim mazi bērni, kas tiek mētāti un aizrauti līdzi katram mācības vējam cilvēku viltīgajā spēlē, ar kuru tie ievilina maldos. Apliecinādami patiesību mīlestībā, mēs visās lietās pieaugsim Kristū, kas ir mūsu galva, – no viņa visa miesa, saistīta un savienota visādām atbalsta saitēm, visām daļām darbojoties saskanīgi, iegūst spēju augt, lai veidotos mīlestībā.</p><p class='paragr'>To es jums saku un apliecinu Kungā: jums vairs nav jāstaigā tā, kā pagāni dzīvo sava prāta tukšībā, būdami aptumšoti saprašanā, atsvešināti no dievišķās dzīvības savas nezināšanas un sirds nocietinātības dēļ, viņi ir zaudējuši kauna jūtas un nodevušies izlaidībai, nepiesātināmi ļaudamies visādai nešķīstībai.</p><p class='paragr'>Ne tā jūs esat iepazinuši Kristu; ja jūs to esat dzirdējuši un mācījušies patiesībā, kāda tā ir Jēzū, tad atmetiet savu iepriekšējo dzīves veidu un veco cilvēku sevī, kas savās iekārēs nomaldījies iet bojā; atjaunojieties savā prātā un garā. Ietērpieties jaunā cilvēkā, kas radīts pēc Dieva taisnībā un patiesības svētumā.</p>",
+				"atbildesReference":"Ef 4, 8 (Ps 68[67], 19); Ps 47(46), 6",
+					"vers1": "Kristus uzkāpdams augstumos, gūstā turētos aizveda gūstā.",
+					"resp": "Viņš deva dāvanas cilvēkiem, alleluja.",
+					"vers2": "Dievs dodas augšup, gaviļu pavadīts, un Kungs, atskanot taurei."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā Augustīna, bīskapa, sprediķiem",
+					"lasijumaRef": "(Sermo de Ascensione Domini, Mai 98, 1-2: PLS 2, 494-495)" + ai(),
+					"lasijumsNos": "Neviens nav uzkāpis debesīs, kā vien Tas, kas no debesīm nokāpa",
+					"lasijumstext": "<p class='paragr'>Šodien mūsu Kungs Jēzus Kristus uzkāpa debesīs; lai arī mūsu sirdis uzkāpj kopā ar Viņu. Klausieties apustuļa vārdus: “Ja jūs esat augšāmcēlušies kopā ar Kristu, tad tiecieties pēc tā, kas ir augšā, kur Kristus sēž pie Dieva labās rokas; domājiet par to, kas ir augšā, nevis par to, kas ir uz zemes.” Jo, tāpat kā Viņš arī pēc savas debeskāpšanas palika ar mums, tā arī mēs jau tagad esam debesīs kopā ar Viņu, kaut gan tas, kas mums apsolīts, mūsu miesā vēl nav piepildījies.</p><p class='paragr'>Kristus tagad ir paaugstināts pār debesīm, tomēr Viņš joprojām cieš virs zemes visas sāpes, kas jācieš mums, Viņa miesas locekļiem. To Viņš parādīja, kad no augšienes sauca: “Saul, Saul, kāpēc tu mani vajā?” un kad sacīja: “Es biju izsalcis, un jūs mani paēdinājāt.”</p><p class='paragr'>Kāpēc tad mēs virs zemes necenšamies jau tagad rast mieru kopā ar Viņu debesīs – ticībā, cerībā un mīlestībā, kas mūs vieno ar Viņu? Kamēr Viņš ir debesīs, Viņš ir arī ar mums; un mēs, būdami virs zemes, esam ar Viņu. Viņš ir šeit ar mums ar savu dievišķību, savu spēku un savu mīlestību. Mēs nevaram būt debesīs tā, kā Viņš ir virs zemes, ar dievišķību; bet Viņā mēs varam tur būt ar mīlestību.</p><p class='paragr'>Viņš neatstāja debesis, kad nāca lejā pie mums; un Viņš nepameta mūs, kad atkal uzkāpa debesīs. Ka Viņš bija debesīs pat tad, kad bija virs zemes, to apliecina Viņa paša vārdi: “Neviens nav uzkāpis debesīs, kā vien Tas, kas no debesīm nokāpis, Cilvēka Dēls, kas ir debesīs.”</p><p class='paragr'>Šie vārdi kļūst saprotami mūsu vienībā ar Kristu, jo Viņš ir mūsu Galva un mēs esam Viņa miesa. Neviens nav uzkāpis debesīs, kā vien Kristus, jo arī mēs esam Kristus: Viņš savā vienībā ar mums ir Cilvēka Dēls, un mēs savā vienībā ar Viņu esam Dieva dēli. Tāpēc apustulis saka: “Kā cilvēka miesa, kurai ir daudz locekļu, ir viena, jo visi dažādie locekļi veido vienu miesu, tāpat ir arī ar Kristu.” Arī Viņam ir daudz locekļu, bet viena miesa.</p><p class='paragr'>Aiz līdzjūtības pret mums Viņš nokāpa no debesīm, un, lai gan Viņš uzkāpa viens, arī mēs kāpjam augšup, jo žēlastībā esam Viņā. Tādēļ neviens cits kā vien Kristus nenokāpa, un neviens cits kā vien Kristus neuzkāpa – nevis tāpēc, ka nebūtu atšķirības starp Galvu un miesu, bet tāpēc, ka miesa savā vienībā nevar tikt atdalīta no Galvas.</p>",
+					"atbildesReference":"sal. Apd 1, 3.9.4",
+					"vers1": "Pēc savām ciešanām Viņš tiem parādījās četrdesmit dienas, runādams par Dieva valstību.",
+					"resp": "Un Viņš, tiem redzot, pacēlās augšup, un mākonis Viņu aizsedza to acīm, alleluja.",
+					"vers2": "Un kopīgas maltītes laikā Viņš tiem pavēlēja neaiziet no Jeruzalemes, bet gan gaidīt Tēva apsolījumu."
 				}
 			},
 			5:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "3, 1-10",
+					"lasijumsNos": "Mēs esam Dieva bērni",
+					"lasijumstext": "<p class='paragr'>Mīļotie! Redziet, cik lielu mīlestību Tēvs mums ir dāvājis, ka tiekam saukti Dieva bērni un tādi arī esam. Pasaule mūs neatzīst, tādēļ ka tā nav atzinusi viņu. Mīļotie, tagad mēs esam Dieva bērni, un vēl nav atklājies, kas mēs būsim. Zinām, ka tad, kad tas atklāsies, mēs būsim līdzīgi viņam, mēs redzēsim viņu tādu, kāds viņš ir.</p><p class='paragr'>Bet katrs, kam ir šī cerība uz viņu, šķīsta sevi, tāpat kā viņš ir šķīsts. Katrs, kas grēko, pārkāpj likumu, jo grēks ir nelikumība. Un jūs zināt, ka viņš parādījās, lai paņemtu prom grēkus, un viņā nav grēka. Ikviens, kas paliek viņā, negrēko, bet, kas grēko, nav viņu nedz redzējis, nedz pazinis.</p><p class='paragr'>Bērniņi, lai neviens jūs nemaldina: kas dara taisnību, ir taisns, tāpat kā viņš ir taisns. Kas dara grēku, ir no velna, jo velns grēko jau no paša sākuma, un Dieva dēls tādēļ ir parādījies, lai izjauktu velna darbus. Ikviens, kas dzimis no Dieva, nedara grēku, jo Dieva sēkla paliek viņā; un viņš nevar grēkot, jo ir no Dieva dzimis.</p><p class='paragr'>Tā top redzami Dieva bērni un velna bērni – katrs, kas nedara taisnību, nav no Dieva; tāpat arī tas, kas nemīl savu brāli.</p>",
+					"atbildesReference":"1 Jņ 3, 1.2b",
+					"vers1": "Redziet, cik lielu mīlestību Dievs Tēvs mums ir dāvājis.",
+					"resp": "Ka mēs tiekam saukti par Dieva bērniem un tādi mēs esam, alleluja.",
+					"vers2": "Mēs zinām, ka tad, kad Viņš parādīsies, mēs būsim Viņam līdzīgi, jo redzēsim Viņu tādu, kāds Viņš ir."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No pāvesta svētā Leona Lielā sprediķiem",
+					"lasijumaRef": "<br>(Sermo 2 de Ascensione, 1-4: PL 54, 397-399)" + ai(),
+					"lasijumsNos": "Kunga debeskāpšana vairo mūsu ticību",
+					"lasijumstext": "<p class='paragr'>Lieldienās, mīļotie brāļi, mūsu prieka cēlonis bija Kunga augšāmcelšanās; šodien mēs priecājamies par Viņa debeskāpšanu debesīs. Ar pienācīgu svinīgumu mēs pieminam šo dienu, kurā mūsu trūcīgā cilvēka daba Kristū tika pacelta pāri visiem debesu pulkiem, pāri visām eņģeļu kārtām, pāri augstākajiem debesu spēkiem līdz pat Dieva Tēva tronim. Uz šīs sakārtotās dievišķo darbu kārtības mēs esam stingri nostiprināti, lai Dieva žēlastība atklātos vēl brīnumaināk: pat tad, kad no cilvēku acīm ir paņemts viss, kam taisnīgi pienākas godbijība, ticība neizsīkst, cerība nesvārstās un mīlestība neatdziest.</p><p class='paragr'>Tāda ir lielu dvēseļu spēja, tāda ir patiesi ticīgu siržu gaisma, ka tās bez vilcināšanās tic tam, ko miesīgā acs neredz, un vērš savas ilgas uz to, kas ir ārpus redzamā. Šāda uzticība nekad nevarētu dzimt mūsu sirdīs, un neviens nevarētu tikt attaisnots ticībā, ja mūsu pestīšana balstītos tikai tajā, kas ir redzams.</p><p class='paragr'>Tāpēc mūsu Pestītāja redzamā klātbūtne ir pārgājusi sakramentos. Mūsu ticība kļuvusi cildenāka un stiprāka, jo redzēšanu ir nomainījusi mācība, kuras autoritāti pieņem ticīgas sirdis, apgaismotas no augšienes. Šo ticību vairoja Kunga debeskāpšana un nostiprināja Gara dāvana; to nespēja satricināt ne važas, ne cietums, ne trimda, ne bads, ne uguns, ne plosoši zvēri, ne arī izsmalcinātākās mocības, ko izgudroja nežēlīgi vajātāji. Par šo ticību visā pasaulē savu asiņu liecību ir devuši ne tikai vīri, bet arī sievietes, ne tikai zēni, bet arī maigas meitenes. Tā ir ticība, kas izdzina ļaunos garus, dziedināja slimos un uzmodināja mirušos.</p><p class='paragr'>Pat svētie apustuļi, lai gan bija stiprināti ar tik daudziem brīnumiem un mācīti ar tik daudzām pamācībām, tomēr izbailēs atkāpās Kunga ciešanu nežēlības priekšā un ne bez vilcināšanās pieņēma Viņa augšāmcelšanos. Tomēr debeskāpšanā viņi tik ļoti pieauga, ka tagad atrada prieku tajā, kas iepriekš bija viņus biedējis. Viņi spēja vērst savu prātu uz Kristus dievišķību, kad Viņš sēdēja pie Tēva labās rokas, jo tas, kas agrāk stājās viņu miesīgo acu priekšā, vairs netraucēja viņiem ar visu uzmanību aptvert, ka Viņš nebija atstājis Tēvu, kad nokāpa uz zemi, un nebija pametis savus mācekļus, kad uzkāpa debesīs.</p><p class='paragr'>Patiesība ir tāda, ka Cilvēka Dēls pilnīgākā un pārdabiskākā veidā tika atklāts kā Dieva Dēls tad, kad iegāja sava Tēva godībā; tagad Viņš sāka neizsakāmi vairāk būt klātesošs savā dievišķībā tiem, no kuriem Viņš savā cilvēcībā bija attālinājies. Nobriedušāka ticība ļāva viņu prātiem pacelties pie Dēla Viņa līdzvērtībā ar Tēvu; tai vairs nebija vajadzīga saskare ar Kristus taustāmo miesu, kurā kā cilvēks Viņš ir mazāks par Tēvu. Jo, lai gan Viņa pagodinātā miesa saglabāja to pašu dabu, ticīgo ticība tagad tika aicināta augstumos, kur Viendzimušo Dēlu, kas ir līdzvērtīgs ar Tēvu, sasniedz nevis ar fizisku pieskaršanos, bet ar garīgu izšķiršanu.</p>",
+					"atbildesReference":"Ebr 8, 1b; 10, 22.23",
+					"vers1": "Mums ir tāds Augstais Priesteris, kas debesīs sēž Majestātes troņa labajā pusē.",
+					"resp": "Attīrījuši sirdsapziņu no ļauna, iesim tur ar atklātu sirdi un dziļā ticībā, alleluja.",
+					"vers2": "Būsim nelokāmi, apliecinādami savu cerību, jo uzticams ir Tas, kas devis apsolījumu."
 				}
 			},
 			6:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "3, 11-17",
+					"lasijumsNos": "Mīlestība pret brāļiem",
+					"lasijumstext": "<p class='paragr'>Mīļotie! Jo šī ir tā vēsts, ko jūs esat dzirdējuši no iesākuma – lai mēs mīlam cits citu. Ne tā kā Kains, kas bija no ļaunā un nokāva savu brāli. Un kādēļ viņš to nokāva? Tādēļ, ka viņa darbi bija ļauni, bet viņa brāļa darbi – taisni.</p><p class='paragr'>Nebrīnieties, brāļi, ka pasaule jūs ienīst. Mēs zinām, ka esam no nāves pārgājuši dzīvībā, tādēļ ka mēs mīlam brāļus, bet, kas nemīl, paliek nāvē. Ikviens, kas savu brāli nīst, ir slepkava, un jūs zināt, ka neviens slepkava nepatur sevī mūžīgo dzīvību.</p><p class='paragr'>Mēs esam iepazinuši mīlestību no tā, ka viņš savu dzīvību par mums ir atdevis. Arī mums pienākas savu dzīvību atdot par brāļiem. Ja kādam šajā pasaulē ir pārticība un viņš redz savu brāli trūkumā un noslēdz tam savu sirdi, kā lai viņā paliek Dieva mīlestība?</p>",
+					"atbildesReference":"1 Jņ 3, 16.14a",
+					"vers1": "Mēs iepazinām Dieva mīlestību no tā, ka Viņš atdeva savu dzīvību par mums.",
+					"resp": " Arī mums sava dzīvība ir jāatdot par brāļiem, alleluja.",
+					"vers2": "Mēs zinām, ka esam no nāves pārgājuši dzīvībā, jo mīlam brāļus."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā bīskapa Augustīna skaidrojuma par Jāņa evaņģēliju",
+					"lasijumaRef": "(Tract. 124, 5. 7: CCL 36, 685-687)" + ai(),
+					"lasijumsNos": "Divas dzīves",
+					"lasijumstext": "<p class='paragr'>Baznīca atzīst, ka Dievs tai ir ieteicis divējādu dzīvi. Viena ir ticības dzīve, otra – skatīšanas dzīve; viena ir laika svētceļojuma dzīve, otra – mājvietas dzīve mūžībā; viena ir pūļu dzīve, otra – miera; viena tiek pavadīta ceļā, otra – tēvzemē; viena ir darbīga, pilna darba, otra – apcerīga, darba atalgojums.</p><p class='paragr'>Pirmo dzīvi attēlo apustulis Pēteris, otro – Jānis. Visa pirmā dzīve tiek izdzīvota šajā pasaulē, un tā beigsies līdz ar šo pasauli. Otrā dzīve līdz šīs pasaules beigām būs nepilnīga, bet nākamajā pasaulē tai nebūs gala. Tādēļ Kristus Pēterim saka: “Seko Man”; bet par Jāni Viņš saka: “Ja Es gribu, lai viņš paliek, līdz kamēr Es nāku, kas tev daļas? Tu seko Man.”</p><p class='paragr'>Tu seko Man, atdarinādams Manu pacietību pārejošajās ciešanās; Jānis lai paliek līdz Manai atnākšanai, kad Es atnesīšu mūžīgos labumus. Skaidrāk to varētu izteikt šādi: tava darbīgā dzīve kļūs pilnīga, ja sekosi Manas ciešanas piemēram; bet, lai Jāņa apcerīgā dzīve sasniegtu pilnību, tai jāgaida, līdz Es nākšu.</p><p class='paragr'>Pilnīga pacietība nozīmē uzticīgi sekot Kristum pat līdz nāvei, bet pilnīgai atziņai mums jāgaida Viņa atnākšana. Šeit, mirstošo zemē, jāpanes pasaules ciešanas; tur, dzīvo zemē, tiks skatīti Kunga labumi.</p><p class='paragr'>Kristus vārdi: “Es gribu, lai viņš paliek, līdz kamēr Es nāku,” nav jāsaprot tā, it kā Jānim būtu bijis jāpaliek virs zemes līdz Kristus atnākšanai, bet gan tā, ka viņam jāgaida, jo ne tagad, bet tikai tad, kad Kristus nāks, piepildīsies tā dzīve, ko viņš attēlo. Savukārt Pēterim Kristus saka: “Tu seko Man,” jo tā dzīve, ko attēlo Pēteris, savu mērķi var sasniegt tikai darbībā šeit un tagad.</p><p class='paragr'>Tomēr mums nevajag prātā šķirt šos lielos apustuļus. Abi dzīvoja dzīvi, ko attēlo Pēteris; abi sasniegs dzīvi, ko attēlo Jānis. Attēlā viens sekoja, otrs palika; bet, dzīvodami ticībā, abi panesa šīs tagadējās sēru pilnās dzīves ciešanas, un abi ilgojās pēc nākamās svētlaimīgās dzīves priekiem.</p><p class='paragr'>Un ne viņi vien. Viņi bija viens ar visu Baznīcu, Kristus Līgavu, kura savā laikā tiks atbrīvota no šīs dzīves pārbaudījumiem un dzīvos mūžīgi nākamās dzīves priekā. Šos divus dzīves veidus attēloja Pēteris un Jānis, tomēr abi apustuļi tagadējā pārejošajā dzīvē dzīvoja ticībā, bet mūžīgajā dzīvē abi priecājas skatīšanā.</p><p class='paragr'>Tāpēc visu svēto labā, kuri ir nedalāmi vienoti Kristus miesā, lai vestu viņus cauri šīs dzīves vētrām, Pēteris, apustuļu vadonis, saņēma Debesu valstības atslēgas ar varu saistīt un atraisīt grēkus; un to pašu svēto labā, lai ielūkotos otras, apslēptās dzīves dziļumos, evaņģēlists Jānis atdusējās pie Kristus krūtīm.</p><p class='paragr'>Jo grēkus saista un atraisa ne tikai Pēteris, bet visa Baznīca; un kas attiecas uz Jāņa cildeno mācību par Vārdu, kas iesākumā bija pie Dieva un bija Dievs, un uz visu pārējo, ko viņš mums ir vēstījis par Kristus dievišķību un par Trīsvienības vienību, ko tagad, līdz Kungs nāks, redzam it kā blāvā atspulgā spogulī, bet ko Debesu valstībā skatīsim vaigu vaigā, – šo mācību no Kunga krūtīm kā no avota dzēra ne tikai Jānis. To dzers visi, kas pieder Kungam, katrs pēc savas spējas; un tādēļ pats Kungs ir izplatījis Jāņa evaņģēliju pa visu pasauli.</p>",
+					"atbildesReference":"sal. 1 Pēt 5, 10; 2 Kor 4, 14",
+					"vers1": "Ikvienas žēlastības Dievs, kurš Kristū Jēzū ir aicinājis mūs savā mūžīgajā godībā.",
+					"resp": "Pēc īslaicīgām ciešanām pats mūs padarīs pilnīgus, nostiprinās, spēcinās, alleluja.",
+					"vers2": "Tas, kurš uzmodināja Jēzu, uzmodinās arī mūs kopā ar Jēzu."
 				}
 			}
 		},
 		7:{
 			0:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "3, 18-24",
+					"lasijumsNos": "Ticības un mīlestības bauslis",
+					"lasijumstext": "<p class='paragr'>Bērniņi, nemīlēsim ar vārdiem un ar mēli, bet ar darbiem un patiesību! Un tā mēs zināsim, ka esam no patiesības: iedrošināsim viņa priekšā savu sirdi! Un, pat ja mūsu sirds mūs apsūdz, Dievs ir lielāks nekā mūsu sirds, un viņš zina visu. Mīļotie, ja jau mūs neapsūdz sirds, tad mums ir paļāvība uz Dievu. Ja mēs ko lūdzam, tad saņemam no viņa, jo mēs turam viņa baušļus un darām to, kas viņam tīkams.</p><p class='paragr'>Viņa bauslis ir, lai mēs ticam viņa Dēla Jēzus Kristus vārdā un mīlam viens otru, kā viņš mums ir pavēlējis. Bet, kas viņa baušļus tur, tas paliek viņā un viņš tanī. No tā mēs zinām, ka viņš paliek mūsos, no Gara, ko viņš mums ir devis.</p>",
+					"atbildesReference":"1 Jņ 3, 24; Sīr 1, 9a.10ab",
+					"vers1": "Kas pilda Dieva baušļus, tas paliek Viņā, un Viņš viņā.",
+					"resp": "To, ka Viņš paliek mūsos, mēs zinām no Gara, kuru Viņš mums ir devis, alleluja.",
+					"vers2": "Dievs radīja gudrību Svētajā Garā un izlēja to pār ikvienu miesu."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā bīskapa Gregora no Nisas sprediķiem par Dziesmu dziesmas grāmatu",
+					"lasijumaRef": "(Hom. 15: PG 44, 1115-1118)" + ai(),
+					"lasijumsNos": "Godību, ko Tu man devi, Es esmu devis viņiem",
+					"lasijumstext": "<p class='paragr'>Kad mīlestība ir pilnīgi izdzinusi bailes un bailes ir pārvērtušās mīlestībā, tad pilnīgi īstenosies tā vienība, ko mums ir atnesis mūsu Pestītājs, jo visi cilvēki caur vienību ar vienīgo visaugstāko Labumu būs vienoti arī savā starpā. Tad viņiem piederēs tā pilnība, kas, pēc mūsu šīs vietas skaidrojuma, tiek piedēvēta dūjiņai: “Mana vienīgā ir mana dūjiņa, mana pilnīgā; viņa ir vienīgais bērns savai mātei, savas dzemdētājas izraudzītā.”</p><p class='paragr'>Šīs vietas nozīmi vēl skaidrāk atklāj mūsu Kunga vārdi evaņģēlijā. Pēc tam, kad Viņš ar savu svētību bija devis mācekļiem visu varu, ar savu lūgšanu pie Tēva Viņš tiem izlūdza arī daudzas citas dāvanas. To vidū bija arī vislielākā no visām dāvanām: lai viņi vairs nebūtu sašķelti savos spriedumos par to, kas ir labs un pareizs, bet visi būtu vienoti vienīgajā visaugstākajā Labumā. Kā saka apustulis, viņiem bija jātop sasaistītiem miera saitēm vienībā, kas nāk no Svētā Gara. Viņiem bija jākļūst par vienu miesu un vienu Garu tajā vienīgajā cerībā, uz kuru viņi visi ir aicināti. Tomēr labāk būs citēt paša evaņģēlija svētos vārdus. “Es lūdzu,” saka Kungs, “lai viņi visi ir viens; kā Tu, Tēvs, manī un Es Tevī, tā arī lai viņi ir viens mūsos.”</p><p class='paragr'>Šīs vienības saite ir godība. Ka Svētais Gars tiek saukts par godību, neviens nevar noliegt, ja vien rūpīgi pārdomā Kunga vārdus: “To godību, ko Tu man devi, Es esmu devis viņiem.” Patiesi, Viņš deva šo godību saviem mācekļiem, kad sacīja tiem: “Saņemiet Svēto Garu.” Lai gan Viņam tā piederēja vienmēr, jau pirms pasaules radīšanas, tomēr Viņš pats saņēma šo godību, kad pieņēma cilvēka dabu. Un tad, kad Viņa cilvēka daba caur Garu tika pagodināta, Gara godība tika nodota visiem, kas ar Viņu ir vienas cilmes, sākot ar mācekļiem. Tāpēc Viņš sacīja: “To godību, ko Tu man devi, Es esmu devis viņiem, lai viņi būtu viens, tāpat kā mēs esam viens. Es viņos un Tu manī, lai viņi būtu pilnīgi viens.”</p><p class='paragr'>Ikviens, kas no bērnības ir izaudzis līdz briedumam un sasniedzis garīgo pilnību, valda pār savām kaislībām un ir ieguvis to šķīstību, kas dara viņu spējīgu saņemt Gara godību. Viņš ir tā pilnīgā dūjiņa, uz kuru līgavaiņa acis raugās, kad viņš saka: “Mana vienīgā ir mana dūjiņa, mana pilnīgā.”</p>",
+					"atbildesReference":"sal. Jņ 15, 15; 14, 26; 15, 14",
+					"vers1": "Es vairs nesaucu jūs par kalpiem, bet gan par draugiem, jo jūs zināt visu, ko Es jūsu vidū esmu darījis.",
+					"resp": "Saņemiet Svēto Garu, Iepriecinātāju; Viņš ir Tas, kuru Tēvs jums atsūtīs, alleluja.",
+					"vers2": "Jūs esat mani draugi, ja darāt to, ko Es jums pavēlu."
 				}
 			},
 			1:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "4, 1-10",
+					"lasijumsNos": "Dievs mūs iemīlēja",
+					"lasijumstext": "<p class='paragr'>Mīļotie, neticiet katram garam, bet pārbaudiet, vai tie ir no Dieva, jo daudzi viltus pravieši ir izgājuši pasaulē. Tā pazīsiet Dieva garu: katrs gars, kas apliecina, ka Jēzus Kristus ir nācis miesā, ir no Dieva. Un katrs gars, kas neapliecina Jēzu, nav no Dieva, bet tas ir antikrista gars, par ko jūs esat dzirdējuši, ka tas nāks, un tas jau tagad ir pasaulē. Bērniņi, jūs esat no Dieva un tos esat uzvarējuši, jo lielāks ir tas, kas jūsos, nekā tas, kas ir pasaulē. Tie ir no pasaules, tādēļ tie runā pasaulīgi, un pasaule viņos klausās. Mēs esam no Dieva, un, kas pazīst Dievu, tas dzird mūs, kas nav no Dieva, tas nedzird mūs. Tā mēs pazīstam patiesības garu un maldu garu.</p><p class='paragr'>Mīļotie, mīlēsim cits citu, jo mīlestība ir no Dieva, un katrs, kas Dievu mīl, ir piedzimis no Dieva un Dievu pazīst. Kas nemīl, nepazīst Dievu, jo Dievs ir mīlestība. Tā ir atklājusies Dieva mīlestība mūsu vidū: Dievs savu vienpiedzimušo Dēlu ir sūtījis pasaulē, lai mēs dzīvotu caur viņu. Šī ir mīlestība – nevis mēs esam mīlējuši Dievu, bet viņš ir mīlējis mūs un sūtījis savu Dēlu – izlīguma upuri par mūsu grēkiem.</p>",
+					"atbildesReference":"sal. 1 Jņ 4, 9; Jņ 3, 16",
+					"vers1": "Dieva mīlestība uz mums ir pierādījusies ar to, ka Dievs sūtīja pasaulē savu viendzimušo Dēlu.",
+					"resp": " Lai ikviens, kas Viņam tic, iemantotu mūžīgo dzīvi, alleluja.",
+					"vers2": "Jo Dievs tā mīlēja pasauli, ka deva savu viendzimušo Dēlu."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Jeruzalemes bīskapa svētā Kirila katehēzes",
+					"lasijumaRef": "(Cat. 16, De Spiritu Sancto 1, 11-12.16: PG 33, 931-935.939-942)" + ai(),
+					"lasijumsNos": "Svētais Gars – dzīvais ūdens",
+					"lasijumstext": "<p class='paragr'>“Ūdens, ko Es viņam došu, kļūs viņā par ūdens avotu, kas verd mūžīgajai dzīvībai.” Tas ir jauns ūdens veids – dzīvs, strauji plūstošs ūdens, kas izverd tajos, kuri ir cienīgi. Bet kāpēc Kristus Gara žēlastību nosauca par ūdeni? Tāpēc, ka no ūdens ir atkarīgs viss. Augi un dzīvnieki savu sākumu ņem no ūdens. Ūdens kā lietus nolaižas no debesīm, un, lai gan pats sevī tas vienmēr ir viens un tas pats, tas rada ļoti dažādas sekas – vienu palmai, citu vīnakokam, un tā visā radībā. Tas nenāk lejup te kā viens, te kā cits, bet, palikdams pēc būtības tas pats, tas pielāgojas katras būtnes vajadzībām, kas to saņem.</p><p class='paragr'>Tāpat arī Svētais Gars, kura daba vienmēr ir viena un tā pati, vienkārša un nedalāma, piešķir žēlastību katram, kā Viņš vēlas. Kā sauss koks, aplaistīts ar ūdeni, izdzen atvases, tā dvēsele nes svētuma augļus, kad nožēla to ir darījusi cienīgu saņemt Svēto Garu. Lai gan Gars nekad nemainās, Viņa darbības augļi pēc Dieva gribas un Kristus Vārdā ir daudzi un brīnišķīgi.</p><p class='paragr'>Gars vienu cilvēku dara par dievišķās patiesības skolotāju, citu iedvesmo pravietot, citam dod spēku izdzīt ļaunos garus, citam ļauj skaidrot Svētos Rakstus. Gars stiprina viena cilvēka savaldību, citam rāda, kā palīdzēt nabagiem, citam māca gavēt un dzīvot askētisku dzīvi, citu dara aizmāršīgu pret miesas vajadzībām, citu sagatavo moceklībai. Viņa darbība dažādos cilvēkos ir atšķirīga, bet pats Gars vienmēr ir tas pats. “Katrā,” saka Raksti, “Gars atklāj savu klātbūtni īpašā veidā kopējam labumam.”</p><p class='paragr'>Gars nāk maigi un dara sevi pazīstamu ar savu smaržu. Viņš nav jūtams kā smagums, jo Viņš ir viegls, ļoti viegls. Viņam tuvojoties, pirms Viņa plūst gaismas un atziņas stari. Gars nāk ar patiesa drauga un aizstāvja maigumu – lai glābtu, dziedinātu, mācītu, dotu padomu, stiprinātu un iepriecinātu. Gars nāk, lai vispirms apgaismotu tā prātu, kurš Viņu saņem, un pēc tam caur viņu arī citu prātus.</p><p class='paragr'>Kā gaisma skar tā cilvēka acis, kurš no tumsas iznāk saules gaismā, un ļauj viņam skaidri redzēt lietas, ko viņš iepriekš nespēja saskatīt, tā arī gaisma piepilda tā cilvēka dvēseli, kurš ir atzīts par cienīgu saņemt Svēto Garu, un ļauj viņam redzēt to, kas ir ārpus cilvēka redzes loka, – to, par ko viņš iepriekš pat nevarēja sapņot.</p>",
+					"atbildesReference":"1 Kor 12, 6-7.27",
+					"vers1": "Dažādas ir darbošanās, bet tas pats Dievs, kas visos visu dara.",
+					"resp": "Bet ikvienam tiek dota Gara atklāsme kopīgam labumam, alleluja.",
+					"vers2": "Jūs esat Kristus miesa un tās atsevišķie locekļi."
 				}
 			},
 			2:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "4, 11-21",
+					"lasijumsNos": "Dievs ir mīlestība",
+					"lasijumstext": "<p class='paragr'>Mīļotie, ja Dievs mūs tā ir mīlējis, tad arī mums pienākas citam citu mīlēt. Dievu neviens nekad nav redzējis; ja mēs viens otru mīlam, Dievs paliek mūsos un viņa mīlestība mūsos ir pilnīga. No tā mēs zinām, ka paliekam viņā un viņš mūsos, ka viņš ir devis mums no sava Gara. Un mēs esam redzējuši un liecinām, ka Tēvs ir sūtījis Dēlu par pasaules Pestītāju. Ja kāds apliecina, ka Jēzus ir Dieva dēls, Dievs paliek viņā un viņš Dievā. Un mēs esam atzinuši un ticam mīlestībai, kas Dievam ir uz mums. Dievs ir mīlestība, un, kas paliek mīlestībā, tas paliek Dievā un Dievs viņā.</p><p class='paragr'>Ar to mīlestība pie mums ir pilnīga, ka mums ir paļāvība tiesas dienā, jo, tāpat kā viņš ir, tā arī mēs esam šajā pasaulē. Mīlestībā nav baiļu, jo pilnīga mīlestība aizdzen bailes; bailes skatās uz sodu, un bailīgais nav pilnīgs mīlestībā.</p><p class='paragr'>Mēs mīlam, jo viņš ir mūs pirmais mīlējis. Ja kāds saka: es mīlu Dievu! – bet nīst savu brāli, tas ir melis, jo tas, kas nemīl savu brāli, ko viņš redz, nevar mīlēt Dievu, ko viņš neredz. Un mums ir šis bauslis, lai tas, kas mīl Dievu, mīl arī savu brāli.</p>",
+					"atbildesReference":"sal. 1 Jņ 4, 10.16a; sal. Is 63, 8c.9c",
+					"vers1": "Dievs mūs pirmais ir iemīlējis un sūtījis savu Dēlu kā gandarīšanas upuri par mūsu grēkiem.",
+					"resp": "Un mēs, kas ieticējām, esam iepazinuši Dieva mīlestību uz mums, alleluja.",
+					"vers2": "Kungs ir kļuvis par mūsu Glābēju; savā mīlestībā Viņš mūs ir atpestījis."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā bīskapa Bazīlija Lielā grāmatas “Par Svēto Garu”",
+					"lasijumaRef": "(Cap. 9, 22-23: PG 32, 107-110)" + ai(),
+					"lasijumsNos": "Svētā Gara darbība",
+					"lasijumstext": "<p class='paragr'>Nosaukumiem, kas doti Svētajam Garam, noteikti jāaizkustina ikviena klausītāja dvēsele un jādod viņam saprast, ka tie runā ne par ko mazāku kā par visaugstāko Esamību. Vai tad Viņš netiek saukts par Dieva Garu, par patiesības Garu, kas iziet no Tēva, par stipro Garu, par vadošo Garu? Taču Viņa galvenais un vispersoniskākais vārds ir Svētais Gars.</p><p class='paragr'>Pie Gara vēršas visa radība, kas alkst svētdarīšanas; visas dzīvās būtnes meklē Viņu, katra pēc savas spējas. Viņa dvaša dod spēku ikvienai sasniegt tai raksturīgo mērķi.</p><p class='paragr'>Gars ir svētuma avots, garīgā gaisma, un Viņš katram prātam sniedz savu gaismu, lai palīdzētu tam patiesības meklējumos. Pēc dabas Gars ir ārpus mūsu prāta sasniedzamības, taču mēs varam Viņu pazīt pēc Viņa labestības. Gara spēks piepilda visu visumu, bet Viņš dod sevi tikai tiem, kas ir cienīgi, iedarbojoties katrā pēc viņa ticības mēra.</p><p class='paragr'>Pats sevī Gars ir vienkāršs, bet savos varenajos darbos daudzveidīgs. Visa Viņa būtība ir klātesoša katrā atsevišķajā cilvēkā; visa Viņa būtība ir klātesoša visur. Lai gan Viņā piedalās daudzi, Viņš paliek nemainīgs; Viņa sevis došana neko Viņam neatņem. Kā saules gaisma, kas piepilda visu gaisu, izplešas pār zemi un jūru un tomēr katrs to bauda tā, it kā tā būtu dota viņam vienam, tā arī Gars izlej savu žēlastību pilnā mēra, pietiekamā visiem, un tomēr ir klātesošs katram tā, it kā būtu dots viņam vienam vienīgam, kas spēj Viņu saņemt. Visām radībām, kas Viņā piedalās, Viņš dod prieku, ko ierobežo vienīgi to pašu daba, nevis Viņa dāvināšanas spēks.</p><p class='paragr'>Gars paceļ mūsu sirdis uz debesīm, vada vājo soļus un pilnveido tos, kas iet uz priekšu. Viņš apgaismo tos, kas ir šķīstīti no ikviena grēka traipa, un dara viņus garīgus, ievedot viņus sadraudzībā ar sevi.</p><p class='paragr'>Kā dzidras un caurspīdīgas vielas, saules apspīdētas, kļūst ļoti spožas un sāk starot jaunā mirdzumā, tā arī dvēseles, kurās mājo Gars, pašas kļūst garīgas un par žēlastības avotu citiem.</p><p class='paragr'>No Gara nāk nākotnes priekšzināšana, ticības noslēpumu izpratne, ieskats Rakstu apslēptajā nozīmē un citas īpašas dāvanas. Caur Garu mēs kļūstam par debesu pilsoņiem, ieejam mūžīgajā svētlaimē un paliekam Dievā. Caur Garu mēs iegūstam līdzību ar Dievu; vēl vairāk – mēs sasniedzam to, kas pārsniedz pat mūsu augstākās ilgas: mēs topam dievi.</p>",
+					"atbildesReference":"sal. Jņ 14, 27b; 16, 22b; 14, 16a",
+					"vers1": "Lai jūsu sirdis nebīstas! Es aizeju pie Tēva, un, kad Es no jums būšu paņemts, Es jums sūtīšu",
+					"resp": "Patiesības Garu, un jūsu sirdis priecāsies, alleluja.",
+					"vers2": "Es lūgšu Tēvu, un Viņš jums dos citu Iepriecinātāju."
 				}
 			},
 			3:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "5, 1-12",
+					"lasijumsNos": "Dievs ir mīlestība",
+					"lasijumstext": "<p class='paragr'>Mīļotie! Ikviens, kas tic, ka Jēzus ir Kristus, ir dzimis no Dieva, un ikviens, kas mīl Dievu, kas viņu ir dzemdinājis, mīl arī to, kas ir no Dieva dzimis. Mēs zinām, ka mīlam Dieva bērnus, kad mīlam Dievu un pildām viņa baušļus. Jo tā ir mīlestība pret Dievu, ka turam viņa baušļus, un viņa baušļi nav grūti. It viss, kas dzimis no Dieva, uzvar pasauli; un šī ir tā uzvara, kas uzvarējusi pasauli, – mūsu ticība.</p><p class='paragr'>Kas tad uzvar pasauli, ja ne tas, kas tic, ka Jēzus ir Dieva dēls. Viņš ir tas, kas ir nācis caur ūdeni un asinīm – Jēzus Kristus; ne ūdenī vien, bet ūdenī un asinīs. Un Gars ir liecinātājs, jo Gars ir patiesība. Jo ir trīs, kas dod liecību: Gars, ūdens un asinis, un šie trīs ir viens. Ja mēs cilvēku liecību pieņemam, tad Dieva liecība ir lielāka, – un šī ir Dieva liecība, jo viņš ir liecinājis par savu Dēlu. Tam, kas tic Dieva dēlam, ir liecība sevī; kas netic Dievam, tas viņu padara par meli, jo netic tai liecībai, ar kuru Dievs ir liecinājis par savu Dēlu. Un šī ir tā liecība: Dievs mums ir devis mūžīgo dzīvību, un šī dzīvība ir viņa Dēlā. Kam ir Dēls, tam ir dzīvība, bet, kam Dieva dēla nav, tam nav dzīvības.</p>",
+					"atbildesReference":"1 Jņ 5, 6; Zah 13, 1",
+					"vers1": "Viņš ir tas, kurš atnāca caur ūdeni un asinīm – Jēzus Kristus; ne tikai ūdenī vien, bet ūdenī un asinīs.",
+					"resp": "Gars ir tas, kurš liecina, jo Gars ir patiesība, alleluja.",
+					"vers2": "Tajā dienā Dāvida namam un Jeruzalemes iedzīvotājiem atvērsies avots – lai šķīstītos no grēkiem un aptraipījuma."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Vatikāna II koncila dogmatiskās konstitūcijas par Baznīcu “Lumen gentium”",
+					"lasijumaRef": "(Nr. 4 un 12)",
+					"lasijumsNos": "Par Svētā Gara misiju Baznīcā",
+					"lasijumstext": "<p class='paragr'>Kad Dēls bija pabeidzis Tēva uzdoto darbu šeit, virs zemes, Vasarsvētku dienā tika sūtīts Svētais Gars, lai tas pastāvīgi svētdarītu Baznīcu un lai tādējādi ticīgajiem ar Kristus starpniecību vienā Garā būtu pieejams Tēvs. Viņš ir dzīvības Gars, ūdens avots, kas verd mūžīgajai dzīvei; ar Viņa starpniecību Tēvs cilvēkiem, kurus nonāvējis grēks, dāvā dzīvību, līdz Kristū augšāmcels to mirstīgās miesas.</p><p class='paragr'>Gars mājo Baznīcā un ticīgo sirdī kā svētnīcā, Gars viņos lūdzas un apliecina, ka viņi ir pieņemtie Dieva bērni. Šo Baznīcu, kuru Viņš vada visā patiesībā un vieno kopībā un kalpošanā, Gars apveltī un vada ar dažādām hierarhiskām un harismātiskām dāvanām un grezno ar saviem augļiem.</p><p class='paragr'>Evaņģēlija spēkā Viņš Baznīcai dāvā jaunību, nemitīgi to atjauno un vada uz pilnīgu vienotību ar tās Līgavaini. Jo Gars un Līgava Kungam Jēzum saka: “Nāc!”</p><p class='paragr'>Tādējādi vispārējā Baznīca atklājas kā “tauta, kas savu vienotību rod Tēva, Dēla un Svētā Gara vienotībā”.</p><p class='paragr'>Viss ticīgo kopums, kas no Svētā ir saņēmis svaidījumu, nevar maldīties ticībā; šī īpašā dāvana, kura tiem dota, tiek apliecināta ar pārdabisko ticības apjausmu, kas piemīt visai Dieva tautai kopumā, kad “no bīskapa līdz pat beidzamajam ticīgajam lajam” ir vispārēja saskaņa ticības un tikumības jautājumos.</p><p class='paragr'>Pateicoties šai ticības apjausmai, kuru uzmodina un uztur Patiesības Gars, Dieva tauta svētā Maģistērija vadībā un uzticīgi tam sekojot, pieņem ne vairs cilvēku vārdu, bet gan patiesu Dieva vārdu; tā nesatricināmi turas pie ticības, kas reizi par visām reizēm ir nodota svētajiem, arvien dziļāk to izprot, pareizi spriežot, un pilnīgāk īsteno dzīvē.</p><p class='paragr'>Turklāt Svētais Gars ne vien ar sakramentu un kalpojumu starpniecību svētdara Dieva tautu, to vada un grezno ar tikumu rotu, bet, “piešķirdams katram, kā gribēdams”, Viņš visu kārtu ticīgajiem dāvā arī īpašas žēlastības, ar kurām Viņš dara tos spējīgus un gatavus uzņemties dažādus uzdevumus un kalpot Baznīcas atjaunotnei un turpmākajai celšanai saskaņā ar vārdiem: “Ikvienam tiek dota Gara izpausme, lai nestu svētību.”</p><p class='paragr'>Tā kā šīs harismas – vai tās būtu izcilākās vai pašas vienkāršākās un visizplatītākās – pirmām kārtām ir atbilstošas un piemērotas Baznīcas vajadzībām, tad tās jāpieņem ar prieku un pateicību.</p>",
+					"atbildesReference":"Jņ 7, 37a.38.39a",
+					"vers1": "Pēdējā lielajā svētku dienā Jēzus sauca, sacīdams: “Kas man tic, no viņa iekšienes plūdīs dzīvā ūdens straumes.”",
+					"resp": "Bet to Viņš sacīja par Garu, kuru saņems tie, kas Viņam bija ieticējuši, alleluja.",
+					"vers2": "Kam slāpst, lai nāk un dzer, un no viņa iekšienes plūdīs dzīvā ūdens straumes."
 				}
 			},
 			4:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa pirmās vēstules",
+					"lasijumaRef": "5, 13-21",
+					"lasijumsNos": "Par lūgšanu par grēciniekiem",
+					"lasijumstext": "<p class='paragr'>Mīļotie! To es rakstu jums, kas ticat Dieva dēla vārdam, lai jūs zinātu, ka jums ir mūžīgā dzīvība.</p><p class='paragr'>Un šāda paļāvība mums ir uz viņu: ja mēs ko lūdzam pēc viņa gribas, viņš uzklausa mūs. Ja zinām, ka viņš uzklausa mūs, ko vien lūdzam, tad zinām, ka saņemam to, ko esam no viņa lūguši.</p><p class='paragr'>Ja kāds redz, ka viņa brālis dara tādu grēku, kas nav nāves grēks, tas lai lūdz Dievu, un viņš dos tam dzīvību – tādiem, kas nedara nāves grēku. Ir nāves grēks, par to es nesaku, lai lūdz. Katra netaisnība ir grēks, bet ir grēks, kas nav nāves grēks.</p><p class='paragr'>Mēs zinām, ka ikviens, kas dzimis no Dieva, negrēko, bet Dieva dēls viņu pasargā un ļaunais neaizskar viņu. Mēs zinām, ka esam no Dieva, un visa pasaule ir grimusi ļaunumā. Bet mēs zinām, ka Dieva dēls ir nācis un devis mums saprašanu, ka atzīstam patieso. Un mēs arī esam patiesajā – viņa dēlā Jēzū Kristū. Šis ir patiesais Dievs un mūžīgā dzīvība. Bērniņi, sargieties no elkiem!</p>",
+					"atbildesReference":"1 Jņ 5, 20; Jņ 1, 18",
+					"vers1": " Mēs zinām, ka Dieva Dēls ir atnācis.",
+					"resp": "Un devis mums saprašanu, lai mēs pazītu patieso Dievu, alleluja.",
+					"vers2": "Dievu neviens nekad nav redzējis; viendzimušais Dievs, kas ir Tēva klēpī, pats To ir atklājis."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No Aleksandrijas bīskapa svētā Kirila komentāra par Jāņa evaņģēliju",
+					"lasijumaRef": "(Lib. 10, 16, 6-7: PG 74, 434)" + ai(),
+					"lasijumsNos": "Ja Es neaiziešu, Paraklēts pie jums neatnāks",
+					"lasijumstext": "<p class='paragr'>Kad Kristus bija piepildījis savu sūtību virs zemes, mums vēl arvien bija nepieciešams kļūt par Vārda dievišķās dabas līdzdalībniekiem. Mums vajadzēja atteikties no savas agrākās dzīves un tapt tik ļoti pārveidotiem, ka sāktu dzīvot pavisam jaunu dzīvi, kas būtu patīkama Dievam. To mēs varējām sasniegt vienīgi caur līdzdalību Svētajā Garā.</p><p class='paragr'>Bija pilnīgi atbilstoši, ka Gara sūtīšana un Viņa nonākšana pār mums notika pēc Kristus, mūsu Pestītāja, aiziešanas. Kamēr Kristus bija ar savējiem miesā, ticīgajiem, bez šaubām, šķita, ka Viņā viņiem pieder viss labums; bet, kad pienāca laiks Viņam uzkāpt pie sava debesu Tēva, bija nepieciešams, lai Viņš caur savu Garu vienotos ar tiem, kas Viņu pielūdz, un mājotu mūsu sirdīs caur ticību. Tikai tādā veidā, būdams pats klātesošs mūsos, Viņš varēja dot mums drosmi saukt: “Abba, Tēvs”, palīdzēt mums viegli pieaugt svētumā un, dāvādams mums visvareno Garu, darīt mūs neuzvaramus pret velna viltībām un cilvēku uzbrukumiem.</p><p class='paragr'>Gan no Vecās Derības, gan no Jaunās ir viegli parādīt, ka Gars pārveido tos, kuros Viņš nāk mājot; Viņš tos tā pārvērš, ka tie sāk dzīvot pilnīgi jaunu dzīvi. Pravietis Samuēls sacīja Saulam: “Kunga Gars nāks pār tevi, un tu tapsi par citu cilvēku.” Svētais Pāvils raksta: “Mēs visi, atsegtu vaigu skatīdami Kunga godību, tiekam pārvērsti Viņa paša līdzībā no godības godībā, it kā no Kunga Gara.”</p><p class='paragr'>Vai tas skaidri nerāda, ka Gars pārveido tos, kuros Viņš mājo, un izmaina visu viņu dzīves veidu? Kad Gars ir viņos, tad ir gluži dabiski, ka cilvēki, kuri agrāk bija pieķērušies šīs pasaules lietām, kļūst pilnīgi debesīgi savā domāšanā, un gļēvie kļūst par lielas drosmes vīriem. Nav ne mazāko šaubu, ka tas notika ar mācekļiem. Spēks, ko viņi saņēma no Gara, deva tiem iespēju nelokāmi palikt Kristus mīlestībā un bez bailēm stāties pretī savu vajātāju varmācībai. Tāpēc mūsu Pestītāja vārdi bija patiesi: viņiem bija par labu, ka Viņš atgriežas debesīs, jo Viņa atgriešanās bija noliktais laiks Svētā Gara nonākšanai.</p>",
+					"atbildesReference":"Jņ 16, 7b.13",
+					"vers1": "Ja Es neaiziešu, pie jums neatnāks Iepriecinātājs; bet, ja Es aiziešu, Es Viņu atsūtīšu pie jums.",
+					"resp": "Bet kad Viņš atnāks, Viņš jūs ievedīs katrā patiesībā, alleluja.",
+					"vers2": "Jo Viņš nerunās pats no sevis, bet runās to, ko dzirdēs, un jums atklās nākamās lietas."
 				}
 			},
 			5:{
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Jāņa otrās vēstules",
+					"lasijumaRef": "Kas paliek šinī mācībā, tam ir gan Tēvs, gan Dēls",
+					"lasijumsNos": "",//visa vēstule
+					"lasijumstext": "<p class='paragr'>Es, presbiteris, rakstu izredzētai kundzei un viņas bērniem, kurus es mīlu visā patiesībā, un ne tikai es viens, bet visi, kas atzinuši patiesību. Un es rakstu tās patiesības dēļ, kas paliek mūsos un būs ar mums uz mūžu. Žēlastība, žēlsirdība un miers būs ar mums no Dieva Tēva un no Jēzus Kristus, Tēva Dēla, patiesībā un mīlestībā.</p><p class='paragr'>Es ļoti priecājos, ka atradu tavus bērnus dzīvojam patiesībā – pēc tās pavēles, ko saņēmām no Tēva. Bet tagad, kundze, es tevi lūdzu, nevis jaunu pavēli tev rakstīdams, bet paliekot pie tā, kas mums bija iesākumā: mīlēsim cits citu. Šī ir tā mīlestība, ka mēs dzīvojam pēc viņa baušļiem. Un šādi skan pavēle, kā iesākumā jau dzirdējāt: dzīvojiet pēc tās!</p><p class='paragr'>Daudzi maldinātāji ir izgājuši pasaulē. Tie neatzīst, ka Jēzum Kristum bija jānāk miesā – tie ir maldinātāji un antikristi. Uzmanieties, ka jūs nepazaudējat to, ko esam darbā panākuši, bet ka jūs saņemtu pilnu algu. Ikviens, kas grib tiekties tālāk par Kristus mācību un tajā nepaliek, ir bez Dieva. Kas paliek mācībā, tam ir gan Tēvs, gan Dēls.</p><p class='paragr'>Ja kāds nāk pie jums un šo mācību neatzīst, neuzņemiet viņu savā namā un viņu nesveiciniet. Kas tādu sveicinādams pieņem, tas kļūst līdzdalīgs viņa ļaunajos darbos.</p><p class='paragr'>Lai gan man jums ir daudz ko sacīt, es negribēju to rakstīt ar tinti uz papīra, bet ceru nokļūt pie jums un runāt vaigu vaigā, lai mūsu prieks būtu pilnīgs.</p><p class='paragr'>Tevi sveicina tavas izredzētās māsas bērni.</p>",
+					"atbildesReference":"sal. 2 Jņ 5.4b; At 5, 33a",
+					"vers1": "Šis ir bauslis, ko esam saņēmuši no Tēva nevis kā jaunu bausli, bet gan kas mums ir bijis no paša sākuma.",
+					"resp": "Staigājiet patiesībā un mīlestībā, alleluja.",
+					"vers2": "Jums būs staigāt pa ceļu, ko Kungs, jūsu Dievs, ir pavēlējis, lai jūs dzīvotu."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā bīskapa Hilārija traktāta par Trīsvienību",
+					"lasijumaRef": "(Lib. 2, 1.33.35: PL 10, 50-51.73-75)" + ai(),
+					"lasijumsNos": "Tēva dāvana Kristū",
+					"lasijumstext": "<p class='paragr'>Mūsu Kungs mums pavēlēja kristīt Tēva un Dēla, un Svētā Gara Vārdā. Tātad kristībā mēs apliecinām ticību Radītājam, viendzimušajam Dēlam un dāvanai, kas ir Svētais Gars. Ir viens visu lietu Radītājs, jo Dievā ir viens Tēvs, no kura viss saņem esamību. Un ir viens viendzimušais Dēls, mūsu Kungs Jēzus Kristus, caur kuru viss pastāv. Un ir viens Gars, dāvana, kas ir visos. Tā viss seko savai pienācīgajai kārtībai saskaņā ar katra īpašo darbību: viens spēks, kas visu rada, viens Dēls, caur kuru viss top, un viena pilnīgās cerības dāvana. Šajā nevainojamajā vienībā nekā netrūkst: Tēvā, Dēlā un Svētajā Garā ir bezgalīga un nebeidzama esamība, pilnīgs dievišķā attēla atspulgs un savstarpēja priecāšanās dāvanā.</p><p class='paragr'>Mūsu Kungs ir atklājis, kāpēc Gars ir klātesošs mūsos. Ieklausīsimies Viņa vārdos: “Man jums vēl daudz kas sakāms, bet jūs to tagad vēl nespējat nest. Jums ir labāk, ka Es aizeju; jo, ja Es aiziešu, Es jums sūtīšu Aizstāvi.” Un arī: “Es lūgšu Tēvu, un Viņš jums dos citu Aizstāvi, lai Viņš paliktu pie jums mūžīgi, patiesības Garu. Viņš jūs ievadīs visā patiesībā; jo Viņš nerunās no sevis, bet runās to, ko dzirdēs, un jums pasludinās nākamās lietas. Viņš Mani pagodinās, jo Viņš ņems no tā, kas ir mans.”</p><p class='paragr'>No daudzajiem Kunga vārdiem šie ir izraudzīti, lai vadītu mūsu izpratni, jo tie mums atklāj dāvinātāja nodomu, dāvanas dabu un nosacījumu tās saņemšanai. Tā kā mūsu vājais prāts nespēj aptvert ne Tēvu, ne Dēlu, mums ir dots Svētais Gars kā vidutājs un aizstāvis, lai apgaismotu šo grūto mūsu ticības mācību – Dieva iemiesošanos.</p><p class='paragr'>Mēs saņemam patiesības Garu, lai pazītu Dieva lietas. Lai to saprastu, apdomā, cik nederīgas kļūtu cilvēka miesas spējas, ja tām tiktu liegta darbība. Mūsu acis nevar pildīt savu uzdevumu bez gaismas – vai nu dabiskas, vai mākslīgas; mūsu ausis nevar uztvert bez skaņas viļņiem; un, ja nav nekādas smaržas, mūsu nāsis nezina, kam tās dotas. Ne jau tāpēc, ka šīs maņas zaudētu savu dabu, ja tās netiktu lietotas; drīzāk tām ir vajadzīgi priekšmeti, ko uztvert, lai tās darbotos. Tāpat ir arī ar cilvēka dvēseli. Ja tā ticībā neuzņem Gara dāvanu, tad prātam gan ir spēja pazīt Dievu, bet tam trūkst gaismas, kas šai atziņai nepieciešama.</p>",
+					"atbildesReference":"",//nav
+					"vers1": "Ir pienācis laiks atgriezties pie Tā, kas mani sūtījis, saka Kungs; neesiet skumji un lai jūsu sirdis neizbīstas.",
+					"resp": "Es lūdzu Tēvu par jums, lai Viņš jūs pasargā, alleluja.",
+					"vers2": "Ja Es neaiziešu, Iepriecinātājs neatnāks; kad Es tikšu paņemts debesīs, Es Viņu atsūtīšu pie jums."
 				}
 			},
 			6:{
 				1:{
-					"lasijumstitle": "",
+					"lasijumstitle": "No svētā apustuļa Jāņa trešās vēstules",
 					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumsNos": "Staigāsim patiesībā",
+					"lasijumstext": "<p class='paragr'>Es, presbiteris, rakstu mīļotajam Gajam, ko mīlu patiesībā.</p><p class='paragr'>Mīļotais, es tev novēlu, lai tev visnotaļ labi klājas un ir laba veselība, kā tas jau ir tavai dvēselei. Es ļoti priecājos, kad ieradās tavi brāļi un liecināja par to patiesību, kurā tu jau dzīvo. Man nav lielāka prieka kā dzirdēt, ka mani bērni dzīvo patiesībā.</p><p class='paragr'>Mīļotais, tu esi tik uzticams it visā pret saviem brāļiem, pat ja tie tev ir sveši. Viņi par tavu mīlestību liecināja draudzes priekšā, un tu darīsi labu, ja tālākajam ceļam tos sagatavosi Dieva cienīgi. Viņi taču izgāja Kunga dēļ, neko neņemdami no pagāniem. Tādus mums vajag uzņemt, lai mēs kļūstam par patiesības līdzstrādniekiem.</p><p class='paragr'>Es kādu vārdu uzrakstīju arī draudzei, bet Diotrefs, kas uzmeties viņiem par vadoni, mūs nepieņem. Tādēļ, kad es ieradīšos, tad gan atgādināšu, ko viņš darījis. Viņš mūs apmelo ļauniem vārdiem un ar to vien neapmierinās. Viņš ne tikai pats neuzņem brāļus, bet liedz arī tiem, kas grib viņus uzņemt, un izdzen viņus no draudzes.</p><p class='paragr'>Mīļotais, neseko sliktam paraugam, bet labam. Tāds, kas dara labu, ir no Dieva. Tāds, kas dara ļaunu, nav redzējis Dievu.</p><p class='paragr'>Visi liecina labu par Dēmētriju – arī pati patiesība un mēs liecinām labu, un tu zini, ka mūsu liecība ir patiesa.</p><p class='paragr'>Man būtu bijis tev vēl daudz ko sacīt, bet negribu tev rakstīt ar tinti un spalvu. Es ceru drīzumā tevi ieraudzīt un runāt vaigu vaigā.</p><p class='paragr'>Miers lai ar tevi! Tevi sveicina draugi. Sveicini katru draugu atsevišķi.</p>",
+					"atbildesReference":"3 Jņ 11; 1 Pēt 2, 19",
+					"vers1": "Neseko sliktam paraugam, bet labam.",
+					"resp": "Kas dara labu, tas ir no Dieva, alleluja.",
+					"vers2": "Tā ir žēlastība, ja kāds, netaisnīgi ciezdams, panes bēdas."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No nezināma sestā gadsimta autora no Āfrikas sprediķiem",
+					"lasijumaRef": "(Sermo 8, 1-3: PL 65, 743-744)" + ai(),
+					"lasijumsNos": "Baznīca savā vienībā runā visās valodās",
+					"lasijumstext": "<p class='paragr'>Mācekļi runāja visu tautu valodās. Vasarsvētkos Dievs ar šo zīmi parādīja Svētā Gara klātbūtni: ikviens, kas bija saņēmis Garu, runāja visdažādākajās valodās. Mums jāsaprot, mīļotie brāļi, ka tas ir tas pats Svētais Gars, caur kuru mūsu sirdīs ir izlieta mīlestība. Tieši mīlestībai bija jāsapulcina Dieva Baznīca pa visu pasauli. Un tāpat kā atsevišķi cilvēki, saņēmuši Svēto Garu, runāja visu tautu valodās, tā arī, ja kāds kādam no mums sacītu: “Tu esi saņēmis Svēto Garu, kāpēc tad tu nerunā visās valodās?” viņam jāatbild: “Es gan runāju visu cilvēku valodās, jo piederu Kristus miesai, tas ir, Baznīcai, un viņa runā visās valodās.” Ko gan citu Vasarsvētkos nozīmēja Svētā Gara klātbūtne, ja ne to, ka Dieva Baznīca runās visu tautu valodās?</p><p class='paragr'>Tādā veidā piepildījās Kunga apsolījums: “Neviens nelej jaunu vīnu vecos ādas traukos.” Jauno vīnu lej jaunos traukos, un tad abi saglabājas. Tāpēc, kad mācekļus dzirdēja runājam visdažādākajās valodās, daži nekļūdījās pārāk tālu, sacīdami: “Tie ir piedzērušies ar jaunu vīnu.” Patiesībā mācekļi tagad bija kļuvuši par jauniem ādas traukiem, atjaunotiem un svētdarītiem žēlastībā. Viņus piepildīja Svētā Gara jaunais vīns, tā ka viņu dedzība pārplūda pāri malām un viņi runāja daudzās valodās. Ar šo brīnišķīgo brīnumu viņi kļuva par zīmi katoliskajai Baznīcai, kas aptver visu tautu valodas.</p><p class='paragr'>Tādēļ sviniet šos svētkus kā vienas Kristus miesas locekļi. Tie jums nebūs tukši svētki, ja patiesi kļūsiet par to, ko svinat. Jo jūs esat tās Baznīcas locekļi, kuru Kungs atzīst par savu un kura savukārt atzīst Viņu; tās pašas Baznīcas, kuru Viņš piepilda ar Svēto Garu, tai izplatoties pa visu pasauli. Viņš ir kā līgavainis, kas nekad nepazaudē savu līgavu no redzesloka; tāpēc neviens viņam nevar tās vietā iemānīt citu.</p><p class='paragr'>Tāpēc jums, visu tautu ļaudīm, kas veidojat Kristus Baznīcu, jums, Kristus locekļiem, jums, Kristus miesai, jums, Kristus Līgavai, apustulis saka šos vārdus: “Pacietiet cits citu mīlestībā; centieties uzturēt Gara vienību miera saitē.” Ievērojiet: kad Pāvils mudina mūs paciest citam citu, viņš savu pamudinājumu balsta mīlestībā, un, runādams par mūsu cerēto vienību, viņš uzsver miera saiti. Šī Baznīca ir Dieva nams. Viņam ir prieks tajā mājot. Tādēļ raugieties, lai Viņam nekad nebūtu jāredz, ka to grauj šķelšanās un ka tā sabrūk drupās.</p>",
+					"atbildesReference":"sal. Apd 15, 8-9; 11, 18b",
+					"vers1": "Dievs, kurš pazīst sirdis, ir devis Svēto Garu pagāniem tāpat kā mums.",
+					"resp": "Un nemaz nav šķirojis mūs un viņus, ticībā šķīstīdams viņu sirdis, alleluja.",
+					"vers2": "Tātad arī pagāniem Dievs ir devis atgriešanos no grēkiem, lai tie dzīvotu."
 				}
 			}
 		},
 		8:{// VASARSVĒTKI
 			0:{
+				//"himna":himnaOfficiumLieldieasVasarsvetki,
 				1:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā apustuļa Pāvila vēstules romiešiem",
+					"lasijumaRef": "8, 5-27",
+					"lasijumsNos": "Jo visi, ko vada Dieva Gars, ir Dieva bērni",
+					"lasijumstext": "<p class='paragr'>Brāļi! Jo tie, kas ir pēc miesas, patur prātā miesīgo, bet tie, kas pēc Gara, – garīgo. Miesas saprašana ir nāve, bet Gara saprašana ir dzīvība un miers, jo miesas prāts ir naidā ar Dievu, tas nepakļaujas Dieva bauslībai, nedz arī to spēj. Tie, kas ir miesīgi, nevar būt tīkami Dievam.</p><p class='paragr'>Jūs gan neesat miesīgi, bet garīgi, ja vien Dieva gars mīt jūsos; kam Kristus Gara nav, tas viņam nepieder. Un, ja Kristus ir jūsos, tad miesa grēkā gan ir mirusi, bet gars caur taisnību ir dzīvs. Un, ja jūsos mājo tā Gars, kas Kristu augšāmcēlis no mirušajiem, tad viņš, kas Kristu augšāmcēlis no mirušajiem, arī jūsu mirstīgās miesas darīs dzīvas caur savu Garu, kas jūsos iemājojis.</p><p class='paragr'>Tātad mēs, brāļi, ne jau miesai esam parādā, ka būtu jādzīvo pēc miesas. Ja jūs dzīvojat pēc miesas, jūs mirsiet, bet, ja jūs miesas darbus Garā nonāvējat, jūs dzīvosiet, – jo tie, ko vada Dieva gars, ir Dieva dēli. Jo jūs neesat saņēmuši garu, kas jūs padara par vergiem, atkal ievedot bailēs, bet esat saņēmuši Garu, kurš jūs padara par bērniem un kurā mēs saucam: Aba, Tēvs! Un tas pats Gars kopā ar mūsu garu liecina, ka mēs esam Dieva bērni. Bet, ja bērni, tad arī mantinieki – Dieva mantinieki un Kristus līdzmantinieki, ja vien līdz ar viņu ciešam, lai līdz ar viņu nāktu godībā. Es domāju, ka šā laika ciešanas ir nenozīmīgas tās nākamās godības priekšā, kas mums tiks atklāta.</p><p class='paragr'>Arī visa radība ilgodamās gaida, kad Dieva dēli atklāsies godībā. Jo radība ir pakļauta nīcībai nevis labprātīgi, bet pēc tās pakļāvēja gribas, un tai ir cerība, ka arī pati radība tiks atbrīvota no iznīcības verdzības, lai iegūtu Dieva bērnu godības pilnu brīvību. Mēs taču zinām, ka visa radība līdz pat šai dienai kopīgi vaimanā un cieš radību mokas; bet ne radība vien, arī mēs, kas esam saņēmuši Gara pirmos augļus, vaimanājam gaidot savas bērnu tiesības: mūsu miesas izpirkšanu. Jo cerībā mēs esam pestīti. Bet cerība, kas redzama, vairs nav cerība. Vai tad kāds vēl cer uz to, ko viņš jau redz? Bet, ja ceram uz to, ko neredzam, tad ar pacietību to gaidīt gaidām.</p><p class='paragr'>Tā arī Gars nāk palīgā mūsu nespēkam, jo mēs nezinām, kas un kā mums jālūdz, bet Gars pats mūs aizstāv ar bezvārdu nopūtām. Un tas, kas izpēta sirdis, zina, kas Garam padomā, tādēļ ka Gars pēc Dieva prāta iestājas par svētajiem.</p>",
+					"atbildesReference":"Gal 4, 6; 3, 26; 2 Tim 1, 7",
+					"vers1": "Tā kā jūs esat dēli, pateicoties ticībai Kristum Jēzum.",
+					"resp": "Dievs mūsu sirdīs sūtīja sava Dēla Garu, kas sauc: “Abba, Tēvs!” Alleluja.",
+					"vers2": "Dievs mums nav devis bailīguma, bet gan spēka un mīlestības, un skaidras domāšanas Garu."
 				},
 				2:{
-					"lasijumstitle": "",
-					"lasijumaRef": "",
-					"lasijumsNos": "",
-					"lasijumstext": "<p class='paragr'></p>",
-					"atbildesReference":"",
-					"vers1": "",
-					"resp": "",
-					"vers2": ""
+					"lasijumstitle": "No svētā bīskapa Ireneja traktāta “Pret herēzijām”",
+					"lasijumaRef": "(Lib. 3, 17, 1-3: SCh 34, 302-306)" + ai(),
+					"lasijumsNos": "Svētā Gara nosūtīšana",
+					"lasijumstext": "<p class='paragr'>Kad Kungs saviem mācekļiem pavēlēja iet un mācīt visas tautas, un kristīt tās Tēva un Dēla, un Svētā Gara vārdā, Viņš tiem piešķīra varu dot cilvēkiem jaunu dzīvi Dievā. Caur praviešiem Viņš bija apsolījis, ka šajās pēdējās dienās izlies savu Garu pār saviem kalpiem un kalponēm, un tie pravietos. Tāpēc, kad Dieva Dēls kļuva par Cilvēka Dēlu, arī Gars nonāca pār Viņu, šādā veidā pierazdams mājot pie cilvēku dzimuma, dzīvot cilvēkos un iemājot Dieva radībā. Gars piepildīja Tēva gribu cilvēkos, kas bija novecojuši grēkā, un deva viņiem jaunu dzīvi Kristū.</p><p class='paragr'>Lūkass saka, ka pēc Kunga debeskāpšanas Vasarsvētkos Gars nonāca pār mācekļiem ar spēku atvērt dzīvības vārtus visām tautām un darīt tām zināmu jauno derību. Tā notika, ka ļaudis no visām valodām apvienojās vienā slavas dziesmā Dievam, un ciltis, ko Gars bija atjaunojis vienībā, tika pienestas Tēvam kā visu tautu pirmaugļi.</p><p class='paragr'>Tāpēc Kungs bija apsolījis sūtīt Aizstāvi: Viņam bija mūs jāsagatavo par upuri Dievam. Kā sausi milti bez mitruma nevar kļūt par vienu mīklas masu, par vienu maizes klaipu, tā arī mēs, būdami daudzi, nevarējām kļūt viens Kristū Jēzū bez ūdens, kas nāk no debesīm. Un kā izkaltusi zeme nenes ražu, ja nesaņem mitrumu, tā arī mēs, kas reiz bijām kā sauss koks, nekad nebūtu varējuši dzīvot un nest augļus bez šī bagātīgā lietus no augšienes. Caur kristību, kas mūs atbrīvo no pārmaiņām un iznīcības, mēs esam kļuvuši viens miesā; caur Garu mēs esam kļuvuši viens dvēselē.</p><p class='paragr'>Gudrības un saprašanas Gars, padoma un stipruma Gars, atziņas un Dieva bijības Gars nonāca pār Kungu, un Kungs savukārt deva šo Garu savai Baznīcai, sūtīdams Aizstāvi no debesīm pār visu pasauli, kurā, kā Viņš pats saka, arī velns tika nogāzts kā zibens. Lai mēs netiktu apdedzināti un nekļūtu neauglīgi, mums ir vajadzīga Dieva rasa. Tā kā mums ir apsūdzētājs, mums ir vajadzīgs arī Aizstāvis. Tāpēc Kungs savā līdzjūtībā pret cilvēku, kas bija kritis laupītāju rokās, pats apsējis viņa brūces un, atstājis viņa aprūpei divus denārijus ar ķēnišķo attēlu, uzticēja viņu Svētajam Garam. Tagad caur Garu mums ir dots Tēva un Dēla attēls un uzraksts, un mūsu pienākums ir mums uzticēto monētu likt lietā tā, lai tā nestu Kungam bagātīgu peļņu.</p>",
+					"atbildesReference":"Apd 2, 1-2",
+					"vers1": "Pienākot Vasarsvētku dienai, visi bija kopā tajā pat vietā; un pēkšņi no debesīm atskanēja šalkoņa.",
+					"resp": "It kā stipra vēja brāzma, un piepildīja visu māju, alleluja.",
+					"vers2": "Mācekļiem esot kopā, pēkšņi pār viņiem nāca šalkoņa no debesīm."
 				}
 			}
 		}
 	},
 	"festum" : {
+		0:{//mainīgie
+			"MarijaBaznica":{
+				"himna": marijai.himna,
+				"ant1": marijai.ant1,
+				"ps1": marijai.ps1,
+				"ant2": marijai.ant2,	
+				"ps2": marijai.ps2,
+				"ant3": marijai.ant3,
+				"ps3": marijai.ps3,
+				"atb1": marijai.atb1,
+				"atb2": marijai.atb2,
+				1:{// parastajā laikā
+					"lasijumstitle": "No svētā apustuļa Pāvila vēstules galatiešiem",
+					"lasijumaRef": "<br>Gal 3, 22 – 4, 7",
+					"lasijumsNos": "Ticībā mēs esam Dieva dēli un mantinieki",
+					"lasijumstext": "<p class='paragr'>Brāļi! Raksti visu ir ieslēguši grēka varā, lai apsolījums tiktu dots ticīgajiem ticībā uz Jēzu Kristu.</p><p class='paragr'>Bet, pirms nāca ticība, mēs bijām ieslēgti bauslības važās līdz brīdim, kad bija jāatklājas ticībai, un tātad bauslība ir bijusi mūsu audzinātāja līdz Kristum, lai ticībā mēs tiktu attaisnoti. Bet, kad ticība atnākusi, mēs audzinātājai vairs neesam pakļauti.</p><p class='paragr'>Ticībā uz Jēzu Kristu jūs visi esat Dieva bērni, jo jūs visi, kas esat uz Kristu kristīti, esat ietērpti Kristū. Tur nav ne jūda, ne grieķa, tur nav ne verga, ne brīvā, tur nav vīrieša un sievietes – jūs visi esat viens Jēzū Kristū. Un, ja jūs piederat Kristum, jūs esat Ābrahāma pēcnācēji, mantinieki pēc apsolījuma.</p><p class='paragr'>Es jums saku: kamēr mantinieks vēl nav pieaudzis, viņš neatšķiras no verga, kaut arī viņš ir kungs pār visiem. Viņš ir pakļauts aizbildņiem un pārvaldniekiem līdz tēva noteiktajam laikam. Tāpat arī mēs, kamēr vēl nebijām pieauguši, bijām pasaules pirmspēku paverdzināti. Bet, kad laiks bija piepildījies, Dievs sūtīja savu Dēlu, kas piedzima no sievietes, piedzima pakļauts bauslībai, lai izpirktu tos, kas pakļauti bauslībai, un lai mēs tiktu pieņemti par Dieva dēliem.</p><p class='paragr'>Tā kā jūs esat dēli, Dievs sava Dēla garu ir sūtījis jūsu sirdīs, kas sauc: Aba, Tēvs! Tātad tu vairs neesi vergs, bet gan dēls un, ja dēls, tad caur Dievu arī mantinieks.</p>",
+					"atbildesReference": "sal. Gal 4, 4-5; Ef 2, 4; Rom 8, 3",
+					"vers1": "Lūk, jau ir piepildījies laiks, kad Dievs sūtīja savu Dēlu pasaulē, dzimušu no Jaunavas, pakļautu Likumam.",
+					"resp": " Lai izpirktu tos, kas bija zem Likuma varas.",
+					"vers2": "Savas lielās mīlestības dēļ, ar kādu Dievs mūs mīlēja, Viņš atsūtīja savu Dēlu grēcīgas miesas izskatā."
+				},
+				2:{
+					"lasijumstitle": "No svētā pāvesta Pāvila VI uzrunas Vatikāna II koncila trešās sesijas noslēgumā",
+					"lasijumaRef": "(21 novembris 1964: AAS 56 [1964], 1015-1016)" + ai(),
+					"lasijumsNos": "Marija – Baznīcas māte",
+					"lasijumstext": "<p class='paragr'>Ņemdami vērā ciešās saites, kas vieno Mariju un Baznīcu, Vissvētākās Jaunavas godam un mūsu mierinājumam, mēs pasludinām Vissvētāko Mariju par Baznīcas Māti, tas ir, par visas kristīgās tautas – gan ticīgo, gan ganu – Māti, kas Viņu piesauc kā vismīlošāko Māti; un mēs nosakām, ka turpmāk visa kristīgā tauta ar šo vismīļāko vārdu lai arvien vairāk godina Dieva Māti un vērš pie viņas savus lūgumus.</p><p class='paragr'>Godājamie brāļi, šis tituls kristīgajai dievbijībai nebūt nav jauns; patiesi, kristīgie ticīgie un visa Baznīca Mariju vispirms mēdz piesaukt ar Mātes vārdu. Patiesībā šis vārds pieder pašai īstajai dievbijības dabai pret Mariju, jo tas stingri balstās tieši tajā cieņā, ar kādu Marija ir apveltīta kā iemiesotā Dieva Vārda Māte.</p><p class='paragr'>Tāpat kā dievišķā mātišķība ir pamats gan Marijas īpašajām attiecībām ar Kristu, gan viņas klātbūtnei cilvēces pestīšanas darbā, ko piepildīja Kristus Jēzus, tāpat arī attiecības starp Mariju un Baznīcu galvenokārt izriet no dievišķās mātišķības. Marija patiesi ir Kristus Māte, un tieši tajā brīdī, kad Viņš viņas jaunavīgajā klēpī pieņēma cilvēka dabu, Viņš sev kā Galva pievienoja savu Mistisko Miesu, kas ir Baznīca. Tādēļ Marija kā Kristus Māte ir jāuzlūko arī kā visu ticīgo un ganu, tas ir, visas Baznīcas, Māte.</p><p class='paragr'>Te ir iemesls, kāpēc arī mēs, lai gan necienīgi un vāji, tomēr ar paļāvību un dedzīgu bērnu mīlestību paceļam acis uz viņu. Tā, kas mums reiz deva Jēzu, debesu žēlastības avotu, nevar atteikt Baznīcai savu mātišķo palīdzību, jo īpaši šajā laikā, kad Kristus Līgava ar lielāku dedzību cenšas piepildīt savu pestījošo sūtību.</p><p class='paragr'>Šīs visciešākās saites starp mūsu debesu Māti un cilvēku dzimumu mūs mudina šo paļāvību veicināt un vēl vairāk nostiprināt. Kaut arī Dievs viņu apveltīja ar pāri plūstošām un brīnumainām dāvanām, lai darītu viņu cienīgu būt par iemiesotā Vārda Māti, tomēr Marija ir mums ļoti tuva. Tāpat kā mēs, arī viņa ir Ādama bērns un tādēļ mūsu māsa kopīgās cilvēka dabas dēļ; no pirmgrēka traipa viņa tika pasargāta Kristus nākotnes nopelnu dēļ, bet šīm no augšienes saņemtajām dāvanām viņa pievienoja savas pilnīgās ticības piemēru un tā izpelnījās evaņģēlija pasludinājumu: “Svētīga tu esi, kas ticēji.”</p><p class='paragr'>Savā mirstīgajā dzīvē viņa iemiesoja pilnīgu Kristus mācekles veidu, bija visu tikumu spogulis un savā dzīves gaitā pilnīgi atspoguļoja tās svētlaimes, ko pasludināja Kristus Jēzus. Tādēļ vispārējā Baznīca, dzīvodama daudzējādo savu dzīvi un dedzīgi darbodamās, no Jaunavas, Dieva Mātes, smeļas nepārspējamu piemēru, kā pilnīgi sekot Kristum.</p>",
+					"atbildesReference": "sal. Lk 1, 35",
+					"vers1": "Svētais Gars nāca pār Mariju:",
+					"resp": "Visaugstā spēks viņu apēnoja.",
+					"vers2":"Viņš atkal piepildīja viņu kā līdzgaitnieci viņas Dēla ciešanās, kā atpestīto Māti:"
+				}
+			},
+			"SacerdotisAEeterna" : { // Kristus priesteris
+				"himna": himnaKristusPriesteris,
+				"ant1": "Es lūdzu savam Tēvam; Viņš man deva mantojumā tautas.",
+				"ps1": "psalms2",
+				"ant2": "Veltiet savu miesu kā dzīvu, svētu, Dievam patīkamu upuri.",	
+				"ps2": "psalms40",
+				"ant3": "Kristus mīlēja Baznīcu un pats sevi atdeva par to, lai to darītu svētu.",
+				"ps3": "psalms85",
+				"atb1": "Kristus ir upurējis vienu upuri par grēkiem.",
+				"atb2": "Un uz mūžiem padarīja pilnīgus svētdarāmos.",
+				1:{
+					"lasijumstitle": "No vēstules ebrejiem",
+					"lasijumaRef": "4, 14 – 5, 10",
+					"lasijumsNos": "Jēzus Kristus – Augstais Priesteris",
+					"lasijumstext": "<p class='paragr'>Brāļi! Tā kā mums ir liels augstais priesteris, kas nācis caur debesīm, Jēzus, Dieva dēls, tad turēsimies pie ticības apliecinājuma. Mums augstais priesteris nav tāds, kas nevar just līdzi mūsu nespēkam, viņš, tāpat kā mēs, ir visādi kārdināts, bet viņš ir bez grēka. Tad nu ar drošu prātu tuvosimies žēlastības tronim, lai saņemtu žēlsirdību un atrastu žēlastību, kas nāk kā palīdzība īstā brīdī.</p><p class='paragr'>Katrs augstais priesteris, kas izraudzīts cilvēku labā no cilvēku vidus, ir iecelts kalpošanai Dievam – pienest upurdāvanas un upurus par grēkiem. Tāds spēj just līdzi nezinātājiem un maldīgajiem, jo arī pats ir nespēka apņemts. Tādēļ viņam pienākas upurēt gan par tautas, gan par saviem grēkiem.</p><p class='paragr'>Neviens neņem šo godu sev pats, bet tiek Dieva aicināts tāpat kā Ārons. Tā arī Kristus, tapdams par augsto priesteri, nav sevi pagodinājis pats, bet gan tas, kas viņam sacījis: tu esi mans Dēls, šodien es tevi dzemdināju! Tāpat arī citur ir sacīts: tu esi priesteris uz mūžiem pēc Melhisedeka kārtas.</p><p class='paragr'>Kad Kristus savās zemes dzīves dienās ar skaļu kliegšanu un asarām raidīja daudz lūgšanu un saucienu pēc palīdzības tam, kas viņu spēj izglābt no nāves, viņš tika uzklausīts savas padevības dēļ. Un, lai gan viņš bija Dēls, viņš mācījās paklausību ciešanās, un, padarīts pilnīgs, viņš kļuva par mūžīgās pestīšanas avotu visiem tiem, kas viņu paklausa, un Dievs viņu nosauca par augsto priesteri pēc Melhisedeka kārtas.</p>",
+					"atbildesReference":"Flp 2, 8; Is 53, 7",
+					"vers1": "Kristus pazemojās.",
+					"resp": "Kļūdams paklausīgs līdz nāvei.",
+					"vers2": "Viņš tika upurēts, jo pats to gribēja."
+				},
+				2:{
+					"lasijumstitle": "No pāvesta Pija XII enciklikas “Mediator Dei”",
+					"lasijumaRef": "(AAS 39, 1947, pp. 552-553)" + ai(),
+					"lasijumsNos": "Kristus Priesteris un Upuris",
+					"lasijumstext": "<p class='paragr'>Kristus patiesi ir Priesteris, taču Viņš nav Priesteris sevis dēļ, bet mūsu dēļ, jo visas cilvēces vārdā Viņš nes mūžīgajam Tēvam mūsu lūgšanas un dievbijību; Viņš ir arī Upuris, bet Upuris mūsu dēļ, jo grēcinieku vietā Viņš stāda pats sevi.</p><p class='paragr'>Tāpēc apustuļa pamudinājums: “Lai jūsos ir tādas pašas domas kā Kristū Jēzū” prasa, lai visi kristieši, cik vien cilvēkam tas iespējams, sevī nestu tās pašas nostājas, kādas bija dievišķajam Pestītājam, kad Viņš sevi pienesa upurī; tas ir, lai viņi ar pazemīgu sirdi pienestu visaugstajai Dieva majestātei pielūgsmi, godu, slavu un pateicību.</p><p class='paragr'>Turklāt tas prasa, lai viņi zināmā mērā pieņemtu arī upura stāvokli: lai viņi aizliegtos paši sevi, kā to pavēl Evaņģēlijs, lai labprātīgi un no savas gribas darītu gandarīšanu un lai ikviens ienīstu savus grēkus un par tiem gandarītu.</p><p class='paragr'>Vārdu sakot, tas prasa, lai mēs visi kopā ar Kristu izciestu mistisku nāvi uz krusta, tā ka arī mēs varētu sev piemērot svētā Pāvila vārdus: “Es esmu krustā sists kopā ar Kristu.”</p>",
+					"atbildesReference":"sal. Gal 2, 20",
+					"vers1": "Es dzīvoju ticībā Dieva Dēlam.",
+					"resp": "Kas mīlēja mani un par mani atdeva pats sevi.",
+					"vers2": "Dzīvoju vairs ne es, bet manī dzīvo Kristus."
+				}
+			}
+		},
 		1:{//Janvāris
 			17:{ // Sv. Antonijs, abats, piemiņas diena
 				2: {
@@ -8773,6 +9086,50 @@ var officium = { // "UZMANĪBU! Teksts tulkots ar mašīntulku ChatGPT." + svēt
 					"vers1": "Tu būsi it kā mana mute, un tevi Es padarīšu šai tautai par stipru vara mūri.",
 					"resp": "Un viņi cīnīsies pret tevi, bet neuzvarēs, jo Es esmu ar tevi, alleluja.",
 					"vers2": "Būs viltus mācītāji, kuri ieviesīs kaitīgas maldu mācības. Viņi noliegs Kungu, kas viņus izpirka."
+				}
+			},
+			15:{// Vissv. Jaunava Marija no Aglonas, Latvijas galvenā aizbildne
+				"himna": marijai.himna,
+				"ant1": marijai.ant1,
+				"ps1": marijai.ps1,
+				"ant2": marijai.ant2,	
+				"ps2": marijai.ps2,
+				"ant3": marijai.ant3,
+				"ps3": marijai.ps3,
+				"atb1": marijai.atb1,
+				"atb2": marijai.atb2,
+				1:{
+					"lasijumstitle": marijai[1].lasijumstitle,
+					"lasijumaRef": marijai[1].lasijumaRef,
+					"lasijumsNos": marijai[1].lasijumsNos,
+					"lasijumstext": marijai[1].lasijumstext,
+					"atbildesReference": marijai[1].atbildesReference,
+					"vers1": marijai[1].vers1,
+					"resp": marijai[1].resp,
+					"vers2": marijai[1].vers2
+				},
+				2:{
+					"lasijumstitle": marijai[2].lasijumstitle,
+					"lasijumaRef": marijai[2].lasijumaRef,
+					"lasijumsNos": marijai[2].lasijumsNos,
+					"lasijumstext": marijai[2].lasijumstext,
+					"atbildesReference": marijai[2].atbildesReference,
+					"vers1": marijai[2].vers1,
+					"resp": marijai[2].resp,
+					"vers2": marijai[2].vers2
+				}
+			},
+			26:{// Sv. Filips Neri, priesteris, piemiņas diena
+			"himna": lsGaniemPriesterim,
+				2:{
+					"lasijumstitle": "No svētā Augustīna, bīskapa, sprediķiem",
+					"lasijumaRef": "<br>(Sermo 171, 1-3. 5: PL 38, 933-935)" + ai(),
+					"lasijumsNos": "Vienmēr priecājieties Kungā",
+					"lasijumstext": "<p class='paragr'>Apustulis mums saka priecāties, bet Kungā, nevis pasaulē. “Kas grib būt šīs pasaules draugs,” saka Raksti, “tas kļūst Dieva ienaidnieks.” Kā cilvēks nevar kalpot diviem kungiem, tā arī nevar priecāties reizē pasaulē un Kungā.</p><p class='paragr'>Tāpēc lai prieks Kungā valda, līdz pasaules prieka vairs nav. Lai prieks Kungā arvien pieaug; lai prieks pasaulē arvien mazinās, līdz tas izzūd pavisam. Tas nav sacīts tāpēc, ka mums, būdami šajā pasaulē, nebūtu jāpriecājas, bet gan tāpēc, lai pat tad, kamēr vēl esam pasaulē, mēs jau priecātos Kungā.</p><p class='paragr'>Tu varbūt iebildīsi: “Es esmu pasaulē; ja es priecājos, tad noteikti priecājos tur, kur esmu.” Ko tas nozīmē? Vai tu gribi sacīt, ka, būdams pasaulē, tu neesi Kungā? Klausies vēlreiz apustuli, kas tagad runā atēniešiem; Apustuļu darbos viņš par Dievu, mūsu Kungu un Radītāju, saka: “Viņā mēs dzīvojam, kustamies un esam.” Ja Viņš ir visur, kur tad Viņa nav? Tieši to, bez šaubām, apustulis mudināja mūs saprast: “Kungs ir tuvu; ne par ko neraizējieties.”</p><p class='paragr'>Tā ir liela patiesība: Viņš ir uzkāpis pāri visām debesīm, tomēr ir tuvu tiem, kas ir virs zemes. Kas ir šis vienlaikus tālais un tuvējais, ja ne Tas, kurš aiz līdzjūtības kļuva mums par tuvāko?</p><p class='paragr'>Cilvēks, kas gulēja uz ceļa, laupītāju atstāts pusdzīvs, cilvēks, kuru nicināja priesteris un levīts, garām iedami, cilvēks, kuram pienāca klāt garāmejošais samarietis, lai par viņu parūpētos un viņam palīdzētu, – šis cilvēks ir viss cilvēku dzimums. Kad Nemirstīgais, Svētais, bija tālu no mums tādēļ, ka mēs bijām mirstīgi un grēcīgi, Viņš nonāca pie mums, lai Viņš, kas bija tālais, kļūtu mums par tuvāko.</p><p class='paragr'>Viņš neizturējās pret mums tā, kā mūsu grēki bija pelnījuši. Jo tagad mēs esam Dieva bērni. Kā tas izpaužas? Vienīgais Dieva Dēls nomira par mums, lai nepaliktu viens. Viņš, kas nomira kā vienīgais Dēls, negribēja palikt vienīgais Dēls. Jo vienīgais Dieva Dēls darīja daudzus par Dieva bērniem. Viņš ieguva sev brāļus ar savām asinīm; Viņš tos pieņēma, pats būdams atraidīts; Viņš tos atpirka, pats būdams pārdots; Viņš tos pagodināja, pats būdams apkaunots; Viņš tiem deva dzīvību, pats būdams nonāvēts.</p><p class='paragr'>Tāpēc, brāļi, priecājieties Kungā, nevis pasaulē. Tas ir, priecājieties patiesībā, nevis ļaunumā; priecājieties mūžības cerībā, nevis iznīcīgajā tukšības ziedā. Tā ir jāpriecājas. Lai kur tu atrastos virs zemes un cik ilgi tu vēl paliktu virs zemes, “Kungs ir tuvu; ne par ko neraizējieties.”</p>",
+					"atbildesReference":"2 Kor 13, 11; Rom 15, 13a",
+					"vers1": "Brāļi, priecājieties, topiet pilnīgi, iedrošiniet cits citu, esiet vienprātīgi, uzturiet mieru.",
+					"resp": "Un mīlestības un miera Dievs būs ar jums.",
+					"vers2": "Lai cerības Dievs piepilda jūs ar visu prieku un mieru ticībā."
 				}
 			}
 		}

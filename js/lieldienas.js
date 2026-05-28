@@ -7,7 +7,8 @@ var himnaLieldienasVesperes = '<p class="psalms1">Uz Jēra kāzu mielastu<br>mē
 var himnaKungaDebeskapsanaVesperes = '<p class="psalms1">Tu, Jēzu, mūsu Pestītājs<br>it visu karsti ilgotais,<br>Dievs, visumu kas radīji,<br>kā cilvēks laikā ienāci.</p><p class="psalms2">Kāds spēks gan Tevi piespieda,<br>lai mūsu grēkus uzņemtos<br>un ciestu nāvi briesmīgu,<br>lai mūs no nāves izglābtu?</p><p class="psalms1">Tu varens – atver pazemi,<br>lai atbrīvotu taisnīgos;<br>un godā neizteicamā<br>ar Tēvu sēdi debesīs.</p><p class="psalms2">Šis spēks lai Tevi mudina<br>to ļaunumu, kas mūsos, dzēst,<br>ar līksmību mūs piepildīt,<br>kad Tevi vaigā skatām mēs.</p><p class="psalms1">Kungs, esi mūsu līksmība<br>un apsolītā godalga, –<br>lai Tevī mūsu godība,<br>kas saglabājas mūžīgi. Āmen.</p>';
 var himnaKungaDebeskapsanaLaudes = '<p class="psalms1">It visu karsti ilgotā,<br>jau svētā diena atausa,<br>kad Kristus, mūsu cerība,<br>nu uzkāpj debess augstumos.</p><p class="psalms2">Pēc lielās cīņas uzvaras,<br>kad ļauno garu satriecis,<br>nu Tēva priekšā varonis<br>stāv miesā apskaidrotajā.</p><p class="psalms1">Tiek aiznests spožā mākonī<br>un cerību sniedz ticīgiem<br>Viņš, paradīzi atverot,<br>ko mūsu senči aizslēdza.</p><p class="psalms2">Tu visu lielā līksmība,<br>kas dzimis mums no Jaunavas,<br>pēc krusta visām mocībām<br>nu Tēvam blakus apsēdies.</p><p class="psalms1">Lai vienmēr protam pateikties<br>Tam, kas mums devis glābiņu<br>un mūsu miesu aiznesīs<br>uz debess mājām augstumos.</p><p class="psalms2">Lai prieks ar debespulkiem mums<br>ir tagad kopīgs, nedziestošs:<br>prieks debesīs – Viņš atnācis,<br>prieks mums, ka nav mūs atstājis.</p><p class="psalms1">Nu, Kristu, augšā uziedams,<br>pie sevis mūsu sirdis cel,<br>mums Svēto Garu atsūtot,<br>no Tēva, kas caur Tevi nāk. Āmen.</p>';
 
-var himnaLieldienasVesperes2 = '<p class="psalms1">Nāc, Svētais Gars, Dievs Radītājs,<br>Tu žēlastību Dāvātājs.<br>Nāc, mājo mūsu dvēselēs,<br>lai Tavi bērni būtu mēs.</p><p class="psalms2">Par Aizstāvi Tu cildināts,<br>un Dieva tautai dāvināts,<br>Tu dzīves ceļā gaismas stars,<br>dzīvs avots, mīlestības gars.</p><p class="psalms1">Ar septiņveidu dāvanām,<br>vislabā Tēva sūtītām,<br>Tu savus ļaudis stiprini,<br>un Dievu slavēt aicini.</p><p class="psalms2">No Tevis gaismu gribam lūgt,<br>un Tavā mīlestībā būt.<br>Nāc, rādi ceļu cildeno<br>uz dzīves mērķi augstāko.</p><p class="psalms1">Pret ļauno cīņā stiprini<br>un savu mieru dāvini.<br>Mūs vadi, lai Tev sekojam<br>un debess laimi mantojam.</p><p class="psalms2">Mēs ticam Tēvam mūžīgam,<br>un Dieva Dēlam vienīgam,<br>un Garam Visusvētajam,<br>šai Trīsvienībai dievišķai. Āmen.</p>';
+var himnaLieldienasVesperes2 = '<p class="psalms1">Nāc, Svētais Gars, Dievs Radītājs,<br>Tu žēlastību Dāvātājs.<br>Nāc, mājo mūsu dvēselēs,<br>lai Tavi bērni būtu mēs.</p><p class="psalms2">Par Aizstāvi Tu cildināts,<br>un Dieva tautai dāvināts,<br>Tu dzīves ceļā gaismas stars,<br>dzīvs avots, mīlestības gars.</p><p class="psalms1">Ar septiņveidu dāvanām,<br>vislabā Tēva sūtītām,<br>Tu savus ļaudis stiprini,<br>un Dievu slavēt aicini.</p><p class="psalms2">No Tevis gaismu gribam lūgt,<br>un Tavā mīlestībā būt.<br>Nāc, rādi ceļu cildeno<br>uz dzīves mērķi augstāko.</p><p class="psalms1">Pret ļauno cīņā stiprini<br>un savu mieru dāvini.<br>Mūs vadi, lai Tev sekojam<br>un debess laimi mantojam.</p><p class="psalms2">Mums Tēvu saprast palīdzi<br>kā arī Dēlu iepazīt,<br>Tev, Garam, kas no Abiem nāc,<br>uz visiem laikiem ticam mēs. Āmen.</p>';
+
 var himnaLieldienasLaudes2 = himnaKungaDebeskapsanaLaudes;
 }
 {// Dienas Himnas
@@ -764,7 +765,7 @@ var lieldienas = {
 				"lugumi": "Ar paļāvību lūgsim Dievu Tēvu, kas tika pagodināts ar sava Dēla nāvi un augšāmcelšanos:",
 				"resplugums": "- Kungs, apgaismo mūsu prātus!",
 				"lugums": {
-					"lugums1": "Dievs, gaismas Tēvs, Tu pagodināji pasauli ar Kristus augšāmcelšanās godības gaismu, apskaidro šodien mūsus prātus ar ticības gaismu.",
+					"lugums1": "Dievs, gaismas Tēvs, Tu pagodināji pasauli ar Kristus augšāmcelšanās godības gaismu, apskaidro šodien mūsu prātus ar ticības gaismu.",
 					"lugums2": "Tu caur savu augšāmcēlušos Dēlu atvēri cilvēkiem mūžības vārtus, dod mums šodien dienas darbos mūžīgās dzīves cerību.",
 					"lugums3": "Tu caur savu augšāmcelto Dēlu sūtīji pasaulē Svēto Garu, aizdedz mūsu sirdis ar garīgo mīlestības uguni.",
 					"lugums4": "Tu atdevi savu Dēlu nāvei, lai mūs atbrīvotu, dari, lai Viņš šodien būtu mūsu glābiņš un atpestīšana."
@@ -1866,7 +1867,7 @@ var lieldienas = {
 				"ps1": "psalms119XIX",
 				"ps2": "gudr9",
 				"ps3": "psalms117",
-				"ant1": "Vārdi, ko Es jums sacīju, ir gars un dzīvība, aleluja.",
+				"ant1": "Vārdi, ko Es jums sacīju, ir gars un dzīvība, alleluja.",
 				"ant2": "Kungs, Tu esi uzcēlis svētnīcu un altāri uz sava svētā kalna, alleluja.",
 				"ant3": "Es esmu ceļš, patiesība un dzīvība, alleluja.",
 				"lasijumstitle": "LASĪJUMS Rom 14, 7-9",
@@ -2067,7 +2068,7 @@ var lieldienas = {
 				"lugumi": "Ar paļāvību lūgsim Dievu Tēvu, kas tika pagodināts ar sava Dēla nāvi un augšāmcelšanos:",
 				"resplugums": "- Kungs, apgaismo mūsu prātus!",
 				"lugums": {
-					"lugums1": "Dievs, gaismas Tēvs, Tu pagodināji pasauli ar Kristus augšāmcelšanās godības gaismu, apskaidro šodien mūsus prātus ar ticības gaismu.",
+					"lugums1": "Dievs, gaismas Tēvs, Tu pagodināji pasauli ar Kristus augšāmcelšanās godības gaismu, apskaidro šodien mūsu prātus ar ticības gaismu.",
 					"lugums2": "Tu caur savu augšāmcēlušos Dēlu atvēri cilvēkiem mūžības vārtus, dod mums šodien dienas darbos mūžīgās dzīves cerību.",
 					"lugums3": "Tu caur savu augšāmcelto Dēlu sūtīji pasaulē Svēto Garu, aizdedz mūsu sirdis ar garīgo mīlestības uguni.",
 					"lugums4": "Tu atdevi savu Dēlu nāvei, lai mūs atbrīvotu, dari, lai Viņš šodien būtu mūsu glābiņš un atpestīšana."
@@ -2800,7 +2801,7 @@ var lieldienas = {
 				"ps2": "tob13a",
 				"ps3": "psalms33",
 				"ant1": "Tas, kurš nokāpa lejā, ir tas pats, kas uzkāpa augstāk pāri visām debesīm, alleluja!",
-				"ant2": "Lai Dievu teic visi, kas tevī mīt un pateicas Viņam, alleluja!",
+				"ant2": "Rīkojiet svētku dienas un pateicieties Kungam, alleluja!",
 				"ant3": "Zeme ir Kunga žēlsirdības pilna, alleluja.",
 				"lasijumstitle": "LASĪJUMS Apd 13, 30-33",
 				"lasijumstext": "Dievs uzmodināja Jēzu no mirušajiem. Un Viņš daudzas dienas parādījās tiem, kas kopā ar Viņu bija no Galilejas atnākuši uz Jeruzalemi un tagad ir Viņa liecinieki tautas priekšā. Un mēs jums sludinām labo vēsti par apsolījumu, kas bija dots tēviem, ka Dievs to ir izpildījis viņu bērnu, tas ir, mūsu priekšā, uzmodinādams Jēzu. Tā arī ir rakstīts otrajā psalmā: “Tu esi mans Dēls; šodien es tevi dzemdināju.”",
@@ -3056,7 +3057,7 @@ var lieldienas = {
 				"atb1": "Mācekļi priecājās,* alleluja, alleluja.",
 				"atb2": "Ieraudzījuši Kungu.*",
 				"atb3": "Alleluja, alleluja.",
-				"magbenant": "To es jums pateicu, lai mans prieks būtu jūsos un lai jūsu prieks būtu pilnīgs, alleluja.",
+				"magbenant": "To Es jums pateicu, lai mans prieks būtu jūsos un lai jūsu prieks būtu pilnīgs, alleluja.",
 				"lugumi": "Priecīgi slavēsim Kristu, kas kā pirmais cēlās augšā no mirušajiem, un lūgsim:",
 				"resplugums": "- Tu, kas esi augšāmcēlies no mirušajiem, uzklausi mūs!",
 				"lugums": {
@@ -3266,7 +3267,7 @@ var lieldienas = {
 				"ps3": "psalms150",
 				"ant1": "Šī ir diena, ko Kungs ir devis, alleluja!",
 				"ant2": "Esi slavēts, mūsu Dievs, debesu plašumā un teicams uz mūžiem, alleluja.",
-				"ant3": "Pielūdziet Dievu, kas sēž tronī, sacīdami: Āmen, aleluja!",
+				"ant3": "Pielūdziet Dievu, kas sēž tronī, sacīdami: Āmen, alleluja!",
 				"lasijumstitle": "LASĪJUMS Apd 10, 40-43",
 				"lasijumstext": "Dievs uzmodināja Jēzu trešajā dienā un ļāva Viņam parādīties, taču ne visai tautai, bet gan Dieva izvēlētiem lieciniekiem – mums, kas kopā ar Viņu ēdām un dzērām pēc Viņa augšāmcelšanās no mirušajiem. Viņš mums pavēlēja sludināt tautai un liecināt, ka Viņš ir Dieva ieceltais tiesnesis pār dzīviem un mirušiem. Par Viņu liecina visi pravieši, ka ikviens, kas tic Viņam, saņem Viņa vārdā grēku piedošanu.",
 				"atbilde": "responsorijs",
@@ -3370,7 +3371,7 @@ var lieldienas = {
 				"lugumi": "Ar paļāvību lūgsim Dievu Tēvu, kas tika pagodināts ar sava Dēla nāvi un augšāmcelšanos:",
 				"resplugums": "- Kungs, apgaismo mūsu prātus!",
 				"lugums": {
-					"lugums1": "Dievs, gaismas Tēvs, Tu pagodināji pasauli ar Kristus augšāmcelšanās godības gaismu, apskaidro šodien mūsus prātus ar ticības gaismu.",
+					"lugums1": "Dievs, gaismas Tēvs, Tu pagodināji pasauli ar Kristus augšāmcelšanās godības gaismu, apskaidro šodien mūsu prātus ar ticības gaismu.",
 					"lugums2": "Tu caur savu augšāmcēlušos Dēlu atvēri cilvēkiem mūžības vārtus, dod mums šodien dienas darbos mūžīgās dzīves cerību.",
 					"lugums3": "Tu caur savu augšāmcelto Dēlu sūtīji pasaulē Svēto Garu, aizdedz mūsu sirdis ar garīgo mīlestības uguni.",
 					"lugums4": "Tu atdevi savu Dēlu nāvei, lai mūs atbrīvotu, dari, lai Viņš šodien būtu mūsu glābiņš un atpestīšana."
@@ -3522,7 +3523,7 @@ var lieldienas = {
 				"atb1": "Mācekļi priecājās,* alleluja, alleluja.",
 				"atb2": "Ieraudzījuši Kungu.*",
 				"atb3": "Alleluja, alleluja.",
-				"magbenant": "Es jums saku patiesību: tas jums par labu, ka es aizeju; jo, ja es neaiziešu, pie jums neatnāks Iepriecinātājs, alleluja.",
+				"magbenant": "Es jums saku patiesību: tas jums par labu, ka Es aizeju; jo, ja Es neaiziešu, pie jums neatnāks Iepriecinātājs, alleluja.",
 				"lugumi": "Ar neatlaidību piesauksim Kristu, kas ar savu augšāmcelšanos nostiprināja savas tautas cerību:",
 				"resplugums": "- Uzklausi mūs, mūžam dzīvais Kristu!",
 				"lugums": {
@@ -3612,8 +3613,8 @@ var lieldienas = {
 				"ps1": "psalms113",
 				"ps2": "psalms117",
 				"ps3": "atkl11",
-				"ant1": "Es izgāju no Tēva un atnācu pasaulē; es atkal atstāju pasauli un eju pie Tēva, alleluja.",
-				"ant2": "Kungs Jēzus pēc tam, kad bija runājis saviem mācekļiem, uzkāpa debesīs un sēd pie Dieva labās rokas, alleluja.",
+				"ant1": "Es izgāju no Tēva un atnācu pasaulē; Es atkal atstāju pasauli un eju pie Tēva, alleluja.",
+				"ant2": "Kungs Jēzus pēc tam, kad bija runājis saviem mācekļiem, uzkāpa debesīs un sēž pie Dieva labās rokas, alleluja.",
 				"ant3": "Neviens neuziet debesīs, kā vienīgi Cilvēka Dēls, kas nācis no debesīm un kas ir debesīs, alleluja.",
 				"lasijumstitle": "LASĪJUMS Ef 2, 4-6",
 				"lasijumstext": "Dievs, būdams žēlsirdībā bagāts, savas lielās mīlestības dēļ, ar kuru mūs mīlēja, mūs, kas bijām miruši pārkāpumu dēļ, atgrieza dzīvē līdz ar Kristu. Jūs taču aiz žēlastības esat izglābti! Un Dievs Kristū Jēzū mūs kopā ar Viņu piecēla no mirušajiem un nosēdināja debesīs.",
@@ -3621,7 +3622,7 @@ var lieldienas = {
 				"atb1": "Dievs dodas augšup, prieka saucienu pavadīts,* alleluja, alleluja.",
 				"atb2": "Taurēm skanot, Kungs augšup dodas.*",
 				"atb3": "Alleluja, alleluja.",
-				"magbenant": "Tēvs, es Tavu vārdu atklāju cilvēkiem, ko Tu man devi, bet tagad es lūdzu par viņiem, nevis par pasauli, jo es eju pie Tevis, alleluja.",
+				"magbenant": "Tēvs, Es Tavu vārdu atklāju cilvēkiem, ko Tu man devi, bet tagad Es lūdzu par viņiem, nevis par pasauli, jo Es eju pie Tevis, alleluja.",
 				"lugumi": "Ar prieku piesauksim Kristu, kas sēž pie Tēva labās rokas:",
 				"resplugums": "- Kristu, Tu esi godības Ķēniņš!",
 				"lugums": {
@@ -3998,7 +3999,7 @@ var lieldienas = {
 				"lugumi": "Mēs nezinām, ko vajag lūgt, taču pats Svētais Gars aizbilst par mums neizsakāmās nopūtās. Tāpēc teiksim:",
 				"resplugums": "- Lai Svētais Gars aizbilst par mums!",
 				"lugums": {
-					"lugums1": "Kristu, dievišķais Gan, dod gudrību un padomu mūsu ganiem, lai viņi pēc iespējas labāk vestu Tavu ganāmpulku uz pestīšanu.",
+					"lugums1": "Kristu, dievišķais Gans, dod gudrību un padomu mūsu ganiem, lai viņi pēc iespējas labāk vestu Tavu ganāmpulku uz pestīšanu.",
 					"lugums2": "Tu dzīvo augstumos un esi bagāts žēlsirdībā, uzlūko vājos un nabadzīgos, kas dzīvo uz zemes.",
 					"lugums3": "Jaunava Marija Tevi ieņēma, Svētajam Garam viņu apēnojot, sargā konsekrētās jaunavas, lai viņas paliktu uzticīgas savam aicinājumam.",
 					"lugums4": "Mūsu Augstais Priester, Tu slavē Tēvu Svētajā Garā, apvieno visu cilvēci savā slavas upurī.",
@@ -4181,7 +4182,7 @@ var lieldienas = {
 				"atb3": "Alleluja, alleluja.",
 				"magbenant": "Jūs saņemsiet Svētā Gara spēku; un jūs būsiet mani liecinieki visā zemē, alleluja.",
 				"lugumi": "Gods un slava Kristum, kas ticīgos darīja par Svētā Gara līdzdalībniekiem. Sauksim:",
-				"resplugums": "- Kristu, klausi mūs!",
+				"resplugums": "- Kristu, sadzirdi mūs!",
 				"lugums": {
 					"lugums1": "Sūti no sava Tēva Baznīcai Svēto Garu, lai Viņš to šķīstī, nostiprina un paplašina.",
 					"lugums2": "Kungs, vadi ar savu Garu tos, kas pār mums valda, lai viņi būtu Tavi kalpi, kas rūpējas par kopējo labumu.",
@@ -4211,7 +4212,7 @@ var lieldienas = {
 				"atb3": "Alleluja, alleluja.",
 				"magbenant": "Pateicība Dievam, kas mums devis uzvaru caur mūsu Kungu Jēzu Kristu, alleluja!",
 				"lugumi": "Svētais Gars apliecina mūsu garam, ka mēs esam Dieva bērni. Tāpēc, pateikdamies Dievam Tēvam, lūgsimies:",
-				"resplugums": "- Tēvs mūsu, klausies savus bērnus!",
+				"resplugums": "- Tēvs mūsu, sadzirdi savus bērnus!",
 				"lugums": {
 					"lugums1": "Pacietības un iepriecinājuma Dievs, dod mums žēlastību savstarpēji saprasties Jēzū Kristū, lai mēs vienprātīgi vienā balsī godinātu Tevi.",
 					"lugums2": "Palīdzi ikvienam no mums izpatikt savam tuvākajam, lai viņu celtu un virzītu uz labo.",
@@ -4303,7 +4304,7 @@ var lieldienas = {
 				"atb3": "Alleluja, alleluja.",
 				"magbenant": "Ejiet pasaulē un māciet visas tautas, kristīdami tās Tēva un Dēla, un Svētā Gara Vārdā, alleluja.",
 				"lugumi": "Lai ir slavēts Kungs Kristus, caur kuru mēs Svētajā Garā varam nonākt pie Tēva. Lūgsimies:",
-				"resplugums": "- Kristu, klausi mūs!",
+				"resplugums": "- Kristu, sadzirdi mūs!",
 				"lugums": {
 					"lugums1": "Sūti savu Garu, gaidīto dvēseļu viesi, un dod mums žēlastību, nekad Viņu neapbēdināt.",
 					"lugums2": "Tu augšāmcēlies no mirušajiem un sēdi pie Dieva labās rokas, esi arvien mūsu aizbildnis pie Tēva.",
@@ -4369,10 +4370,10 @@ var lieldienas = {
 				"resplugums": "- Kungs, uzlūko visus, ko esi atpestījis!",
 				"lugums": {
 					"lugums1": "Sūti pār Baznīcu vienotības Garu, lai Viņš attālina no tās nevienprātību, ienaidu un šķelšanos.",
-					"lugums2": "Tu atbrīvoji cilvēkus no ļaunā varas, atbrīvo pasauli no ļaunā, kas to nomoca.",
+					"lugums2": "Tu atbrīvoji cilvēkus no ļaunā varas, atbrīvo pasauli no ļaunā, kas to nomoka.",
 					"lugums3": "Tu lūgšanā saņēmi Garu, lai veiktu savu kalpojumu, dari, lai priesteri lūgšanā saņemtu Gara vadību savu pienākumu veikšanai.",
 					"lugums4": "Lai Tavs Gars vada visus priekšniekus, ka viņi gādātu par kopējo labumu.",
-					"lugums5": "Tu, kas dzīvo Tēva godībā, aicini savā godībā mirušos."
+					"lugums5": "Tu dzīvo Tēva godībā, aicini savā godībā mirušos."
 				},
 				"lugsimies": "Kungs, mūsu Dievs, liec, lai Svētais Gars piepilda mūsu dvēseles ar savu dāvanu bagātību, kas mācītu mums saprast, kas Tev patīkams, un palīdzētu vienmēr būt paklausīgiem Tavai gribai. " + noslegums1
 			}
@@ -4387,7 +4388,7 @@ var lieldienas = {
 				"ps3": "psalms100",
 				"ant1": "Kungs, mazgā mani tīru no manas netaisnības, alleluja!",
 				"ant2": "Kristus mūsu grēkus aiznesa savā miesā pie krusta, alleluja!",
-				"ant3": "Kunga vaiga priekšā ar gaviļu saucieniem nāciet, alleluja!",
+				"ant3": "Kunga vaiga priekšā ejiet ar gavilēm, alleluja!",
 				"lasijumstitle": "LASĪJUMS Apd 5, 30-32",
 				"lasijumstext": "Mūsu tēvu Dievs uzmodināja Jēzu, kuru jūs nonāvējāt, piesitot krusta kokā. Dievs Viņu paaugstināja ar savu labo roku par Valdnieku un Pestītāju, lai Izraēlim dotu atgriešanos un grēku piedošanu. Un mēs esam liecinieki šiem vārdiem, kā arī Svētais Gars, ko Dievs deva tiem, kas Viņam paklausa.",
 				"atbilde": "responsorijs",
@@ -4395,7 +4396,7 @@ var lieldienas = {
 				"atb2": "Viņš izpirka mūs pie krusta.*",
 				"atb3": "Alleluja, alleluja.",
 				"magbenant": "Jēzus Kristus ir miris un augšāmcēlies, Viņš ir pie Dieva labās rokas, vienmēr dzīvs būdams, lai mūs aizstāvētu, alleluja.",
-				"lugumi": "Kungs, kuram lai cieņa un gods mūžīgi, darīja, lai mums būtu Svētā Gara cerības un spēka pārpilnība. Lūgsimies:",
+				"lugumi": "Kungam lai gods un slava  mūžīgi, jo Viņš mums pārbagāti dāvāja Svētā Gara cerību un spēku. Lūgsimies:",
 				"resplugums": "- Kungs, palīdzi mums un glāb mūs!",
 				"lugums": {
 					"lugums1": "Visvarenais Tēvs, kas zini, ka mēs esam vāji arī lūdzoties, dod savu Garu, kas aizlūdz par mums.",
@@ -4463,8 +4464,8 @@ var lieldienas = {
 				"lugums": {
 					"lugums1": "Kungs, Tu devi savu Izvēlēto par gaismu pagānu apgaismošanai, atver aklo acis un izved no ieslodzījuma tos, kas sēž tumsībā.",
 					"lugums2": "Tu svaidīji Kristu ar Svētā Gara spēku pestīšanas kalpojumam, dari, lai Viņš vēlreiz pārstaigā zemi, darot visiem labu un visus dziedinot.",
-					"lugums3": "Sūti savu Garu, kas apskaidro sirdis, lai tas nostiprina ticībā tos, kas šaubās.",
-					"lugums4": "Sūti savu Garu, kas dod atpūtu smagā darbā, lai tas uzmundrina nomāktos un tos, kas salauzti garā.",
+					"lugums3": "Sūti savu Garu, kas apskaidro sirdis, lai Tas nostiprina ticībā tos, kas šaubās.",
+					"lugums4": "Sūti savu Garu, kas dod atpūtu smagā darbā, lai Tas uzmundrina nomāktos un tos, kas salauzti garā.",
 					"lugums5" : "Piepildi mirušo cerību, lai, Kristum atnākot, viņi iemantotu miesas augšāmcelšanos."
 				},
 				"lugsimies": "Kungs, mūsu Dievs, Tu esi mums atvēris mūžības vārtus, paaugstinot debesīs Jēzu Kristu un atsūtot mums Svēto Garu, dāvā savu žēlastību, lai mēs būtu stipri ticībā un mīlestībā uz Tevi. " + noslegums1
@@ -4487,14 +4488,14 @@ var lieldienas = {
 				"atb1": "Kungs ir augšāmcēlies no kapa,* alleluja, alleluja.",
 				"atb2": "Viņš izpirka mūs pie krusta.*",
 				"atb3": "Alleluja, alleluja.",
-				"magbenant": "Lūk, es esmu ar jums visās dienās līdz pat pasaules beigām, alleluja.",
+				"magbenant": "Lūk, Es esmu ar jums visās dienās līdz pat pasaules beigām, alleluja.",
 				"lugumi": "Kristīti Svētajā Garā, kopā ar visiem kristītajiem godināsim Kungu un lūgsim Viņu:",
 				"resplugums": "- Kungs Jēzu, svētdari mūs Garā!",
 				"lugums": {
 					"lugums1": "Sūti mums Svēto Garu, lai mēs apliecinātu Tevi ļaudīm par Ķēniņu un Kungu.",
 					"lugums2": "Dod mums mīlestību bez izlikšanās, lai mēs cits citu mīlētu ar brāļu mīlestību.",
 					"lugums3": "Sagatavo ar savu dzīvinošo žēlastību ticīgo dvēseles, lai tās ar prieku pieņemtu Gara dāvanas.",
-					"lugums4": "Dod mums Tava Svētā Gara spēku, lai tas dziedina un stiprina to, kas mūsos ir ievainots."
+					"lugums4": "Dod mums Tava Svētā Gara spēku, lai Tas dziedina un stiprina to, kas mūsos ir ievainots."
 				},
 				"lugsimies": "Visvarenais, mūžīgais Dievs, izskanot Lieldienu laika priecīgajām dienām, mēs nākam pie Tevis savās vajadzībās: palīdzi mums ar savu žēlastību iekārtot un vadīt mūsu dzīvi saskaņā ar ticību Kristus ciešanu un augšāmcelšanās noslēpumam. " + noslegums1
 			},
@@ -4687,7 +4688,7 @@ var lieldienas = {
 					"lugums2": "Tu iedvesi Ādamā dzīvības dvašu, sūti savu Garu Baznīcai, lai tā Viņā dzīvotu, atjaunotos un dzīvinātu pasauli.",
 					"lugums3": "Dod visiem cilvēkiem Tava Gara gaismu un izklīdini mūsu laikmeta tumsu, lai naids pārvērstos par ilgoto mīlestību, sāpes par prieku un karš par mieru.",
 					"lugums4": "Slacini cilvēci ar Tava Gara ūdeni, kas izplūst no Kristus sāna, lai tā atbrīvotu mūsu zemi no visiem ļaunuma ērkšķiem.",
-					"lugums5": "Tu caur Svēto Garu cilvēkus ieved dzīvībā un godībā, ļauj caur Viņu mirušajiem iemantot mīlestības prieku debesu tēvijā."
+					"lugums5": "Tu caur Svēto Garu cilvēkus ieved dzīvībā un godībā, ļauj mirušajiem caur Viņu iemantot mīlestības prieku debesu tēvijā."
 				},
 				"lugsimies": "Visvarenais mūžīgais Dievs, Tu esi vēlējies, lai Lieldienu notikumi noslēgtos ar Svētā Gara atnākšanu, apvieno, lūdzam, Svētajā Garā visdažādāko valodu un cilšu ļaudis savā Baznīcā, lai mēs visi kopā slavētu Tavu vārdu. " + noslegums1
 			}

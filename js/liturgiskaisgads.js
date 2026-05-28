@@ -476,7 +476,8 @@ const rubricella = function() {
     if (gads[d].datums.valueOf() == cal.debeskapsana.valueOf()) {
       sunday = "KUNGA DEBESKĀPŠANA, obligātās svinības";
       gads[d].krasa = "white";
-      gads[d].prior = 5;
+      gads[d].prior = 2;
+	  gads[d].Type = "svētki";
       gads[d].svetki = sunday;
 	  gads[d].vesperesI = true;
 	  gads[d].liturgija = "lieldienas-6-4";
@@ -489,11 +490,15 @@ const rubricella = function() {
     }
 	if (gads[d].datums.valueOf() == cal.kristuspriesteris.valueOf()) {
 		sunday = "MŪSU KUNGS JĒZUS KRISTUS, AUGSTAIS UN MŪŽĪGAIS PRIESTERIS, svētki";
+		gads[d].mobil = true;
+		gads[d].mobilValue = "SacerdotisAEeterna";
 		gads[d].krasa = "white";
 		gads[d].prior = 5;
+		gads[d].Type = "svētki";
 		gads[d].svetki = sunday;
 		gads[d].vesperesI = false;
 		gads[d].liturgija = "festum-0-SacerdotisAEeterna";
+		gads[d].lugsana = "Dievs, Tu savas varenības godam un cilvēces pestīšanai savu viendzimušo Dēlu esi iecēlis par augsto un mūžīgo priesteri. Liec, lai Svētais Gars palīdz tiem, ko Viņš ir izvēlējies par kalpiem un savu noslēpumu dalītājiem, uzticīgi pildīt saņemto kalpojumu. " + noslegums1
     }
     if (gads[d].datums.valueOf() == cal.trisvieniba.valueOf()) {
       sunday = "VISSVĒTĀ TRĪSVIENĪBA, obligātās svinības";
@@ -541,8 +546,11 @@ const rubricella = function() {
     }
     if (gads[d].datums.valueOf() == cal.marijabaznica.valueOf()) {
       sunday = "VISSV. JAUNAVA MARIJA,<br>BAZNĪCAS MĀTE, svētki";
+	  gads[d].mobil = true;
+	  gads[d].mobilValue = "MarijaBaznica";
       gads[d].krasa = "white";
       gads[d].prior = 9;
+	  gads[d].Type = "svētki";
       gads[d].svetki = sunday;
 	  gads[d].vesperesI = false;
 	  gads[d].N = "VISSV. Marija Baznīcas māte",
